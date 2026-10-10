@@ -1,0 +1,84 @@
+# 每天从本仓库最新的 v* Release 下载选题雷达（topic-radar），同步 GitHub / HN / HF Papers / Lobsters 数据，
+# 把 Markdown 选题单写进 radar/，并更新 README 里 <!-- radar:start --> 和 <!-- radar:end --> 之间的内容。
+#
+# 可选：Settings → Variables 里配
+#   RADAR_TOPICS     关键词，逗号分隔，默认 agent,mcp,rust,local-first
+#   RADAR_DAYS       只看最近多少天新建的仓库，默认 30
+#   RADAR_DEEP       细查前多少个仓库，默认 20
+#   RADAR_MIN_STARS / RADAR_MAX_STARS   star 区间，默认 50 / 3000
+name: sync
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # UTC 0 点，北京时间早上 8 点
+  workflow_dispatch:
+    inputs:
+      topics:
+        description: "关键词，逗号分隔；留空用 RADAR_TOPICS 变量"
+        required: false
+        default: ""
+      release:
+        description: "用哪个 Release 的二进制，例：v0.1.0；留空 = 最新"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download topic-radar
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RELEASE: ${{ inputs.release }}
+        run: |
+          mkdir -p "$RUNNER_TEMP/radar"
+          # 不给 tag 时，gh 下载最新的正式 Release
+          gh release download $RELEASE --repo "$GITHUB_REPOSITORY" \
+            --pattern 'topic-radar-*-x86_64-unknown-linux-musl.tar.gz' --dir "$RUNNER_TEMP/radar" --clobber
+          tar -xzf "$RUNNER_TEMP"/radar/topic-radar-*.tar.gz -C "$RUNNER_TEMP/radar"
+          chmod +x "$RUNNER_TEMP/radar/topic-radar"
+          "$RUNNER_TEMP/radar/topic-radar" --version
+          echo "RADAR_BIN=$RUNNER_TEMP/radar/topic-radar" >> "$GITHUB_ENV"
+
+      - name: Run radar
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          RADAR_TOPICS: ${{ inputs.topics || vars.RADAR_TOPICS || 'agent,mcp,rust,local-first' }}
+        run: |
+          "$RADAR_BIN" \
+            --days "${{ vars.RADAR_DAYS || 30 }}" \
+            --deep "${{ vars.RADAR_DEEP || 20 }}" \
+            --min-stars "${{ vars.RADAR_MIN_STARS || 50 }}" \
+            --max-stars "${{ vars.RADAR_MAX_STARS || 3000 }}" \
+            --archive-dir radar --readme README.md
+          {
+            echo "## 选题雷达 $(date -u +%F)"
+            echo
+            sed -n '/^## 今日速览/,/^\*\*目录\*\*/p' radar/latest.md | sed '$d'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add radar README.md
+          if git diff --cached --quiet; then
+            echo "nothing to commit"
+            exit 0
+          fi
+          git commit -m "radar $(date -u +%F)"
+          for i in 1 2 3; do
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && git push && exit 0
+            sleep $((i * 5))
+          done
+          exit 1

@@ -1,0 +1,142 @@
+# 推 v 开头的 tag（例：git tag v0.1.0 && git push origin v0.1.0）时：
+# 检出 craftsail/craftsail-github-sync，把里面的 Rust 选题雷达（topic-radar）编译成各平台二进制，发到本仓库的 Release。
+# sync.yml 每天从最新的 Release 下载二进制来跑。
+#
+# craftsail-github-sync 是私有仓库，用只读 deploy key 检出：私钥在本仓库的 secret SOURCE_REPO_SSH_KEY 里。
+# 可选：Settings → Variables 里配 SOURCE_REF，指定编译哪个分支 / tag / commit，默认 main。
+name: release
+
+on:
+  push:
+    tags: ["v*"]
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "要发布的 tag，必须以 v 开头，例：v0.1.0"
+        required: true
+      source_ref:
+        description: "craftsail-github-sync 的分支 / tag / commit，留空用 SOURCE_REF 变量或 main"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+env:
+  SOURCE_REPO: craftsail/craftsail-github-sync
+  SOURCE_REF: ${{ inputs.source_ref || vars.SOURCE_REF || 'main' }}
+  TAG: ${{ inputs.tag || github.ref_name }}
+  BIN: topic-radar
+
+jobs:
+  build:
+    name: build ${{ matrix.target }}
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - { target: x86_64-unknown-linux-musl, os: ubuntu-latest }
+          - { target: aarch64-unknown-linux-musl, os: ubuntu-24.04-arm }
+          - { target: aarch64-apple-darwin, os: macos-latest }
+          - { target: x86_64-apple-darwin, os: macos-latest }
+          - { target: x86_64-pc-windows-msvc, os: windows-latest }
+    runs-on: ${{ matrix.os }}
+    steps:
+      - name: Check tag
+        shell: bash
+        run: |
+          [[ "$TAG" == v* ]] || { echo "tag 必须以 v 开头：$TAG"; exit 1; }
+
+      - name: Checkout ${{ env.SOURCE_REPO }}
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ env.SOURCE_REPO }}
+          ref: ${{ env.SOURCE_REF }}
+          ssh-key: ${{ secrets.SOURCE_REPO_SSH_KEY }}
+
+      - uses: dtolnay/rust-toolchain@stable
+        with:
+          targets: ${{ matrix.target }}
+
+      - uses: Swatinem/rust-cache@v2
+        with:
+          key: ${{ matrix.target }}
+
+      - name: Install musl tools
+        if: contains(matrix.target, 'musl')
+        run: sudo apt-get update && sudo apt-get install -y musl-tools
+
+      - name: Test
+        # 交叉编译的 x86_64-apple-darwin 在 arm 机器上也能跑，但只在原生目标上测一次就够了
+        if: matrix.target == 'x86_64-unknown-linux-musl'
+        run: cargo test --locked --target ${{ matrix.target }}
+
+      - name: Build
+        run: cargo build --release --locked --target ${{ matrix.target }}
+
+      - name: Package
+        shell: bash
+        run: |
+          git rev-parse HEAD > source-sha.txt
+          name="$BIN-$TAG-${{ matrix.target }}"
+          mkdir -p dist
+          cp README.md dist/ 2>/dev/null || true
+          if [[ "${{ matrix.target }}" == *windows* ]]; then
+            cp "target/${{ matrix.target }}/release/$BIN.exe" dist/
+            (cd dist && 7z a "../$name.zip" .)
+            asset="$name.zip"
+          else
+            cp "target/${{ matrix.target }}/release/$BIN" dist/
+            tar -czf "$name.tar.gz" -C dist .
+            asset="$name.tar.gz"
+          fi
+          if command -v sha256sum >/dev/null; then sha256sum "$asset" > "$asset.sha256"; else shasum -a 256 "$asset" > "$asset.sha256"; fi
+          echo "ASSET=$asset" >> "$GITHUB_ENV"
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ${{ matrix.target }}
+          path: |
+            ${{ env.ASSET }}
+            ${{ env.ASSET }}.sha256
+            source-sha.txt
+          if-no-files-found: error
+
+  release:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          path: dist
+          merge-multiple: true
+
+      - name: Resolve source commit
+        id: src
+        run: |
+          echo "sha=$(cat dist/source-sha.txt)" >> "$GITHUB_OUTPUT"
+          rm dist/source-sha.txt
+
+      - name: Publish release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cat > notes.md <<NOTES
+          选题雷达 \`$BIN\` $TAG
+
+          - 源码：\`$SOURCE_REPO@$SOURCE_REF\`（${{ steps.src.outputs.sha }}）
+          - 每天由 [sync](../../actions/workflows/sync.yml) 下载 \`x86_64-unknown-linux-musl\` 版本运行，结果写进 [radar/](../../tree/${{ github.event.repository.default_branch }}/radar)
+
+          本地用：
+
+          \`\`\`bash
+          gh release download $TAG --repo $GITHUB_REPOSITORY --pattern '*aarch64-apple-darwin.tar.gz'
+          tar -xzf $BIN-$TAG-aarch64-apple-darwin.tar.gz && ./$BIN --help
+          \`\`\`
+          NOTES
+          if gh release view "$TAG" --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1; then
+            gh release upload "$TAG" dist/* --repo "$GITHUB_REPOSITORY" --clobber
+          else
+            gh release create "$TAG" dist/* --repo "$GITHUB_REPOSITORY" \
+              --title "$BIN $TAG" --notes-file notes.md --target "${{ github.sha }}"
+          fi
