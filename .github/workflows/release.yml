@@ -1,5 +1,5 @@
 # 推 v 开头的 tag（例：git tag v0.1.0 && git push origin v0.1.0）时：
-# 检出 craftsail/craftsail-github-sync，把里面的 Rust 选题雷达（topic-radar）编译成各平台二进制，发到本仓库的 Release。
+# 检出 craftsail/craftsail-github-sync，把里面的 Rust 选题雷达（early-radar）编译成各平台二进制，发到本仓库的 Release。
 # sync.yml 每天从最新的 Release 下载二进制来跑。
 #
 # craftsail-github-sync 是私有仓库，用只读 deploy key 检出：私钥在本仓库的 secret SOURCE_REPO_SSH_KEY 里。
@@ -26,7 +26,7 @@ env:
   SOURCE_REPO: craftsail/craftsail-github-sync
   SOURCE_REF: ${{ inputs.source_ref || vars.SOURCE_REF || 'main' }}
   TAG: ${{ inputs.tag || github.ref_name }}
-  BIN: topic-radar
+  BIN: early-radar
 
 jobs:
   build:

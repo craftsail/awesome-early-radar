@@ -1,0 +1,7 @@
+# 已经写过、做过视频的仓库：选题单里标 ✅，不再推荐，也不复盘。
+# 一行一个 owner/repo，或者 owner/* 表示这个作者的全部。
+
+# 2026-10-10 ai-agent-radar
+QingYunA/answer-me-with-html
+Jakeschincariol/replica-skill
+storytold/*

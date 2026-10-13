@@ -1,8 +1,6 @@
-# Awesome Starter GitHub
+# Awesome Early Radar
 
-每天更新的 GitHub 新项目观察：**新建不久、还不太火、但正在涨**的仓库，加上 Show HN、Hugging Face 热门论文和 Lobsters 上值得一看的东西。
-
-每个仓库都标了它现在处在什么位置：
+每天更新：**还没火、正在涨**的 GitHub 新仓库，加上不看关键词的爆发榜、Hugging Face 新上热门的模型、Show HN、HF 热门论文和 Lobsters。雷达记得报过什么，14 天后会回头复盘：当初的判断准不准、比 HN 早了几天。
 
 | 标记 | 意思 |
 | --- | --- |
@@ -10,7 +8,14 @@
 | 🟡 在降温 | 增速在放缓 |
 | 🔵 已被发现 | HN 上已经火过 |
 | 💤 不活跃 | 两周没有提交 |
-| 🔴 先核对 | star 增长的形状可疑，先人工看一眼 |
+| 🔴 先核对 | star 增长的形状少见，先人工看一眼；只是提醒，不是结论 |
+| 🚀 爆发 | 14 天内每天涨 200 星以上，或者比上次多 400 |
+| 🆕 | 今天第一次出现 |
+| ✅ | 已经写过 |
+
+- [今天的完整选题单](radar/latest.md) · [历史](radar/README.md)
+- 原来叫 awesome-starter-github：不只看 GitHub 了，就改了名字。旧链接会自动跳到这里
+- 每天由 `early-radar` 生成（二进制在 [Releases](../../releases)）
 
 <!-- radar:start -->
 

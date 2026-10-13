@@ -1,5 +1,7 @@
-# 每天从本仓库最新的 v* Release 下载选题雷达（topic-radar），同步 GitHub / HN / HF Papers / Lobsters 数据，
+# 每天从本仓库最新的 v* Release 下载选题雷达（early-radar），同步 GitHub / HN / HF Papers / Lobsters 数据，
 # 把 Markdown 选题单写进 radar/，并更新 README 里 <!-- radar:start --> 和 <!-- radar:end --> 之间的内容。
+# radar/state.json 是雷达的记忆（上次的 star、HF 榜单、报过的仓库、复盘），和选题单一起提交；删掉它 = 从头开始。
+# radar/known.txt 是已经写过的仓库，一行一个 owner/repo 或 owner/*：选题单里标 ✅，不再推荐，也不复盘。
 #
 # 可选：Settings → Variables 里配
 #   RADAR_TOPICS     关键词，逗号分隔，默认 agent,mcp,rust,local-first
@@ -36,7 +38,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Download topic-radar
+      - name: Download early-radar
         env:
           GH_TOKEN: ${{ github.token }}
           RELEASE: ${{ inputs.release }}
@@ -44,11 +46,11 @@ jobs:
           mkdir -p "$RUNNER_TEMP/radar"
           # 不给 tag 时，gh 下载最新的正式 Release
           gh release download $RELEASE --repo "$GITHUB_REPOSITORY" \
-            --pattern 'topic-radar-*-x86_64-unknown-linux-musl.tar.gz' --dir "$RUNNER_TEMP/radar" --clobber
-          tar -xzf "$RUNNER_TEMP"/radar/topic-radar-*.tar.gz -C "$RUNNER_TEMP/radar"
-          chmod +x "$RUNNER_TEMP/radar/topic-radar"
-          "$RUNNER_TEMP/radar/topic-radar" --version
-          echo "RADAR_BIN=$RUNNER_TEMP/radar/topic-radar" >> "$GITHUB_ENV"
+            --pattern 'early-radar-*-x86_64-unknown-linux-musl.tar.gz' --dir "$RUNNER_TEMP/radar" --clobber
+          tar -xzf "$RUNNER_TEMP"/radar/early-radar-*.tar.gz -C "$RUNNER_TEMP/radar"
+          chmod +x "$RUNNER_TEMP/radar/early-radar"
+          "$RUNNER_TEMP/radar/early-radar" --version
+          echo "RADAR_BIN=$RUNNER_TEMP/radar/early-radar" >> "$GITHUB_ENV"
 
       - name: Run radar
         env:
@@ -60,6 +62,7 @@ jobs:
             --deep "${{ vars.RADAR_DEEP || 20 }}" \
             --min-stars "${{ vars.RADAR_MIN_STARS || 50 }}" \
             --max-stars "${{ vars.RADAR_MAX_STARS || 3000 }}" \
+            --state radar/state.json --known radar/known.txt \
             --archive-dir radar --readme README.md
           {
             echo "## 选题雷达 $(date -u +%F)"
