@@ -19,31 +19,32 @@
 
 <!-- radar:start -->
 
-### 最新一期：2026-10-17
+### 最新一期：2026-10-18
 
-[完整选题单](radar/latest.md) · [历史](radar/README.md) · 候选 112 个，细查 20 个，🟢 窗口内 5 个
+[完整选题单](radar/latest.md) · [历史](radar/README.md) · 候选 111 个，细查 20 个，🟢 窗口内 5 个
 
 | 分 | 判断 | 仓库 | 一句话 | star | 近 7 天 |
 | ---: | --- | --- | --- | ---: | ---: |
-| 95.6 | 🟢 窗口内 | [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) | Let an AI model use a real iPhone with a $7 ESP32: AirPlay e… | 2882 | +2882 |
-| 91.9 | ✅ 🟢 窗口内 | [storytold/figcraft](https://github.com/storytold/figcraft) | FigCraft: interface design and prototyping; an open-source,… | 2110 | +2109 |
-| 88.1 | 🟢 窗口内 | [academa-labs/manimgx](https://github.com/academa-labs/manimgx) | The animation engine for agents: blazingly fast math and 3D… | 1632 | +1543 |
-| 86.7 | 🟢 窗口内 | [opengeos/RustGIS](https://github.com/opengeos/RustGIS) | A fast, free and open-source GIS in pure Rust. | 1370 | +1370 |
-| 76.8 | 🟢 窗口内 | [marclou/mailcheap](https://github.com/marclou/mailcheap) | Newsletters where you pay for the emails you send, not for d… | 1173 | +601 |
-| 71.4 | ✅ 🟡 在降温 | [Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill) | Eleven free Claude skills that clone any app: reverse-engine… | 2941 | +1255 |
-| 61 | 🟡 在降温 | [HelixDB/helix-foundry](https://github.com/HelixDB/helix-foundry) | Your company's data, connected into one ontology, on your ow… | 1514 | +446 |
-| 60.8 | 🟡 在降温 | [feitangyuan/onetake](https://github.com/feitangyuan/onetake) | Motion films that never cut to the next slide: every beat gr… | 2541 | +437 |
-| 55.1 | 🟡 在降温 | [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) | AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining A… | 2082 | +246 |
-| 53.1 | 🟡 在降温 | [dzhng/jevgrep](https://github.com/dzhng/jevgrep) | Find code by asking what it does. A CLI for coding agents th… | 2755 | +201 |
+| 93.8 | ✅ 🟢 窗口内 | [storytold/figcraft](https://github.com/storytold/figcraft) | FigCraft: interface design and prototyping; an open-source,… | 2482 | +2481 |
+| 87.8 | 🟢 窗口内 | [opengeos/RustGIS](https://github.com/opengeos/RustGIS) | A fast, free and open-source GIS in pure Rust. | 1505 | +1503 |
+| 83.7 | 🟢 窗口内 | [academa-labs/manimgx](https://github.com/academa-labs/manimgx) | The animation engine for agents: blazingly fast math and 3D… | 1722 | +1066 |
+| 78.5 | 🟢 窗口内 | [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) | Ears for coding agents: let AI hear, review and make sound.… | 694 | +694 |
+| 76.9 | 🆕 🟢 窗口内 | [jwuthri-cloud/Tracely-ai](https://github.com/jwuthri-cloud/Tracely-ai) | Trace-native CI/CD for AI agents: grade production traces, c… | 938 | +606 |
+| 61 | 🟡 在降温 | [feitangyuan/onetake](https://github.com/feitangyuan/onetake) | Motion films that never cut to the next slide: every beat gr… | 2600 | +446 |
+| 60.5 | 🟡 在降温 | [marclou/mailcheap](https://github.com/marclou/mailcheap) | Newsletters where you pay for the emails you send, not for d… | 1210 | +425 |
+| 60.1 | 🟡 在降温 | [oil-oil/oil-ui](https://github.com/oil-oil/oil-ui) | UI design skill for Claude Code, Codex and other AI agents:… | 1696 | +407 |
+| 58.2 | 🟡 在降温 | [HelixDB/helix-foundry](https://github.com/HelixDB/helix-foundry) | Your company's data, connected into one ontology, on your ow… | 1584 | +336 |
+| 57.9 | 🟡 在降温 | [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) | AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining A… | 2197 | +325 |
 
-**🚀 爆发**：[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) 每天 +1612 · [openai/math](https://github.com/openai/math) 每天 +1466 · [storytold/wordcraft](https://github.com/storytold/wordcraft) 每天 +1397 · [chenglou/handwired](https://github.com/chenglou/handwired) 每天 +764 · [jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile) 每天 +741
+**🚀 爆发**：[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) 每天 +1566 · [openai/math](https://github.com/openai/math) 每天 +1342 · [storytold/wordcraft](https://github.com/storytold/wordcraft) 每天 +1303 · [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) 每天 +425 · [google-research/harness2](https://github.com/google-research/harness2) 每天 +150
 
-**趋势**：`claude-code` 22 个 · `ai-agents` 22 个 · `llm` 17 个 · `codex` 16 个 · `agent-skills` 13 个 · `macos` 13 个
+**趋势**：`claude-code` 20 个 · `ai-agents` 20 个 · `llm` 19 个 · `codex` 13 个 · `macos` 13 个 · `agent-skills` 12 个
 
-### 最近 8 期
+### 最近 9 期
 
 | 日期 | 候选 | 🆕 | 🟢 窗口内 | 🚀 爆发 | 头条 |
 | --- | ---: | ---: | ---: | ---: | --- |
+| [2026-10-18](radar/2026/10/2026-10-18.md) | 111 | 6 | 5 | 15 | [storytold/figcraft](https://github.com/storytold/figcraft) |
 | [2026-10-17](radar/2026/10/2026-10-17.md) | 112 | 5 | 5 | 15 | [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) |
 | [2026-10-16](radar/2026/10/2026-10-16.md) | 112 | 6 | 7 | 15 | [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) |
 | [2026-10-15](radar/2026/10/2026-10-15.md) | 111 | 5 | 8 | 15 | [storytold/soundcraft](https://github.com/storytold/soundcraft) |
