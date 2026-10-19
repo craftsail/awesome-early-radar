@@ -4,6 +4,7 @@
 
 | 日期 | 候选 | 🆕 | 🟢 窗口内 | 🚀 爆发 | 头条 |
 | --- | ---: | ---: | ---: | ---: | --- |
+| [2026-10-19](2026/10/2026-10-19.md) | 109 | 8 | 6 | 15 | [storytold/figcraft](https://github.com/storytold/figcraft) |
 | [2026-10-18](2026/10/2026-10-18.md) | 111 | 6 | 5 | 15 | [storytold/figcraft](https://github.com/storytold/figcraft) |
 | [2026-10-17](2026/10/2026-10-17.md) | 112 | 5 | 5 | 15 | [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) |
 | [2026-10-16](2026/10/2026-10-16.md) | 112 | 6 | 7 | 15 | [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) |

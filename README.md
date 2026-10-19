@@ -19,31 +19,32 @@
 
 <!-- radar:start -->
 
-### 最新一期：2026-10-18
+### 最新一期：2026-10-19
 
-[完整选题单](radar/latest.md) · [历史](radar/README.md) · 候选 111 个，细查 20 个，🟢 窗口内 5 个
+[完整选题单](radar/latest.md) · [历史](radar/README.md) · 候选 109 个，细查 20 个，🟢 窗口内 6 个
 
 | 分 | 判断 | 仓库 | 一句话 | star | 近 7 天 |
 | ---: | --- | --- | --- | ---: | ---: |
-| 93.8 | ✅ 🟢 窗口内 | [storytold/figcraft](https://github.com/storytold/figcraft) | FigCraft: interface design and prototyping; an open-source,… | 2482 | +2481 |
-| 87.8 | 🟢 窗口内 | [opengeos/RustGIS](https://github.com/opengeos/RustGIS) | A fast, free and open-source GIS in pure Rust. | 1505 | +1503 |
-| 83.7 | 🟢 窗口内 | [academa-labs/manimgx](https://github.com/academa-labs/manimgx) | The animation engine for agents: blazingly fast math and 3D… | 1722 | +1066 |
-| 78.5 | 🟢 窗口内 | [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) | Ears for coding agents: let AI hear, review and make sound.… | 694 | +694 |
-| 76.9 | 🆕 🟢 窗口内 | [jwuthri-cloud/Tracely-ai](https://github.com/jwuthri-cloud/Tracely-ai) | Trace-native CI/CD for AI agents: grade production traces, c… | 938 | +606 |
-| 61 | 🟡 在降温 | [feitangyuan/onetake](https://github.com/feitangyuan/onetake) | Motion films that never cut to the next slide: every beat gr… | 2600 | +446 |
-| 60.5 | 🟡 在降温 | [marclou/mailcheap](https://github.com/marclou/mailcheap) | Newsletters where you pay for the emails you send, not for d… | 1210 | +425 |
-| 60.1 | 🟡 在降温 | [oil-oil/oil-ui](https://github.com/oil-oil/oil-ui) | UI design skill for Claude Code, Codex and other AI agents:… | 1696 | +407 |
-| 58.2 | 🟡 在降温 | [HelixDB/helix-foundry](https://github.com/HelixDB/helix-foundry) | Your company's data, connected into one ontology, on your ow… | 1584 | +336 |
-| 57.9 | 🟡 在降温 | [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) | AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining A… | 2197 | +325 |
+| 94.7 | ✅ 🟢 窗口内 | [storytold/figcraft](https://github.com/storytold/figcraft) | FigCraft: interface design and prototyping; an open-source,… | 2677 | +2673 |
+| 85.4 | 🟢 窗口内 | [opengeos/RustGIS](https://github.com/opengeos/RustGIS) | A fast, free and open-source GIS in pure Rust. | 1604 | +1230 |
+| 81.5 | 🟢 窗口内 | [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) | Ears for coding agents: let AI hear, review and make sound.… | 886 | +886 |
+| 80 | 🆕 🟢 窗口内 | [LiCinCan/blender-ai-mcp-addon](https://github.com/LiCinCan/blender-ai-mcp-addon) | AI assistant and MCP server for Blender: visual chat, scene… | 788 | +788 |
+| 76.2 | 🟢 窗口内 | [jwuthri-cloud/Tracely-ai](https://github.com/jwuthri-cloud/Tracely-ai) | Trace-native CI/CD for AI agents: grade production traces, c… | 1033 | +570 |
+| 73 | 🆕 🟢 窗口内 | [reason-machines/reason-network](https://github.com/reason-machines/reason-network) | Reason Network: your team's coding agents, talking to each o… | 438 | +438 |
+| 66.8 | 🟡 在降温 | [academa-labs/manimgx](https://github.com/academa-labs/manimgx) | The animation engine for agents: blazingly fast math and 3D… | 1819 | +795 |
+| 59.9 | 🟡 在降温 | [marclou/mailcheap](https://github.com/marclou/mailcheap) | Newsletters where you pay for the emails you send, not for d… | 1237 | +400 |
+| 57.6 | 🟡 在降温 | [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) | AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining A… | 2237 | +316 |
+| 55.9 | 🟡 在降温 | [HelixDB/helix-foundry](https://github.com/HelixDB/helix-foundry) | Your company's data, connected into one ontology, on your ow… | 1613 | +266 |
 
-**🚀 爆发**：[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) 每天 +1566 · [openai/math](https://github.com/openai/math) 每天 +1342 · [storytold/wordcraft](https://github.com/storytold/wordcraft) 每天 +1303 · [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) 每天 +425 · [google-research/harness2](https://github.com/google-research/harness2) 每天 +150
+**🚀 爆发**：[google-research/harness2](https://github.com/google-research/harness2) 每天 +599 · [Gathin23/tv-vibehack](https://github.com/Gathin23/tv-vibehack) 每天 +1267 · [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) 每天 +520 · [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) 每天 +1507 · [openai/math](https://github.com/openai/math) 每天 +1237
 
-**趋势**：`claude-code` 20 个 · `ai-agents` 20 个 · `llm` 19 个 · `codex` 13 个 · `macos` 13 个 · `agent-skills` 12 个
+**趋势**：`claude-code` 22 个 · `llm` 20 个 · `ai-agents` 18 个 · `codex` 15 个 · `agent-skills` 12 个 · `mcp-server` 12 个
 
-### 最近 9 期
+### 最近 10 期
 
 | 日期 | 候选 | 🆕 | 🟢 窗口内 | 🚀 爆发 | 头条 |
 | --- | ---: | ---: | ---: | ---: | --- |
+| [2026-10-19](radar/2026/10/2026-10-19.md) | 109 | 8 | 6 | 15 | [storytold/figcraft](https://github.com/storytold/figcraft) |
 | [2026-10-18](radar/2026/10/2026-10-18.md) | 111 | 6 | 5 | 15 | [storytold/figcraft](https://github.com/storytold/figcraft) |
 | [2026-10-17](radar/2026/10/2026-10-17.md) | 112 | 5 | 5 | 15 | [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) |
 | [2026-10-16](radar/2026/10/2026-10-16.md) | 112 | 6 | 7 | 15 | [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) |
