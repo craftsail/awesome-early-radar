@@ -19,31 +19,32 @@
 
 <!-- radar:start -->
 
-### 最新一期：2026-10-21
+### 最新一期：2026-10-22
 
-[完整选题单](radar/latest.md) · [历史](radar/README.md) · 候选 108 个，细查 20 个，🟢 窗口内 10 个
+[完整选题单](radar/latest.md) · [历史](radar/README.md) · 候选 106 个，细查 20 个，🟢 窗口内 10 个
 
 | 分 | 判断 | 仓库 | 一句话 | star | 近 7 天 |
 | ---: | --- | --- | --- | ---: | ---: |
-| 91.1 | 🟢 窗口内 | [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) | Ears for coding agents: let AI hear, review and make sound.… | 1983 | +1983 |
-| 90.5 | ✅ 🟢 窗口内 | [storytold/figcraft](https://github.com/storytold/figcraft) | FigCraft: interface design and prototyping; an open-source,… | 2964 | +1888 |
-| 85.9 | 🟢 窗口内 | [feder-cr/git-ai](https://github.com/feder-cr/git-ai) | Git designed for AI agents. | 1289 | +1289 |
-| 85 | 🟢 窗口内 | [aicodeking/leanrea](https://github.com/aicodeking/leanrea) | One 8 KB skill that replaces REA (Reverse Engineer Anything)… | 1190 | +1190 |
-| 84.9 | 🟢 窗口内 | [alchaincyf/huashu-motion](https://github.com/alchaincyf/huashu-motion) | 让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch film… | 1178 | +1178 |
-| 82.2 | 🟢 窗口内 | [LiCinCan/blender-ai-mcp-addon](https://github.com/LiCinCan/blender-ai-mcp-addon) | AI assistant and MCP server for Blender: visual chat, scene… | 940 | +940 |
-| 79.3 | 🟢 窗口内 | [reason-machines/reason-network](https://github.com/reason-machines/reason-network) | Reason Network: your team's coding agents, talking to each o… | 742 | +742 |
-| 79 | 🟢 窗口内 | [cranebeaker/coop-anything](https://github.com/cranebeaker/coop-anything) | Co-op Anything: point your AI agent at any single-player gam… | 721 | +721 |
-| 77.8 | 🟢 窗口内 | [zcbacxc/mcd-party-planner](https://github.com/zcbacxc/mcd-party-planner) | 麦当劳 MCP 聚会/团餐组织助手 — 基于 Model Context Protocol 的派对预订与团餐规划 CLI… | 651 | +651 |
-| 71.6 | 🟢 窗口内 | [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) | AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining A… | 2360 | +388 |
+| 90.9 | 🟢 窗口内 | [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) | Ears for coding agents: let AI hear, review and make sound.… | 2061 | +1949 |
+| 86.1 | 🟢 窗口内 | [alchaincyf/huashu-motion](https://github.com/alchaincyf/huashu-motion) | 让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch film… | 1303 | +1303 |
+| 86.1 | 🟢 窗口内 | [aicodeking/leanrea](https://github.com/aicodeking/leanrea) | One 8 KB skill that replaces REA (Reverse Engineer Anything)… | 1307 | +1307 |
+| 82.6 | 🟢 窗口内 | [LiCinCan/blender-ai-mcp-addon](https://github.com/LiCinCan/blender-ai-mcp-addon) | AI assistant and MCP server for Blender: visual chat, scene… | 976 | +976 |
+| 82.2 | 🟢 窗口内 | [reason-machines/reason-network](https://github.com/reason-machines/reason-network) | Reason Network: your team's coding agents, talking to each o… | 943 | +943 |
+| 80.9 | 🟢 窗口内 | [feder-cr/git-ai](https://github.com/feder-cr/git-ai) | Git designed for AI agents. | 922 | +847 |
+| 80.2 | 🟢 窗口内 | [cranebeaker/coop-anything](https://github.com/cranebeaker/coop-anything) | Co-op Anything: point your AI agent at any single-player gam… | 800 | +800 |
+| 79.8 | 🟢 窗口内 | [zcbacxc/mcd-party-planner](https://github.com/zcbacxc/mcd-party-planner) | 麦当劳 MCP 聚会/团餐组织助手 — 基于 Model Context Protocol 的派对预订与团餐规划 CLI… | 790 | +774 |
+| 79.1 | 🟢 窗口内 | [ELY-Open-Source/ElyOffice](https://github.com/ELY-Open-Source/ElyOffice) | Ely Office: offline-first desktop apps in Rust and GPUI | 730 | +730 |
+| 72.8 | 🆕 🟢 窗口内 | [kanaworksai-hue/audio-studio-mcp](https://github.com/kanaworksai-hue/audio-studio-mcp) | Local AI BGM and sound effects for Claude Code and any MCP c… | 429 | +429 |
 
-**🚀 爆发**：[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) 每天 +3396 · [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) 每天 +2943 · [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv) 每天 +1421 · [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) 每天 +1390 · [storytold/wordcraft](https://github.com/storytold/wordcraft) 每天 +1093
+**🚀 爆发**：[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) 每天 +4156 · [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) 每天 +3144 · [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) 每天 +1316 · [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) 每天 +1356 · [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv) 每天 +1191
 
-**趋势**：`claude-code` 22 个 · `llm` 18 个 · `ai-agents` 18 个 · `codex` 15 个 · `ai-agent` 13 个 · `agent-skills` 12 个
+**趋势**：`claude-code` 22 个 · `llm` 16 个 · `ai-agents` 16 个 · `codex` 13 个 · `mcp-server` 13 个 · `agent-skills` 12 个
 
-### 最近 12 期
+### 最近 13 期
 
 | 日期 | 候选 | 🆕 | 🟢 窗口内 | 🚀 爆发 | 头条 |
 | --- | ---: | ---: | ---: | ---: | --- |
+| [2026-10-22](radar/2026/10/2026-10-22.md) | 106 | 8 | 10 | 15 | [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) |
 | [2026-10-21](radar/2026/10/2026-10-21.md) | 108 | 6 | 10 | 15 | [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) |
 | [2026-10-20](radar/2026/10/2026-10-20.md) | 107 | 4 | 8 | 15 | [feder-cr/git-ai](https://github.com/feder-cr/git-ai) |
 | [2026-10-19](radar/2026/10/2026-10-19.md) | 109 | 8 | 6 | 15 | [storytold/figcraft](https://github.com/storytold/figcraft) |
