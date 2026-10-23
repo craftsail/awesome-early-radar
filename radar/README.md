@@ -4,6 +4,7 @@
 
 | 日期 | 候选 | 🆕 | 🟢 窗口内 | 🚀 爆发 | 头条 |
 | --- | ---: | ---: | ---: | ---: | --- |
+| [2026-10-23](2026/10/2026-10-23.md) | 105 | 7 | 10 | 15 | [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) |
 | [2026-10-22](2026/10/2026-10-22.md) | 106 | 8 | 10 | 15 | [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) |
 | [2026-10-21](2026/10/2026-10-21.md) | 108 | 6 | 10 | 15 | [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) |
 | [2026-10-20](2026/10/2026-10-20.md) | 107 | 4 | 8 | 15 | [feder-cr/git-ai](https://github.com/feder-cr/git-ai) |
