@@ -4,6 +4,7 @@
 
 | 日期 | 候选 | 🆕 | 🟢 窗口内 | 🚀 爆发 | 头条 |
 | --- | ---: | ---: | ---: | ---: | --- |
+| [2026-10-26](2026/10/2026-10-26.md) | 106 | 7 | 10 | 15 | [amosblomqvist/learnharness](https://github.com/amosblomqvist/learnharness) |
 | [2026-10-25](2026/10/2026-10-25.md) | 106 | 6 | 10 | 15 | [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) |
 | [2026-10-24](2026/10/2026-10-24.md) | 105 | 5 | 9 | 15 | [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) |
 | [2026-10-23](2026/10/2026-10-23.md) | 105 | 7 | 10 | 15 | [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) |
