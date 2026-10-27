@@ -19,31 +19,34 @@
 
 <!-- radar:start -->
 
-### 最新一期：2026-10-26
+### 最新一期：2026-10-27
 
-[完整选题单](radar/latest.md) · [历史](radar/README.md) · 候选 106 个，细查 20 个，🟢 窗口内 10 个
+[完整选题单](radar/latest.md) · [历史](radar/README.md) · 候选 107 个，细查 20 个，🟢 窗口内 8 个
 
 | 分 | 判断 | 仓库 | 一句话 | star | 近 7 天 |
 | ---: | --- | --- | --- | ---: | ---: |
-| 89.5 | 🟢 窗口内 | [amosblomqvist/learnharness](https://github.com/amosblomqvist/learnharness) | Agent harness for learning difficult things. | 1750 | +1735 |
-| 88.5 | 🟢 窗口内 | [aicodeking/leanrea](https://github.com/aicodeking/leanrea) | One 8 KB skill that replaces REA (Reverse Engineer Anything)… | 2621 | +1592 |
-| 87.2 | 🟢 窗口内 | [yeqv111/mccarbon](https://github.com/yeqv111/mccarbon) | 麦麦碳账本 · 基于麦当劳 MCP 的个人餐饮碳足迹估算与减排模拟器 / Personal dining carbon… | 1942 | +1435 |
-| 84.5 | 🟢 窗口内 | [zcbacxc/mcd-party-planner](https://github.com/zcbacxc/mcd-party-planner) | 麦当劳 MCP 聚会/团餐组织助手 — 基于 Model Context Protocol 的派对预订与团餐规划 CLI… | 1599 | +1146 |
-| 80.6 | 🟢 窗口内 | [Sam-Hui-dot/mcd-budget-meal](https://github.com/Sam-Hui-dot/mcd-budget-meal) | 麦麦预算餐：基于麦当劳 MCP 的真实核价、预算比较与餐品替换 Skill | 1441 | +826 |
-| 80 | 🟢 窗口内 | [cranebeaker/coop-anything](https://github.com/cranebeaker/coop-anything) | Co-op Anything: point your AI agent at any single-player gam… | 1384 | +782 |
-| 79.2 | 🟢 窗口内 | [reason-machines/reason-network](https://github.com/reason-machines/reason-network) | Reason Network: your team's coding agents, talking to each o… | 1242 | +734 |
-| 78.8 | 🟢 窗口内 | [ELY-Open-Source/ElyOffice](https://github.com/ELY-Open-Source/ElyOffice) | Ely Office: offline-first desktop apps in Rust and GPUI | 1002 | +710 |
-| 78 | 🟢 窗口内 | [zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar) | Daily radar for new AI terms: names of new models, products… | 1794 | +663 |
-| 76.8 | 🟢 窗口内 | [torrentplayer/torrentplayer](https://github.com/torrentplayer/torrentplayer) | Stream any torrent, video or audio, and skip to any moment i… | 603 | +603 |
+| 93.6 | 🟢 窗口内 | [amosblomqvist/learnharness](https://github.com/amosblomqvist/learnharness) | Agent harness for learning difficult things. | 2458 | +2441 |
+| 93 | 🆕 🟢 窗口内 | [ludovic111/horizon](https://github.com/ludovic111/horizon) | Minecraft: Java Edition 26.3 rewritten from scratch in Rust,… | 2534 | +2329 |
+| 86.5 | 🟢 窗口内 | [yeqv111/mccarbon](https://github.com/yeqv111/mccarbon) | 麦麦碳账本 · 基于麦当劳 MCP 的个人餐饮碳足迹估算与减排模拟器 / Personal dining carbon… | 1932 | +1349 |
+| 85.4 | 🟢 窗口内 | [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust) | Agent Skills that teach coding agents to write, review, and… | 1235 | +1235 |
+| 83.8 | 🟢 窗口内 | [zcbacxc/mcd-party-planner](https://github.com/zcbacxc/mcd-party-planner) | 麦当劳 MCP 聚会/团餐组织助手 — 基于 Model Context Protocol 的派对预订与团餐规划 CLI… | 1653 | +1075 |
+| 78.2 | 🟢 窗口内 | [torrentplayer/torrentplayer](https://github.com/torrentplayer/torrentplayer) | Stream any torrent, video or audio, and skip to any moment i… | 674 | +674 |
+| 76.5 | 🆕 🟢 窗口内 | [indexable-inc/blaze](https://github.com/indexable-inc/blaze) | Incremental rust builds up to 92x faster than cargo/rustc | 756 | +588 |
+| 74.9 | 🟢 窗口内 | [trhhubsd/ARTEX](https://github.com/trhhubsd/ARTEX) | ARTEX · AI autonomous penetration testing system (multi-agen… | 2001 | +513 |
+| 68.6 | 🟡 在降温 | [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) | Ears for coding agents: let AI hear, review and make sound.… | 2940 | +948 |
+| 65.9 | 🟡 在降温 | [cranebeaker/coop-anything](https://github.com/cranebeaker/coop-anything) | Co-op Anything: point your AI agent at any single-player gam… | 1450 | +724 |
 
-**🚀 爆发**：[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) 每天 +4058 · [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) 每天 +897 · [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) 每天 +2289 · [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada) 每天 +1276 · [seedds/nxnative](https://github.com/seedds/nxnative) 每天 +346
+**🚀 爆发**：[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) 每天 +4029 · [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) 每天 +1100 · [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) 每天 +2127 · [seedds/nxnative](https://github.com/seedds/nxnative) 每天 +462 · [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada) 每天 +1185
 
-**趋势**：`claude-code` 27 个 · `ai-agents` 20 个 · `codex` 18 个 · `llm` 16 个 · `agent-skills` 15 个 · `mcp-server` 13 个
+**复盘**（最近 60 天，起来了 / 复盘了）：🚀 爆发 1/3 · 🔴 先核对 3/4 · 🟡 在降温 0/4 · 🔵 已被发现 0/2 · 🟢 窗口内 4/6
+
+**趋势**：`claude-code` 25 个 · `ai-agents` 20 个 · `agent-skills` 16 个 · `codex` 16 个 · `llm` 16 个 · `claude-skills` 11 个
 
 ### 最近 14 期
 
 | 日期 | 候选 | 🆕 | 🟢 窗口内 | 🚀 爆发 | 头条 |
 | --- | ---: | ---: | ---: | ---: | --- |
+| [2026-10-27](radar/2026/10/2026-10-27.md) | 107 | 8 | 8 | 15 | [amosblomqvist/learnharness](https://github.com/amosblomqvist/learnharness) |
 | [2026-10-26](radar/2026/10/2026-10-26.md) | 106 | 7 | 10 | 15 | [amosblomqvist/learnharness](https://github.com/amosblomqvist/learnharness) |
 | [2026-10-25](radar/2026/10/2026-10-25.md) | 106 | 6 | 10 | 15 | [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) |
 | [2026-10-24](radar/2026/10/2026-10-24.md) | 105 | 5 | 9 | 15 | [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) |
@@ -57,6 +60,5 @@
 | [2026-10-16](radar/2026/10/2026-10-16.md) | 112 | 6 | 7 | 15 | [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) |
 | [2026-10-15](radar/2026/10/2026-10-15.md) | 111 | 5 | 8 | 15 | [storytold/soundcraft](https://github.com/storytold/soundcraft) |
 | [2026-10-14](radar/2026/10/2026-10-14.md) | 112 | 1 | 7 | 15 | [ARahim3/DigUp](https://github.com/ARahim3/DigUp) |
-| [2026-10-13](radar/2026/10/2026-10-13.md) | 112 | 0 | 7 | 15 | [storytold/deckcraft](https://github.com/storytold/deckcraft) |
 
 <!-- radar:end -->
