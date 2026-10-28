@@ -4,6 +4,7 @@
 
 | 日期 | 候选 | 🆕 | 🟢 窗口内 | 🚀 爆发 | 头条 |
 | --- | ---: | ---: | ---: | ---: | --- |
+| [2026-10-28](2026/10/2026-10-28.md) | 107 | 4 | 6 | 15 | [indexable-inc/blaze](https://github.com/indexable-inc/blaze) |
 | [2026-10-27](2026/10/2026-10-27.md) | 107 | 8 | 8 | 15 | [amosblomqvist/learnharness](https://github.com/amosblomqvist/learnharness) |
 | [2026-10-26](2026/10/2026-10-26.md) | 106 | 7 | 10 | 15 | [amosblomqvist/learnharness](https://github.com/amosblomqvist/learnharness) |
 | [2026-10-25](2026/10/2026-10-25.md) | 106 | 6 | 10 | 15 | [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) |
