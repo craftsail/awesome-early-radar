@@ -4,6 +4,7 @@
 
 | 日期 | 候选 | 🆕 | 🟢 窗口内 | 🚀 爆发 | 头条 |
 | --- | ---: | ---: | ---: | ---: | --- |
+| [2026-10-30](2026/10/2026-10-30.md) | 107 | 3 | 8 | 15 | [SoMarkAI/OXR](https://github.com/SoMarkAI/OXR) |
 | [2026-10-29](2026/10/2026-10-29.md) | 106 | 7 | 5 | 15 | [xevrion/hatchzip](https://github.com/xevrion/hatchzip) |
 | [2026-10-28](2026/10/2026-10-28.md) | 107 | 4 | 6 | 15 | [indexable-inc/blaze](https://github.com/indexable-inc/blaze) |
 | [2026-10-27](2026/10/2026-10-27.md) | 107 | 8 | 8 | 15 | [amosblomqvist/learnharness](https://github.com/amosblomqvist/learnharness) |

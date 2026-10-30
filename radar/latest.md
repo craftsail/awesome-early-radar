@@ -1,23 +1,23 @@
-# early-radar 选题雷达 · 2026-10-29
+# early-radar 选题雷达 · 2026-10-30
 
 > 从 GitHub、Hacker News、Hugging Face Papers、Lobsters 收来的候选选题，按「正在涨 × 还没被写烂 × 活着 × 可信」打分。
 > 机器只负责找和收；选什么、怎么写、是不是真的好用，是人的事。
 
-**参数**：关键词 `agent` `mcp` `rust` `local-first` · 最近 30 天新建 · star 50–3000 · 候选 106 个，细查前 20 个 · 比上次 = 和 2026-10-28 那次比 · 生成于 2026-10-29 05:23 UTC
+**参数**：关键词 `agent` `mcp` `rust` `local-first` · 最近 30 天新建 · star 50–3000 · 候选 107 个，细查前 20 个 · 比上次 = 和 2026-10-29 那次比 · 生成于 2026-10-30 05:23 UTC
 
-**数据源**：GitHub 搜索 ✅ 4/4 个关键词 · star 历史 ✅ 20/20 · HN 覆盖 ✅ 20/20 · 爆发 ✅ 15 个 · HF 模型 ✅ 新上榜 3 个 · Show HN ✅ 18 条 · HF 论文 ✅ 20 篇 · Lobsters ✅ 20 条 · 复盘 ✅ 5 个
+**数据源**：GitHub 搜索 ✅ 4/4 个关键词 · star 历史 ✅ 20/20 · HN 覆盖 ✅ 20/20 · 爆发 ✅ 15 个 · HF 模型 ✅ 新上榜 2 个 · Show HN ✅ 17 条 · HF 论文 ✅ 20 篇 · Lobsters ✅ 20 条 · 复盘 ✅ 6 个
 
 ## 今日速览
 
-- **细查 20 个仓库**：🟢 窗口内 5 个 · 🟡 在降温 8 个 · 🔵 已被发现 0 个 · 💤 不活跃 1 个 · 🔴 先核对 6 个
-- **今天新出现 3 个**（🆕），其余之前报过
-- **🚀 爆发 15 个**：最快的 [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) 平均每天 +3715，见 [爆发](#爆发)
-- **复盘**：🚀 爆发 5/7 · 🔴 先核对 5/8 · 🟡 在降温 0/5 · 🔵 已被发现 0/2 · 🟢 窗口内 4/7（起来了 / 复盘了，最近 60 天）
+- **细查 20 个仓库**：🟢 窗口内 8 个 · 🟡 在降温 7 个 · 🔵 已被发现 0 个 · 💤 不活跃 1 个 · 🔴 先核对 4 个
+- **今天新出现 2 个**（🆕），其余之前报过
+- **🚀 爆发 15 个**：最快的 [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) 平均每天 +3547，见 [爆发](#爆发)
+- **复盘**：🚀 爆发 6/11 · 🔴 先核对 5/10 · 🟡 在降温 0/5 · 🔵 已被发现 0/2 · 🟢 窗口内 4/7（起来了 / 复盘了，最近 60 天）
 - **最值得今天试的**：
-  - [xevrion/hatchzip](https://github.com/xevrion/hatchzip) — HatchZip is a free, open-source archive extractor for Window…（近 7 天 +2253，比前 7 天快 93.9 倍，在加速）
-  - [indexable-inc/blaze](https://github.com/indexable-inc/blaze) — Incremental rust builds up to 92x faster than cargo/rustc（近 7 天 +1513，比前 7 天快 8.1 倍，在加速）
-  - [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust) — Agent Skills that teach coding agents to write, review, and…（近 7 天 +1373，刚发布一周内）
-- **趋势信号**：带 `claude-code` topic 的新仓库这批里有 21 个（star 合计 24458），代表：[nanaism/yomiyasu](https://github.com/nanaism/yomiyasu)、[oil-oil/oil-ui](https://github.com/oil-oil/oil-ui)、[Jakeschincariol/founder-skill](https://github.com/Jakeschincariol/founder-skill)。一个方向批量出现，比单个项目火不火更值得写
+  - [SoMarkAI/OXR](https://github.com/SoMarkAI/OXR) — An open-source document parsing model with SOTA accuracy and…（近 7 天 +2163，比前 7 天快 5.6 倍，在加速）
+  - [CopilotKit/OpenDuet](https://github.com/CopilotKit/OpenDuet) — An Open Source template for a proactive AI agent that gets y…（近 7 天 +1565，比前 7 天快 1565.0 倍，在加速）
+  - [indexable-inc/blaze](https://github.com/indexable-inc/blaze) — Incremental rust builds up to 92x faster than cargo/rustc（近 7 天 +1552，比前 7 天快 8.1 倍，在加速）
+- **趋势信号**：带 `claude-code` topic 的新仓库这批里有 22 个（star 合计 26419），代表：[nanaism/yomiyasu](https://github.com/nanaism/yomiyasu)、[oil-oil/oil-ui](https://github.com/oil-oil/oil-ui)、[Jakeschincariol/founder-skill](https://github.com/Jakeschincariol/founder-skill)。一个方向批量出现，比单个项目火不火更值得写
 - **前沿论文**：4 篇热门论文带代码、但代码 star 还不到 1000，见 💡
 - **Show HN 本周最高**：[Show HN: Steal My Bitcoin](https://stealmybitcoin.com/) — 623 分
 
@@ -29,21 +29,21 @@
 
 | 仓库 | star | 每天 | 比上次 | 天数 | HN 最高分 | 怎么搜它 | 一句话 |
 | --- | ---: | ---: | ---: | ---: | ---: | --- | --- |
-| [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) | 44141 | 3715 | +1905 | 11.9 | [6](https://news.ycombinator.com/item?id=50164485) | cleanyourtv · gathin23 cleanyourtv · gathin cleanyourtv | Debloat any Android or Google TV over Wi-Fi and get an Apple… |
-| [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | 24010 | 1861 | +534 | 12.9 | [2353](https://news.ycombinator.com/item?id=50163277) | deepinfer · deepseek-ai deepinfer · deepseek deepinfer | DeepInfer: High-performance, large-scale inference framework… |
-| 🆕 [interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit) | 2923 | 809 | +1803 | 3.6 | — | zero breach toolkit · interplains zero breach toolkit · archivegenocide zero breach toolkit | Free, open-source, offline checks for traces of known mercen… |
-| [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) | 2165 | 1268 | +1362 | 1.7 | — | ai pose gallery zh · anhao ai pose gallery zh | 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊 |
-| [unclebob/ub-mode](https://github.com/unclebob/ub-mode) | 3953 | 1112 | +1312 | 3.6 | — | ub mode · unclebob ub mode · robert ub mode |  |
-| [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) | 12519 | 1121 | +942 | 11.2 | [349](https://news.ycombinator.com/item?id=50219700) | gpu unlock · zagitta gpu unlock · simon gpu unlock | Your GeForce runs AI at half speed. This fixes it for 20/30/… |
-| [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) | 4436 | 889 | +778 | 5 | — | android ad cleaner · rddmwmddr android ad cleaner | 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。 |
-| [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) | 7495 | 848 | +484 | 8.8 | — | aerial tv · pengchujin aerial tv | 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-… |
-| [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada) | 4443 | 831 | +124 | 5.3 | [3](https://news.ycombinator.com/item?id=50223787) | gpu unlock ada · justaresearcher gpu unlock ada · tim gpu unlock ada | GPU tensor unlock source for RTX 4090 and experimental RTX 4… |
-| [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas) | 3106 | 802 | +384 | 3.9 | — | word atlas · designfuchen word atlas · boxin word atlas | 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 wo… |
-| 🆕 [CopilotKit/OpenDuet](https://github.com/CopilotKit/OpenDuet) | 1380 | 186 | +740 | 7.4 | — | openduet · copilotkit openduet | An Open Source template for a proactive AI agent that gets y… |
-| 🆕 [smithjohn78390/tongjiang-lab](https://github.com/smithjohn78390/tongjiang-lab) | 628 | 605 | — | 1 | — | tongjiang lab · smithjohn78390 tongjiang lab | Free interactive 3D science lessons for high school · 铜匠实验室… |
-| 🆕 [LNPANDY/NX2Apple](https://github.com/LNPANDY/NX2Apple) | 1664 | 197 | +586 | 8.5 | — | nx2apple · lnpandy nx2apple · lnp nx2apple | Play your own Switch games on iPhone/iPad — one-click macOS… |
-| [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv) | 5267 | 560 | +184 | 9.4 | [1](https://news.ycombinator.com/item?id=50220596) | free my tv · simbasjungles free my tv · simba free my tv | A fast, ad-free home screen for Google TV, LG webOS and Sams… |
-| [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames) | 6320 | 555 | +232 | 11.4 | — | macnativegames · ly05010419 macnativegames · yong macnativegames | Play your own Tears of the Kingdom and Breath of the Wild na… |
+| [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) | 45693 | 3547 | +1552 | 12.9 | [6](https://news.ycombinator.com/item?id=50164485) | cleanyourtv · gathin23 cleanyourtv · gathin cleanyourtv | Debloat any Android or Google TV over Wi-Fi and get an Apple… |
+| [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | 24312 | 1749 | +302 | 13.9 | [2353](https://news.ycombinator.com/item?id=50163277) | deepinfer · deepseek-ai deepinfer · deepseek deepinfer | DeepInfer: High-performance, large-scale inference framework… |
+| [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) | 3375 | 1247 | +1210 | 2.7 | — | ai pose gallery zh · anhao ai pose gallery zh | 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊 |
+| [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) | 13181 | 1084 | +662 | 12.2 | [350](https://news.ycombinator.com/item?id=50219700) | gpu unlock · zagitta gpu unlock · simon gpu unlock | Your GeForce runs AI at half speed. This fixes it for 20/30/… |
+| [unclebob/ub-mode](https://github.com/unclebob/ub-mode) | 4869 | 1069 | +916 | 4.6 | — | ub mode · unclebob ub mode · robert ub mode |  |
+| [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) | 4810 | 803 | +374 | 6 | — | android ad cleaner · rddmwmddr android ad cleaner | 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。 |
+| [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) | 7829 | 796 | +334 | 9.8 | — | aerial tv · pengchujin aerial tv | 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-… |
+| [interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit) | 3663 | 794 | +740 | 4.6 | — | zero breach toolkit · interplains zero breach toolkit · archivegenocide zero breach toolkit | Free, open-source, offline checks for traces of known mercen… |
+| [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada) | 4535 | 714 | +92 | 6.3 | [3](https://news.ycombinator.com/item?id=50223787) | gpu unlock ada · justaresearcher gpu unlock ada · tim gpu unlock ada | GPU tensor unlock source for RTX 4090 and experimental RTX 4… |
+| 🆕 [valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp) | 696 | 696 | — | 1 | — | totk pc recomp · valentderah totk pc recomp · valiantsin totk pc recomp | Static recompilation of The Legend of Zelda: Tears of the Ki… |
+| [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas) | 3269 | 671 | +163 | 4.9 | — | word atlas · designfuchen word atlas · boxin word atlas | 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 wo… |
+| [Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill) | 3312 | 344 | +605 | 9.6 | — | day trader skill · jakeschincariol day trader skill · jake day trader skill | 11 Claude skills for day trading: scan thousands of charts,… |
+| [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames) | 6471 | 522 | +151 | 12.4 | — | macnativegames · ly05010419 macnativegames · yong macnativegames | Play your own Tears of the Kingdom and Breath of the Wild na… |
+| [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv) | 5408 | 519 | +141 | 10.4 | [1](https://news.ycombinator.com/item?id=50220596) | free my tv · simbasjungles free my tv · simba free my tv | A fast, ad-free home screen for Google TV, LG webOS and Sams… |
+| [smithjohn78390/tongjiang-lab](https://github.com/smithjohn78390/tongjiang-lab) | 1013 | 497 | +385 | 2 | — | tongjiang lab · smithjohn78390 tongjiang lab | Free interactive 3D science lessons for high school · 铜匠实验室… |
 
 「怎么搜它」拿去小红书、B站、抖音搜一下，看中文区有没有人写过。
 
@@ -51,26 +51,26 @@
 
 | # | 分 | 判断 | 仓库 | 语言 | star | 比上次 | 近 7 天 | 前 7 天 | 近 14 天走势 | 天数 | HN 最高分 | 疑点 |
 | ---: | ---: | --- | --- | --- | ---: | ---: | ---: | ---: | --- | ---: | ---: | --- |
-| 1 | 92.6 | 🟢 窗口内 | [xevrion/hatchzip](https://github.com/xevrion/hatchzip) | Rust | 2277 | +78 | +2253 | +24 | `·····▁▁█▅▂▂▂▁·` | 7 | [3](https://news.ycombinator.com/item?id=50207695) | — |
-| 2 | 87.9 | 🟢 窗口内 | [indexable-inc/blaze](https://github.com/indexable-inc/blaze) | Rust | 1700 | +137 | +1513 | +187 | `···▁▃▁▁▁▂▃▆█▂·` | 9 | — | — |
-| 3 | 86.7 | 🟢 窗口内 | [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust) | Python | 1373 | +45 | +1373 | +0 | `········▅█▅▂▁·` | 6 | — | — |
-| 4 | 83.2 | 🆕 🟢 窗口内 | [udhaykumarbala/cleanyourtv-app](https://github.com/udhaykumarbala/cleanyourtv-app) | Kotlin | 1029 | +108 | +1028 | +1 | `······▁▄█▇▄▅▄·` | 7 | — | — |
-| 5 | 80.7 | 🟢 窗口内 | [zcbacxc/mcd-party-planner](https://github.com/zcbacxc/mcd-party-planner) | Python | 1600 | +0 | +833 | +752 | `▂▃▅▃▄▃▃▇█▅▂▁··` | 13 | — | — |
-| 6 | 65.6 | 🟡 在降温 | [cranebeaker/coop-anything](https://github.com/cranebeaker/coop-anything) | Python | 1552 | +53 | +702 | +850 | `▃▅█▆▅▃▂█▅▆▃▃▂·` | 12 | [1](https://news.ycombinator.com/item?id=50177079) | — |
-| 7 | 60.2 | 🟡 在降温 | [trhhubsd/ARTEX](https://github.com/trhhubsd/ARTEX) | Go | 2148 | +54 | +411 | +543 | `▂▂▃▆███▆▄▄▅▆▃·` | 20 | — | — |
-| 8 | 59.7 | 🟡 在降温 | [alchaincyf/huashu-motion](https://github.com/alchaincyf/huashu-motion) | JavaScript | 1867 | +48 | +389 | +1478 | `··█▆▃▃▃▂▂▂▂▂▁·` | 10 | — | — |
-| 9 | 56.2 | 🟡 在降温 | [opengeos/RustGIS](https://github.com/opengeos/RustGIS) | Rust | 2133 | +41 | +274 | +618 | `█▆▆▅▄▄▃▃▃▄▄▃▃·` | 18 | — | — |
-| 10 | 55.3 | 🟡 在降温 | [academa-labs/manimgx](https://github.com/academa-labs/manimgx) | Python | 2287 | +61 | +251 | +548 | `█▅▅▄▄▃▂▃▂▃▂▄▃·` | 23 | [10](https://news.ycombinator.com/item?id=50037852) | — |
-| 11 | 53.7 | 🟡 在降温 | [reason-machines/reason-network](https://github.com/reason-machines/reason-network) | Rust | 1308 | +16 | +213 | +1094 | `▄▆▅▃█▆▅▃▂▂▂▂▁·` | 12 | — | — |
-| 12 | 53.5 | 🟡 在降温 | [zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar) | Python | 1926 | +40 | +209 | +692 | `▂▁▁▁█▃▂▂▁▁▂▂▂·` | 16 | — | — |
-| 13 | 53.2 | 🟡 在降温 | [ELY-Open-Source/ElyOffice](https://github.com/ELY-Open-Source/ElyOffice) | Rust | 1089 | +19 | +203 | +886 | `···▇█▃▄▂▂▂▂▂▁·` | 9 | — | — |
-| 14 | 46.4 | 🔴 先核对 | [t3dotgg/tstack](https://github.com/t3dotgg/tstack) | Python | 2289 | +241 | +2289 | +0 | `·······▁▁▁█▃▂·` | 5 | — | 一天进了一半以上的 star，但 HN 上没火过 |
-| 15 | 43.4 | 🆕 🔴 先核对 | [CopilotKit/OpenDuet](https://github.com/CopilotKit/OpenDuet) | TypeScript | 1380 | +740 | +1379 | +1 | `·····▁·····██·` | 7 | — | 一天进了一半以上的 star，但 HN 上没火过 |
-| 16 | 43.2 | 🔴 先核对 | [andyhuo520/digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo) | TypeScript | 1342 | +193 | +1342 | +0 | `·········▂█▄▃·` | 3 | — | 一天进了一半以上的 star，但 HN 上没火过 |
-| 17 | 42.5 | 🔴 先核对 | [DenisSergeevitch/ex-ussr-kinship-research](https://github.com/DenisSergeevitch/ex-ussr-kinship-research) | Python | 1186 | +117 | +1186 | +0 | `·········█▄▄▂·` | 3 | — | 一天进了一半以上的 star，但 HN 上没火过 |
-| 18 | 41.7 | 💤 不活跃 | [yeqv111/mccarbon](https://github.com/yeqv111/mccarbon) | Python | 1832 | -106 | +1042 | +516 | `▂▂▁▂▂▂▃▃█▇·▁··` | 16 | — | — |
-| 19 | 39.8 | 🔴 先核对 | [mizorewww/gdirect](https://github.com/mizorewww/gdirect) | Rust | 758 | +6 | +758 | +0 | `········▁█▂▁▁·` | 3 | — | 一天进了一半以上的 star，但 HN 上没火过 |
-| 20 | 39.6 | 🆕 🔴 先核对 | [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea) | TypeScript | 774 | — | +739 | +35 | `······▂▁▂▂▁▄█·` | 7 | — | 一天进了一半以上的 star，但 HN 上没火过 |
+| 1 | 92.2 | 🆕 🟢 窗口内 | [SoMarkAI/OXR](https://github.com/SoMarkAI/OXR) | Python | 2548 | +291 | +2163 | +385 | `···▁▂▂▂▃▃▅█▄▄·` | 25 | [3](https://news.ycombinator.com/item?id=50183506) | — |
+| 2 | 88.3 | 🟢 窗口内 | [CopilotKit/OpenDuet](https://github.com/CopilotKit/OpenDuet) | TypeScript | 1566 | +186 | +1565 | +1 | `····▁·····██▃·` | 8 | — | — |
+| 3 | 88.2 | 🟢 窗口内 | [indexable-inc/blaze](https://github.com/indexable-inc/blaze) | Rust | 1743 | +43 | +1552 | +191 | `··▁▃▁▁▁▂▃▆█▂▁·` | 10 | — | — |
+| 4 | 87.2 | 🟢 窗口内 | [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust) | Python | 1427 | +54 | +1427 | +0 | `·······▅█▅▂▁▂·` | 7 | — | — |
+| 5 | 85.8 | 🟢 窗口内 | [DenisSergeevitch/ex-ussr-kinship-research](https://github.com/DenisSergeevitch/ex-ussr-kinship-research) | Python | 1277 | +91 | +1277 | +0 | `········█▄▄▂▂·` | 4 | — | — |
+| 6 | 85.1 | 🟢 窗口内 | [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea) | TypeScript | 1258 | +484 | +1200 | +58 | `·····▂▁▂▂▁▄█▇·` | 8 | — | — |
+| 7 | 84.7 | 🟢 窗口内 | [xevrion/hatchzip](https://github.com/xevrion/hatchzip) | Rust | 2325 | +48 | +1163 | +1162 | `····▁▁█▅▂▂▂▁▁·` | 8 | [3](https://news.ycombinator.com/item?id=50207695) | — |
+| 8 | 83.1 | 🟢 窗口内 | [udhaykumarbala/cleanyourtv-app](https://github.com/udhaykumarbala/cleanyourtv-app) | Kotlin | 1118 | +89 | +1014 | +104 | `·····▁▄█▇▄▅▄▃·` | 8 | — | — |
+| 9 | 63.6 | 🟡 在降温 | [zcbacxc/mcd-party-planner](https://github.com/zcbacxc/mcd-party-planner) | Python | 1601 | +1 | +578 | +955 | `▃▅▃▄▃▃▇█▅▂▁·▁·` | 14 | — | — |
+| 10 | 62.5 | 🟡 在降温 | [cranebeaker/coop-anything](https://github.com/cranebeaker/coop-anything) | Python | 1596 | +44 | +519 | +996 | `▅█▆▅▃▂█▅▆▃▃▂▂·` | 13 | [1](https://news.ycombinator.com/item?id=50177079) | — |
+| 11 | 60.3 | 🟡 在降温 | [trhhubsd/ARTEX](https://github.com/trhhubsd/ARTEX) | Go | 2239 | +91 | +414 | +621 | `▂▃▆███▆▄▄▅▆▄▆·` | 21 | — | — |
+| 12 | 58.3 | 🟡 在降温 | [alchaincyf/huashu-motion](https://github.com/alchaincyf/huashu-motion) | JavaScript | 1895 | +28 | +340 | +1555 | `·█▆▃▃▃▂▂▂▂▂▁▁·` | 11 | — | — |
+| 13 | 56.2 | 🟡 在降温 | [opengeos/RustGIS](https://github.com/opengeos/RustGIS) | Rust | 2167 | +34 | +276 | +502 | `█▇▆▅▅▄▃▃▅▄▄▃▃·` | 19 | — | — |
+| 14 | 53.9 | 🟡 在降温 | [zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar) | Python | 1971 | +45 | +218 | +697 | `▁▁▁█▃▂▂▁▁▂▂▂▂·` | 17 | — | — |
+| 15 | 51.6 | 🟡 在降温 | [ELY-Open-Source/ElyOffice](https://github.com/ELY-Open-Source/ElyOffice) | Rust | 1107 | +18 | +173 | +934 | `··▇█▃▄▂▂▂▂▂▁▁·` | 10 | — | — |
+| 16 | 46.7 | 🔴 先核对 | [t3dotgg/tstack](https://github.com/t3dotgg/tstack) | Python | 2414 | +125 | +2406 | +8 | `······▁▁▁█▃▂▂·` | 6 | — | 一天进了一半以上的 star，但 HN 上没火过 |
+| 17 | 43.9 | 🔴 先核对 | [andyhuo520/digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo) | TypeScript | 1501 | +159 | +1501 | +0 | `········▂█▄▃▂·` | 4 | — | 一天进了一半以上的 star，但 HN 上没火过 |
+| 18 | 41.2 | 🆕 🔴 先核对 | [qybaihe/bla](https://github.com/qybaihe/bla) | TypeScript | 953 | — | +953 | +0 | `········▁▁▂▁█·` | 4 | — | 一天进了一半以上的 star，但 HN 上没火过 |
+| 19 | 40.9 | 💤 不活跃 | [yeqv111/mccarbon](https://github.com/yeqv111/mccarbon) | Python | 1832 | +0 | +914 | +581 | `▂▁▂▂▂▃▃█▇·▁···` | 17 | — | — |
+| 20 | 39.8 | 🔴 先核对 | [mizorewww/gdirect](https://github.com/mizorewww/gdirect) | Rust | 765 | +7 | +765 | +0 | `·······▁█▂▁▁▁·` | 4 | — | 一天进了一半以上的 star，但 HN 上没火过 |
 
 ## 二、趋势信号
 
@@ -80,177 +80,175 @@
 
 | 关键词 | GitHub 上总数 | 本批取到 | 取到的 star 合计 | 代表项目 |
 | --- | ---: | ---: | ---: | --- |
-| `agent` | 551 | 30 | 47170 | [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu)、[oil-oil/oil-ui](https://github.com/oil-oil/oil-ui)、[t3dotgg/tstack](https://github.com/t3dotgg/tstack) |
-| `mcp` | 289 | 30 | 32638 | [trhhubsd/ARTEX](https://github.com/trhhubsd/ARTEX)、[zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar)、[yeqv111/mccarbon](https://github.com/yeqv111/mccarbon) |
-| `rust` | 189 | 30 | 28136 | [oxc-project/tsrs](https://github.com/oxc-project/tsrs)、[academa-labs/manimgx](https://github.com/academa-labs/manimgx)、[xevrion/hatchzip](https://github.com/xevrion/hatchzip) |
-| `local-first` | 63 | 30 | 9375 | [chenxiachan/textfold](https://github.com/chenxiachan/textfold)、[aixisstudio/Snitch](https://github.com/aixisstudio/Snitch)、[aboard-io/tinylittleoffice](https://github.com/aboard-io/tinylittleoffice) |
+| `agent` | 564 | 30 | 49155 | [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu)、[SoMarkAI/OXR](https://github.com/SoMarkAI/OXR)、[oil-oil/oil-ui](https://github.com/oil-oil/oil-ui) |
+| `mcp` | 297 | 30 | 32951 | [trhhubsd/ARTEX](https://github.com/trhhubsd/ARTEX)、[zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar)、[yeqv111/mccarbon](https://github.com/yeqv111/mccarbon) |
+| `rust` | 195 | 30 | 29450 | [oxc-project/tsrs](https://github.com/oxc-project/tsrs)、[academa-labs/manimgx](https://github.com/academa-labs/manimgx)、[xevrion/hatchzip](https://github.com/xevrion/hatchzip) |
+| `local-first` | 66 | 30 | 9751 | [chenxiachan/textfold](https://github.com/chenxiachan/textfold)、[aixisstudio/Snitch](https://github.com/aixisstudio/Snitch)、[aboard-io/tinylittleoffice](https://github.com/aboard-io/tinylittleoffice) |
 
 **按 GitHub topic**：全部候选里 ≥ 2 个仓库共用的 topic（去掉搜索关键词本身）
 
 | topic | 仓库数 | star 合计 | 代表项目 |
 | --- | ---: | ---: | --- |
-| `claude-code` | 21 | 24458 | [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu)、[oil-oil/oil-ui](https://github.com/oil-oil/oil-ui)、[Jakeschincariol/founder-skill](https://github.com/Jakeschincariol/founder-skill) |
-| `ai-agents` | 19 | 15161 | [HelixDB/helix-foundry](https://github.com/HelixDB/helix-foundry)、[marclou/mailcheap](https://github.com/marclou/mailcheap)、[morluto/awesome-reverse-engineering](https://github.com/morluto/awesome-reverse-engineering) |
-| `agent-skills` | 15 | 20190 | [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu)、[oil-oil/oil-ui](https://github.com/oil-oil/oil-ui)、[zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar) |
-| `codex` | 15 | 16302 | [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu)、[oil-oil/oil-ui](https://github.com/oil-oil/oil-ui)、[alchaincyf/huashu-motion](https://github.com/alchaincyf/huashu-motion) |
-| `llm` | 15 | 12126 | [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu)、[trhhubsd/ARTEX](https://github.com/trhhubsd/ARTEX)、[Harvil1/codeAgent](https://github.com/Harvil1/codeAgent) |
-| `mcp-server` | 12 | 10415 | [zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar)、[hujjun/mcd-saver-strategist](https://github.com/hujjun/mcd-saver-strategist)、[marclou/mailcheap](https://github.com/marclou/mailcheap) |
-| `ai-agent` | 9 | 7367 | [trhhubsd/ARTEX](https://github.com/trhhubsd/ARTEX)、[hujjun/mcd-saver-strategist](https://github.com/hujjun/mcd-saver-strategist)、[rociiu/talorys](https://github.com/rociiu/talorys) |
-| `claude-skills` | 8 | 11658 | [oil-oil/oil-ui](https://github.com/oil-oil/oil-ui)、[Jakeschincariol/founder-skill](https://github.com/Jakeschincariol/founder-skill)、[zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar) |
-| `developer-tools` | 8 | 6712 | [indexable-inc/blaze](https://github.com/indexable-inc/blaze)、[jwuthri-cloud/Tracely-ai](https://github.com/jwuthri-cloud/Tracely-ai)、[hanzohanzhe/Grandet](https://github.com/hanzohanzhe/Grandet) |
-| `macos` | 8 | 5704 | [xevrion/hatchzip](https://github.com/xevrion/hatchzip)、[kitlangton/scrawl](https://github.com/kitlangton/scrawl)、[aixisstudio/Snitch](https://github.com/aixisstudio/Snitch) |
-| `self-hosted` | 7 | 5731 | [marclou/mailcheap](https://github.com/marclou/mailcheap)、[rociiu/talorys](https://github.com/rociiu/talorys)、[jwuthri-cloud/Tracely-ai](https://github.com/jwuthri-cloud/Tracely-ai) |
-| `coding-agents` | 7 | 5121 | [reason-machines/reason-network](https://github.com/reason-machines/reason-network)、[openqodex/openqodex](https://github.com/openqodex/openqodex)、[feder-cr/git-ai](https://github.com/feder-cr/git-ai) |
+| `claude-code` | 22 | 26419 | [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu)、[oil-oil/oil-ui](https://github.com/oil-oil/oil-ui)、[Jakeschincariol/founder-skill](https://github.com/Jakeschincariol/founder-skill) |
+| `ai-agents` | 20 | 15945 | [HelixDB/helix-foundry](https://github.com/HelixDB/helix-foundry)、[marclou/mailcheap](https://github.com/marclou/mailcheap)、[morluto/awesome-reverse-engineering](https://github.com/morluto/awesome-reverse-engineering) |
+| `agent-skills` | 15 | 20920 | [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu)、[oil-oil/oil-ui](https://github.com/oil-oil/oil-ui)、[zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar) |
+| `codex` | 15 | 17067 | [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu)、[oil-oil/oil-ui](https://github.com/oil-oil/oil-ui)、[alchaincyf/huashu-motion](https://github.com/alchaincyf/huashu-motion) |
+| `llm` | 15 | 12433 | [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu)、[trhhubsd/ARTEX](https://github.com/trhhubsd/ARTEX)、[Harvil1/codeAgent](https://github.com/Harvil1/codeAgent) |
+| `mcp-server` | 12 | 10801 | [zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar)、[marclou/mailcheap](https://github.com/marclou/mailcheap)、[hujjun/mcd-saver-strategist](https://github.com/hujjun/mcd-saver-strategist) |
+| `ai-agent` | 9 | 7482 | [trhhubsd/ARTEX](https://github.com/trhhubsd/ARTEX)、[hujjun/mcd-saver-strategist](https://github.com/hujjun/mcd-saver-strategist)、[rociiu/talorys](https://github.com/rociiu/talorys) |
+| `claude-skills` | 8 | 12094 | [oil-oil/oil-ui](https://github.com/oil-oil/oil-ui)、[Jakeschincariol/founder-skill](https://github.com/Jakeschincariol/founder-skill)、[zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar) |
+| `developer-tools` | 8 | 7377 | [indexable-inc/blaze](https://github.com/indexable-inc/blaze)、[l0ng-ai/openidea](https://github.com/l0ng-ai/openidea)、[jwuthri-cloud/Tracely-ai](https://github.com/jwuthri-cloud/Tracely-ai) |
+| `macos` | 8 | 5797 | [xevrion/hatchzip](https://github.com/xevrion/hatchzip)、[kitlangton/scrawl](https://github.com/kitlangton/scrawl)、[aixisstudio/Snitch](https://github.com/aixisstudio/Snitch) |
+| `self-hosted` | 7 | 5895 | [marclou/mailcheap](https://github.com/marclou/mailcheap)、[rociiu/talorys](https://github.com/rociiu/talorys)、[jwuthri-cloud/Tracely-ai](https://github.com/jwuthri-cloud/Tracely-ai) |
+| `coding-agents` | 7 | 5289 | [reason-machines/reason-network](https://github.com/reason-machines/reason-network)、[openqodex/openqodex](https://github.com/openqodex/openqodex)、[feder-cr/git-ai](https://github.com/feder-cr/git-ai) |
 
-**语言分布**：Python 30 · Rust 30 · TypeScript 18 · JavaScript 12 · Go 3 · HTML 3 · Swift 2 · Astro 1
+**语言分布**：Rust 31 · Python 29 · TypeScript 19 · JavaScript 12 · Go 3 · HTML 3 · Swift 2 · Astro 1
 
 ## 三、逐个看
 
 分数最高的 10 个，写之前该知道的都在这里。
 
-### 1. [xevrion/hatchzip](https://github.com/xevrion/hatchzip) · 🟢 窗口内 · 92.6 分
+### 1. 🆕 [SoMarkAI/OXR](https://github.com/SoMarkAI/OXR) · 🟢 窗口内 · 92.2 分
 
-> HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.
+> An open-source document parsing model with SOTA accuracy and speed, using an RSI loop during post-training.
 
 | star | 近 7 天 | 前 7 天 | fork | issue | 语言 | 许可 | 创建 | 最近提交 |
 | ---: | ---: | ---: | ---: | ---: | --- | --- | --- | --- |
-| 2277 | +2253 | +24 | 71 | 9 | Rust | Apache-2.0 | 10-21（7 天前） | 今天 |
+| 2548 | +2163 | +385 | 174 | 22 | Python | — | 10-05（25 天前） | 5 天前 |
 
-- **近 14 天每天新增**：`·····▁▁█▅▂▂▂▁·` 0 0 0 0 0 1 23 1138 604 199 101 144 67 0
-- **势头**：比前 7 天快 93.9 倍，在加速
-- **HN**：发过 1 次，最高 3 分（[讨论](https://news.ycombinator.com/item?id=50207695)）
-- **topics**：`7z` `7zip` `archive` `archive-extractor` `cli` `crash-safe` `disk-space` `extract` `extractor` `gui` `in-place` `linux` `macos` `rar` `rust` `tar` `unrar` `unzip` `windows` `zip`
-- **主页**：<https://hatchzip.dev>
+- **近 14 天每天新增**：`···▁▂▂▂▃▃▅█▄▄·` 0 0 0 24 101 129 131 218 181 452 732 308 272 0
+- **势头**：比前 7 天快 5.6 倍，在加速
+- **HN**：发过 1 次，最高 3 分（[讨论](https://news.ycombinator.com/item?id=50183506)）
+- **topics**：`agent` `llm-tools` `ocr` `rsi` `vlm` `vlm-ocr`
+- **主页**：<https://somark.ai/oxr>
 - **判断**：还在加速、HN 上没人发过、没有疑点。值得当天在容器里装一下试试。
 
-### 2. [indexable-inc/blaze](https://github.com/indexable-inc/blaze) · 🟢 窗口内 · 87.9 分
+### 2. [CopilotKit/OpenDuet](https://github.com/CopilotKit/OpenDuet) · 🟢 窗口内 · 88.3 分
+
+> An Open Source template for a proactive AI agent that gets your work done and keeps you in the loop.
+
+| star | 近 7 天 | 前 7 天 | fork | issue | 语言 | 许可 | 创建 | 最近提交 |
+| ---: | ---: | ---: | ---: | ---: | --- | --- | --- | --- |
+| 1566 | +1565 | +1 | 199 | 11 | TypeScript | MIT | 10-21（8 天前） | 1 天前 |
+
+- **近 14 天每天新增**：`····▁·····██▃·` 0 0 0 0 1 0 0 0 0 0 704 693 168 0
+- **势头**：比前 7 天快 1565.0 倍，在加速
+- **HN**：还没人发过，你可能是最早写它的
+- **主页**：<copilotkit.ai/openduet>
+- **判断**：还在加速、HN 上没人发过、没有疑点。值得当天在容器里装一下试试。
+
+### 3. [indexable-inc/blaze](https://github.com/indexable-inc/blaze) · 🟢 窗口内 · 88.2 分
 
 > Incremental rust builds up to 92x faster than cargo/rustc
 
 | star | 近 7 天 | 前 7 天 | fork | issue | 语言 | 许可 | 创建 | 最近提交 |
 | ---: | ---: | ---: | ---: | ---: | --- | --- | --- | --- |
-| 1700 | +1513 | +187 | 58 | 462 | Rust | Apache-2.0 | 10-19（9 天前） | 今天 |
+| 1743 | +1552 | +191 | 60 | 434 | Rust | Apache-2.0 | 10-19（10 天前） | 今天 |
 
-- **近 14 天每天新增**：`···▁▃▁▁▁▂▃▆█▂·` 0 0 0 17 151 14 5 4 104 156 456 675 118 0
+- **近 14 天每天新增**：`··▁▃▁▁▁▂▃▆█▂▁·` 0 0 17 151 14 5 4 104 156 455 675 126 36 0
 - **势头**：比前 7 天快 8.1 倍，在加速
 - **HN**：还没人发过，你可能是最早写它的
 - **topics**：`cargo` `compiler` `cranelift` `developer-tools` `hot-reload` `incremental-compilation` `jit` `live-coding` `rust` `rust-analyzer`
 - **主页**：<https://ix.dev/blaze>
 - **判断**：还在加速、HN 上没人发过、没有疑点。值得当天在容器里装一下试试。
 
-### 3. [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust) · 🟢 窗口内 · 86.7 分
+### 4. [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust) · 🟢 窗口内 · 87.2 分
 
 > Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.
 
 | star | 近 7 天 | 前 7 天 | fork | issue | 语言 | 许可 | 创建 | 最近提交 |
 | ---: | ---: | ---: | ---: | ---: | --- | --- | --- | --- |
-| 1373 | +1373 | +0 | 63 | 4 | Python | MIT | 10-23（6 天前） | 今天 |
+| 1427 | +1427 | +0 | 70 | 4 | Python | MIT | 10-23（7 天前） | 1 天前 |
 
-- **近 14 天每天新增**：`········▅█▅▂▁·` 0 0 0 0 0 0 0 0 303 583 357 90 40 0
+- **近 14 天每天新增**：`·······▅█▅▂▁▂·` 0 0 0 0 0 0 0 303 582 357 89 41 55 0
 - **势头**：刚发布一周内
 - **HN**：还没人发过，你可能是最早写它的
 - **topics**：`agent-skills` `claude-code` `claude-plugin` `claude-skills` `clippy` `code-review` `coding-agent` `cursor` `rust` `style-guide`
 - **主页**：<https://www.beautifulrust.dev>
 - **判断**：还在加速、HN 上没人发过、没有疑点。值得当天在容器里装一下试试。
 
-### 4. 🆕 [udhaykumarbala/cleanyourtv-app](https://github.com/udhaykumarbala/cleanyourtv-app) · 🟢 窗口内 · 83.2 分
+### 5. [DenisSergeevitch/ex-ussr-kinship-research](https://github.com/DenisSergeevitch/ex-ussr-kinship-research) · 🟢 窗口内 · 85.8 分
+
+> Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.
+
+| star | 近 7 天 | 前 7 天 | fork | issue | 语言 | 许可 | 创建 | 最近提交 |
+| ---: | ---: | ---: | ---: | ---: | --- | --- | --- | --- |
+| 1277 | +1277 | +0 | 133 | 4 | Python | MIT | 10-25（4 天前） | 今天 |
+
+- **近 14 天每天新增**：`········█▄▄▂▂·` 0 0 0 0 0 0 0 0 594 229 255 113 86 0
+- **势头**：刚发布一周内
+- **HN**：还没人发过，你可能是最早写它的
+- **topics**：`agent-skills` `archives` `claude-code` `codex` `family-history` `familysearch` `genealogy` `ussr`
+- **判断**：还在加速、HN 上没人发过、没有疑点。值得当天在容器里装一下试试。
+
+### 6. [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea) · 🟢 窗口内 · 85.1 分
+
+> The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages.
+
+| star | 近 7 天 | 前 7 天 | fork | issue | 语言 | 许可 | 创建 | 最近提交 |
+| ---: | ---: | ---: | ---: | ---: | --- | --- | --- | --- |
+| 1258 | +1200 | +58 | 118 | 74 | TypeScript | Apache-2.0 | 10-21（8 天前） | 今天 |
+
+- **近 14 天每天新增**：`·····▂▁▂▂▁▄█▇·` 0 0 0 0 0 35 23 46 35 21 191 489 418 0
+- **势头**：比前 7 天快 20.7 倍，在加速
+- **HN**：还没人发过，你可能是最早写它的
+- **topics**：`code-editor` `cross-platform` `dap` `database-client` `debugger` `desktop-app` `developer-tools` `git` `http-client` `ide` `intellij` `lsp` `rust` `tauri` `terminal`
+- **判断**：还在加速、HN 上没人发过、没有疑点。值得当天在容器里装一下试试。
+
+### 7. [xevrion/hatchzip](https://github.com/xevrion/hatchzip) · 🟢 窗口内 · 84.7 分
+
+> HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.
+
+| star | 近 7 天 | 前 7 天 | fork | issue | 语言 | 许可 | 创建 | 最近提交 |
+| ---: | ---: | ---: | ---: | ---: | --- | --- | --- | --- |
+| 2325 | +1163 | +1162 | 75 | 9 | Rust | Apache-2.0 | 10-21（8 天前） | 今天 |
+
+- **近 14 天每天新增**：`····▁▁█▅▂▂▂▁▁·` 0 0 0 0 1 23 1138 602 199 101 144 71 46 0
+- **势头**：和前 7 天差不多
+- **HN**：发过 1 次，最高 3 分（[讨论](https://news.ycombinator.com/item?id=50207695)）
+- **topics**：`7z` `7zip` `archive` `archive-extractor` `cli` `crash-safe` `disk-space` `extract` `extractor` `gui` `in-place` `linux` `macos` `rar` `rust` `tar` `unrar` `unzip` `windows` `zip`
+- **主页**：<https://hatchzip.dev>
+- **判断**：还在加速、HN 上没人发过、没有疑点。值得当天在容器里装一下试试。
+
+### 8. [udhaykumarbala/cleanyourtv-app](https://github.com/udhaykumarbala/cleanyourtv-app) · 🟢 窗口内 · 83.1 分
 
 > A community-built phone app for Clean Your TV: clean up an Android TV from your phone. No laptop, no coding agent, nothing uninstalled.
 
 | star | 近 7 天 | 前 7 天 | fork | issue | 语言 | 许可 | 创建 | 最近提交 |
 | ---: | ---: | ---: | ---: | ---: | --- | --- | --- | --- |
-| 1029 | +1028 | +1 | 96 | 1761 | Kotlin | MIT | 10-21（7 天前） | 今天 |
+| 1118 | +1014 | +104 | 102 | 2243 | Kotlin | MIT | 10-21（8 天前） | 今天 |
 
-- **近 14 天每天新增**：`······▁▄█▇▄▅▄·` 0 0 0 0 0 0 1 104 288 246 133 151 106 0
-- **势头**：比前 7 天快 1028.0 倍，在加速
+- **近 14 天每天新增**：`·····▁▄█▇▄▅▄▃·` 0 0 0 0 0 1 103 288 246 133 151 114 82 0
+- **势头**：比前 7 天快 9.8 倍，在加速
 - **HN**：还没人发过，你可能是最早写它的
 - **topics**：`adb` `android-tv` `debloat` `fire-tv` `google-tv` `launcher`
 - **判断**：还在加速、HN 上没人发过、没有疑点。值得当天在容器里装一下试试。
 
-### 5. [zcbacxc/mcd-party-planner](https://github.com/zcbacxc/mcd-party-planner) · 🟢 窗口内 · 80.7 分
+### 9. [zcbacxc/mcd-party-planner](https://github.com/zcbacxc/mcd-party-planner) · 🟡 在降温 · 63.6 分
 
 > 麦当劳 MCP 聚会/团餐组织助手 — 基于 Model Context Protocol 的派对预订与团餐规划 CLI/Skill
 
 | star | 近 7 天 | 前 7 天 | fork | issue | 语言 | 许可 | 创建 | 最近提交 |
 | ---: | ---: | ---: | ---: | ---: | --- | --- | --- | --- |
-| 1600 | +833 | +752 | 58 | 2 | Python | MIT | 10-15（13 天前） | 1 天前 |
+| 1601 | +578 | +955 | 58 | 2 | Python | MIT | 10-15（14 天前） | 2 天前 |
 
-- **近 14 天每天新增**：`▂▃▅▃▄▃▃▇█▅▂▁··` 53 96 166 115 133 114 75 256 325 176 59 17 0 0
-- **势头**：比前 7 天快 1.1 倍，在加速
+- **近 14 天每天新增**：`▃▅▃▄▃▃▇█▅▂▁·▁·` 96 166 115 133 114 75 256 325 176 59 17 0 1 0
+- **势头**：只有前 7 天的 61%，在减速
 - **HN**：还没人发过，你可能是最早写它的
-- **判断**：还在加速、HN 上没人发过、没有疑点。值得当天在容器里装一下试试。
+- **判断**：增速在放缓，窗口可能快过了。要写就尽快，或者换一个更深的角度。
 
-### 6. [cranebeaker/coop-anything](https://github.com/cranebeaker/coop-anything) · 🟡 在降温 · 65.6 分
+### 10. [cranebeaker/coop-anything](https://github.com/cranebeaker/coop-anything) · 🟡 在降温 · 62.5 分
 
 > Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.
 
 | star | 近 7 天 | 前 7 天 | fork | issue | 语言 | 许可 | 创建 | 最近提交 |
 | ---: | ---: | ---: | ---: | ---: | --- | --- | --- | --- |
-| 1552 | +702 | +850 | 207 | 144 | Python | MIT | 10-16（12 天前） | 今天 |
+| 1596 | +519 | +996 | 222 | 159 | Python | MIT | 10-16（13 天前） | 今天 |
 
-- **近 14 天每天新增**：`▃▅█▆▅▃▂█▅▆▃▃▂·` 81 131 234 156 124 77 47 227 149 161 67 56 42 0
-- **势头**：只有前 7 天的 83%，在减速
+- **近 14 天每天新增**：`▅█▆▅▃▂█▅▆▃▃▂▂·` 131 234 156 124 77 47 227 149 161 67 56 45 41 0
+- **势头**：只有前 7 天的 52%，在减速
 - **HN**：发过 1 次，最高 1 分（[讨论](https://news.ycombinator.com/item?id=50177079)）
 - **主页**：<https://coopanything.app>
-- **判断**：增速在放缓，窗口可能快过了。要写就尽快，或者换一个更深的角度。
-
-### 7. [trhhubsd/ARTEX](https://github.com/trhhubsd/ARTEX) · 🟡 在降温 · 60.2 分
-
-> ARTEX · AI autonomous penetration testing system (multi-agent LLM, Go + Next.js) · AI 自主渗透测试系统 · 百度 agent+ 攻防挑战赛冠军
-
-| star | 近 7 天 | 前 7 天 | fork | issue | 语言 | 许可 | 创建 | 最近提交 |
-| ---: | ---: | ---: | ---: | ---: | --- | --- | --- | --- |
-| 2148 | +411 | +543 | 1016 | 3 | Go | AGPL-3.0 | 10-08（20 天前） | 9 天前 |
-
-- **近 14 天每天新增**：`▂▂▃▆███▆▄▄▅▆▃·` 10 19 45 92 127 122 128 90 56 46 80 95 44 0
-- **势头**：只有前 7 天的 76%，在减速
-- **HN**：还没人发过，你可能是最早写它的
-- **topics**：`ai-agent` `ai-security` `artex` `autonomous-agents` `cybersecurity` `go` `hacking` `llm` `llm-agent` `mcp` `nextjs` `offensive-security` `penetration-testing` `pentest` `red-team` `security` `security-tools` `vulnerability` `vulnerability-scanners` `web-security`
-- **主页**：<https://artex-demo.vercel.app/>
-- **判断**：增速在放缓，窗口可能快过了。要写就尽快，或者换一个更深的角度。
-
-### 8. [alchaincyf/huashu-motion](https://github.com/alchaincyf/huashu-motion) · 🟡 在降温 · 59.7 分
-
-> 让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.
-
-| star | 近 7 天 | 前 7 天 | fork | issue | 语言 | 许可 | 创建 | 最近提交 |
-| ---: | ---: | ---: | ---: | ---: | --- | --- | --- | --- |
-| 1867 | +389 | +1478 | 178 | 3 | JavaScript | MIT | 10-18（10 天前） | 6 天前 |
-
-- **近 14 天每天新增**：`··█▆▃▃▃▂▂▂▂▂▁·` 0 0 580 437 170 135 156 78 50 83 68 73 37 0
-- **势头**：只有前 7 天的 26%，在减速
-- **HN**：还没人发过，你可能是最早写它的
-- **topics**：`agent-skills` `animation` `claude-code` `codex` `gsap` `launch-video` `motion-graphics` `skills`
-- **主页**：<https://github.com/alchaincyf/huashu-motion>
-- **判断**：增速在放缓，窗口可能快过了。要写就尽快，或者换一个更深的角度。
-
-### 9. [opengeos/RustGIS](https://github.com/opengeos/RustGIS) · 🟡 在降温 · 56.2 分
-
-> A fast, free and open-source GIS in pure Rust.
-
-| star | 近 7 天 | 前 7 天 | fork | issue | 语言 | 许可 | 创建 | 最近提交 |
-| ---: | ---: | ---: | ---: | ---: | --- | --- | --- | --- |
-| 2133 | +274 | +618 | 306 | 85 | Rust | Apache-2.0 | 10-10（18 天前） | 今天 |
-
-- **近 14 天每天新增**：`█▆▆▅▄▄▃▃▃▄▄▃▃·` 149 116 102 77 69 63 42 34 32 67 54 50 37 0
-- **势头**：只有前 7 天的 44%，在减速
-- **HN**：还没人发过，你可能是最早写它的
-- **topics**：`geospatial` `gis` `remote-sensing` `rust` `rust-lang`
-- **主页**：<https://rustgis.app>
-- **判断**：增速在放缓，窗口可能快过了。要写就尽快，或者换一个更深的角度。
-
-### 10. [academa-labs/manimgx](https://github.com/academa-labs/manimgx) · 🟡 在降温 · 55.3 分
-
-> The animation engine for agents: blazingly fast math and 3D videos with Manim's Python API, on a Rust GPU core.
-
-| star | 近 7 天 | 前 7 天 | fork | issue | 语言 | 许可 | 创建 | 最近提交 |
-| ---: | ---: | ---: | ---: | ---: | --- | --- | --- | --- |
-| 2287 | +251 | +548 | 163 | 30 | Python | MIT | 10-05（23 天前） | 2 天前 |
-
-- **近 14 天每天新增**：`█▅▅▄▄▃▂▃▂▃▂▄▃·` 159 84 98 68 65 43 31 36 25 35 27 79 49 0
-- **势头**：只有前 7 天的 46%，在减速
-- **HN**：发过 1 次，最高 10 分（[讨论](https://news.ycombinator.com/item?id=50037852)）
-- **主页**：<https://manimgx.academa.ai>
 - **判断**：增速在放缓，窗口可能快过了。要写就尽快，或者换一个更深的角度。
 
 ## 四、需要人工核对
@@ -258,11 +256,9 @@
 拿不到 star 名单以后只能看形状，下面这些**只是提醒你人工看一眼，不是结论**。也可能是被大号转了才一天爆发，或者作者真的在两天里发了一组项目。
 
 - [t3dotgg/tstack](https://github.com/t3dotgg/tstack) — 一天进了一半以上的 star，但 HN 上没火过
-- [CopilotKit/OpenDuet](https://github.com/CopilotKit/OpenDuet) — 一天进了一半以上的 star，但 HN 上没火过
 - [andyhuo520/digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo) — 一天进了一半以上的 star，但 HN 上没火过
-- [DenisSergeevitch/ex-ussr-kinship-research](https://github.com/DenisSergeevitch/ex-ussr-kinship-research) — 一天进了一半以上的 star，但 HN 上没火过
+- [qybaihe/bla](https://github.com/qybaihe/bla) — 一天进了一半以上的 star，但 HN 上没火过
 - [mizorewww/gdirect](https://github.com/mizorewww/gdirect) — 一天进了一半以上的 star，但 HN 上没火过
-- [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea) — 一天进了一半以上的 star，但 HN 上没火过
 
 核对时看：issue 和讨论是不是真人、作者有没有历史、README 是不是 AI 堆出来的。**有些刷星仓库本身就是恶意软件，只在容器或虚拟机里跑。**
 
@@ -273,21 +269,20 @@
 | 分 | 评论 | 标题 | 讨论 |
 | ---: | ---: | --- | --- |
 | 623 | 450 | [Show HN: Steal My Bitcoin](https://stealmybitcoin.com/) | [HN](https://news.ycombinator.com/item?id=50224916) |
-| 404 | 82 | [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/) | [HN](https://news.ycombinator.com/item?id=50238708) |
-| 315 | 115 | [Show HN: A Truly Modular Keyboard](https://github.com/notaroomba/keybytes) | [HN](https://news.ycombinator.com/item?id=50228115) |
-| 236 | 94 | [Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key](https://github.com/dsmurrell/onkey) | [HN](https://news.ycombinator.com/item?id=50195488) |
+| 405 | 82 | [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/) | [HN](https://news.ycombinator.com/item?id=50238708) |
+| 318 | 116 | [Show HN: A Truly Modular Keyboard](https://github.com/notaroomba/keybytes) | [HN](https://news.ycombinator.com/item?id=50228115) |
 | 177 | 49 | [Show HN: I put employees inside S&P 500 market-cap bubbles](https://bigwhalehunting.com/workforce/) | [HN](https://news.ycombinator.com/item?id=50232312) |
-| 172 | 42 | [Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT](https://github.com/FrigadeHQ/hob) | [HN](https://news.ycombinator.com/item?id=50246238) |
-| 149 | 64 | [Show HN: Encarta 95 Web](https://benwinding.github.io/encarta_95_web/#/article/Art) | [HN](https://news.ycombinator.com/item?id=50218975) |
+| 175 | 43 | [Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT](https://github.com/FrigadeHQ/hob) | [HN](https://news.ycombinator.com/item?id=50246238) |
+| 149 | 65 | [Show HN: Encarta 95 Web](https://benwinding.github.io/encarta_95_web/#/article/Art) | [HN](https://news.ycombinator.com/item?id=50218975) |
 | 141 | 47 | [Show HN: Corgi, a helpful {agent, terminal} multiplexer](https://corgi.computer/) | [HN](https://news.ycombinator.com/item?id=50214373) |
-| 112 | 81 | [Show HN: Making a smart TV dumb and then smart](https://github.com/anubhavmalhotra/r2d2-tv) | [HN](https://news.ycombinator.com/item?id=50202865) |
-| 82 | 22 | [Show HN: Impossible Machines: declaratively program the physical world](https://www.impossiblemachines.xyz) | [HN](https://news.ycombinator.com/item?id=50202746) |
-| 80 | 46 | [Show HN: UI micro interactions prompts for AI](https://www.typeui.sh/micro-interactions) | [HN](https://news.ycombinator.com/item?id=50199290) |
+| 118 | 90 | [Show HN: Auto Dismiss Mac OS "Allow <app> to find devices on local networks?"](https://github.com/johncassil/dontallow) | [HN](https://news.ycombinator.com/item?id=50294506) |
+| 80 | 35 | [Show HN: SlideBySide – Present slides without sharing your screen](https://slidebyside.com/) | [HN](https://news.ycombinator.com/item?id=50276883) |
 | 77 | 38 | [Show HN: Swurf – Swipe through the real web](https://swurf.org/) | [HN](https://news.ycombinator.com/item?id=50205320) |
 | 70 | 57 | [Show HN: We had AI write a wiki from 45k Enron emails, every fact cited](https://www.thisandthat.chat/enron/) | [HN](https://news.ycombinator.com/item?id=50207620) |
-| 68 | 26 | [Show HN: SlideBySide – Present slides without sharing your screen](https://slidebyside.com/) | [HN](https://news.ycombinator.com/item?id=50276883) |
-| 68 | 26 | [Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English](https://huggingface.co/destined/hurston-1) | [HN](https://news.ycombinator.com/item?id=50227330) |
+| 68 | 27 | [Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English](https://huggingface.co/destined/hurston-1) | [HN](https://news.ycombinator.com/item?id=50227330) |
+| 68 | 12 | [Show HN: A proof-of-concept formalization of the IRS federal tax forms](https://github.com/emmilco/us-tax-model) | [HN](https://news.ycombinator.com/item?id=50278678) |
 | 66 | 58 | [Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git](https://adrs.systems) | [HN](https://news.ycombinator.com/item?id=50227041) |
+| 61 | 14 | [Show HN: I Turned DOOM into a Transformer](https://github.com/mottopanikeiku/doomformer) | [HN](https://news.ycombinator.com/item?id=50297697) |
 | 60 | 43 | [Show HN: Farol – A risk map of a pull request for the person who approves it](https://github.com/winnin/farol) | [HN](https://news.ycombinator.com/item?id=50231349) |
 | 59 | 19 | [Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706](https://gitlab.com/c4psu13/mali-pagecache-root) | [HN](https://news.ycombinator.com/item?id=50220042) |
 
@@ -297,26 +292,26 @@
 
 | 赞 | 论文 | 一句话 | 代码 |
 | ---: | --- | --- | --- |
-| 157 | [TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138) | A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like… | [tauricresearch/tradingagents](https://github.com/tauricresearch/tradingagents) 117967★ |
-| 125 | [Harness^2: Recursive Agent Harnessing for an Open World](https://huggingface.co/papers/2610.14224) | Harness² improves agent execution harnesses through recursive task-level refinement and continual harness-level learning, boosting performan… | [google-research/harness2](https://github.com/google-research/harness2) 21029★ |
-| 104 | [Unlimited OCR Works](https://huggingface.co/papers/2606.23050) | Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling… | [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) 29536★ |
-| 71 | [AgentScope 1.0: A Developer-Centric Framework for Building Agentic Applications](https://huggingface.co/papers/2508.16279) | AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure base… | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) 34627★ |
-| 48 | [Very Large-Scale Multi-Agent Simulation in AgentScope](https://huggingface.co/papers/2407.17789) | Enhancements to the AgentScope platform improve scalability, efficiency, and ease of use for large-scale multi-agent simulations through dis… | [modelscope/agentscope](https://github.com/modelscope/agentscope) 34683★ |
-| 62 | [Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739) | Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data genera… | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) 44019★ |
-| 108 | [Hy-Nomas: Towards Free-form Interactive World Generation](https://huggingface.co/papers/2610.36729) | Hy-Nomas is a video world model that uses causal attention and structured conditioning to generate interactive, multi-turn video segments wi… | 💡 [Tencent-Hunyuan/Hy-Nomas](https://github.com/Tencent-Hunyuan/Hy-Nomas) 355★ |
-| 107 | [MOSS-Image Technical Report](https://huggingface.co/papers/2610.23374) | MOSS-Image is an open diffusion transformer that combines high-fidelity synthesis with intent-aware prompt enhancement to generate text-rich… | [OpenMOSS/MOSS-Image](https://github.com/OpenMOSS/MOSS-Image) 2177★ |
-| 31 | [The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction](https://huggingface.co/papers/2609.18063) | Edge0 enables efficient mixture-of-experts inference on consumer hardware by predicting expert routing ahead of time and using recovery adap… | [Edge0-AI/edge0](https://github.com/Edge0-AI/edge0) 7496★ |
-| 23 | [Prism: Dynamic Sparse Attention for Native 2K Joint Video-Audio Generation Model Training](https://huggingface.co/papers/2610.05416) | Prism accelerates native joint video-audio generation at 2K by using dynamic sparse attention guided by local visual variance and audio-visu… | [Tencent-Hunyuan/Prism](https://github.com/Tencent-Hunyuan/Prism) 1440★ |
-| 121 | [nanoMuse: An Open-Source Personal Agent for Every Device You Own](https://huggingface.co/papers/2610.08699) | Assistants from 2011 answered and waited, and agents from 2023 did a task and stopped. | [nano-muse/nanoMuse](https://github.com/nano-muse/nanoMuse) 2798★ |
-| 90 | [OpenDevin: An Open Platform for AI Software Developers as Generalist Agents](https://huggingface.co/papers/2407.16741) | OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, wi… | [opendevin/opendevin](https://github.com/opendevin/opendevin) 92108★ |
+| 158 | [TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138) | A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like… | [tauricresearch/tradingagents](https://github.com/tauricresearch/tradingagents) 118394★ |
+| 125 | [Harness^2: Recursive Agent Harnessing for an Open World](https://huggingface.co/papers/2610.14224) | Harness² improves agent execution harnesses through recursive task-level refinement and continual harness-level learning, boosting performan… | [google-research/harness2](https://github.com/google-research/harness2) 21316★ |
+| 31 | [The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction](https://huggingface.co/papers/2609.18063) | Edge0 enables efficient mixture-of-experts inference on consumer hardware by predicting expert routing ahead of time and using recovery adap… | [Edge0-AI/edge0](https://github.com/Edge0-AI/edge0) 8735★ |
+| 105 | [Unlimited OCR Works](https://huggingface.co/papers/2606.23050) | Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling… | [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) 29774★ |
+| 48 | [Very Large-Scale Multi-Agent Simulation in AgentScope](https://huggingface.co/papers/2407.17789) | Enhancements to the AgentScope platform improve scalability, efficiency, and ease of use for large-scale multi-agent simulations through dis… | [modelscope/agentscope](https://github.com/modelscope/agentscope) 34880★ |
+| 71 | [AgentScope 1.0: A Developer-Centric Framework for Building Agentic Applications](https://huggingface.co/papers/2508.16279) | AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure base… | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) 34798★ |
+| 6 | [TokenEconomizer: Experience-Driven Black-Box Cost Control for Coding Agents](https://huggingface.co/papers/2610.22732) | TokenEconomizer reduces recurring token costs of coding agents across sequential real-world tasks by pruning irrelevant tools, injecting mic… | 💡 [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer) 710★ |
+| 62 | [Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739) | Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data genera… | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) 44071★ |
+| 107 | [MOSS-Image Technical Report](https://huggingface.co/papers/2610.23374) | MOSS-Image is an open diffusion transformer that combines high-fidelity synthesis with intent-aware prompt enhancement to generate text-rich… | [OpenMOSS/MOSS-Image](https://github.com/OpenMOSS/MOSS-Image) 2239★ |
+| 126 | [Hy-Nomas: Towards Free-form Interactive World Generation](https://huggingface.co/papers/2610.36729) | Hy-Nomas is a video world model that uses causal attention and structured conditioning to generate interactive, multi-turn video segments wi… | 💡 [Tencent-Hunyuan/Hy-Nomas](https://github.com/Tencent-Hunyuan/Hy-Nomas) 388★ |
+| 90 | [OpenDevin: An Open Platform for AI Software Developers as Generalist Agents](https://huggingface.co/papers/2407.16741) | OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, wi… | [opendevin/opendevin](https://github.com/opendevin/opendevin) 92204★ |
+| 23 | [Prism: Dynamic Sparse Attention for Native 2K Joint Video-Audio Generation Model Training](https://huggingface.co/papers/2610.05416) | Prism accelerates native joint video-audio generation at 2K by using dynamic sparse attention guided by local visual variance and audio-visu… | [Tencent-Hunyuan/Prism](https://github.com/Tencent-Hunyuan/Prism) 1517★ |
 | 77 | [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://huggingface.co/papers/2309.06180) | PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste i… | [vllm-project/vllm](https://github.com/vllm-project/vllm) 86094★ |
-| 205 | [DynaFlow: Learning Free-Form Multi-Agent Orchestration](https://huggingface.co/papers/2610.34467) | DynaFlow enables adaptive multi-agent collaboration by letting a main agent synthesize executable workflows that coordinate sub-agents throu… | 💡 [amiya-special/Dynaflow](https://github.com/amiya-special/Dynaflow) 142★ |
-| 18 | [Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation](https://huggingface.co/papers/2610.14162) | Next-Concept Modeling uses hierarchical discrete codes and parallel level-wise generation to accelerate diffusion language models while impr… | [HazyResearch/ncm](https://github.com/HazyResearch/ncm) 1230★ |
-| 181 | [MinerU2.5: A Decoupled Vision-Language Model for Efficient High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186) | MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational effici… | [opendatalab/MinerU](https://github.com/opendatalab/MinerU) 82693★ |
-| 118 | [Work Agents: Systems, Capabilities, and Optimization](https://huggingface.co/papers/2610.35845) | The paper proposes a unified framework for work agents that integrates foundation models with runtime harnesses to execute complex digital t… | 💡 [EnjunDu/awesome-working-agent](https://github.com/EnjunDu/awesome-working-agent) 65★ |
-| 180 | [SmolDocling: An ultra-compact vision-language model for end-to-end multi-modal document conversion](https://huggingface.co/papers/2503.11576) | SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document… | [docling-project/docling](https://github.com/docling-project/docling) 69752★ |
-| 27 | [Build, Don't Play: Self-Improving LLM Research Agents Develop a Hearthstone Battlegrounds AI That Ri…](https://huggingface.co/papers/2610.33845) | AutoTavern demonstrates that self-improving LLM research agents can autonomously build a faithful game simulator and train a reinforcement l… | 💡 [MCG-NJU/AutoTavern](https://github.com/MCG-NJU/AutoTavern) 143★ |
-| 75 | [Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413) | Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting,… | [mem0ai/mem0](https://github.com/mem0ai/mem0) 68013★ |
+| 118 | [nanoMuse: An Open-Source Personal Agent for Every Device You Own](https://huggingface.co/papers/2610.08699) | Assistants from 2011 answered and waited, and agents from 2023 did a task and stopped. | [nano-muse/nanoMuse](https://github.com/nano-muse/nanoMuse) 2852★ |
+| 181 | [MinerU2.5: A Decoupled Vision-Language Model for Efficient High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186) | MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational effici… | [opendatalab/MinerU](https://github.com/opendatalab/MinerU) 82758★ |
+| 26 | [PaddleOCR-VL-1.6: Expanding the Frontier of Document Parsing with Under-Optimized Region Refinement…](https://huggingface.co/papers/2606.03264) | PaddleOCR-VL-1.6 enhances document parsing performance through targeted data optimization and progressive post-training techniques, achievin… | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) 91948★ |
+| 19 | [Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation](https://huggingface.co/papers/2610.14162) | Next-Concept Modeling uses hierarchical discrete codes and parallel level-wise generation to accelerate diffusion language models while impr… | [HazyResearch/ncm](https://github.com/HazyResearch/ncm) 1279★ |
+| 142 | [DynaFlow: Learning Free-Form Multi-Agent Orchestration](https://huggingface.co/papers/2610.34467) | DynaFlow enables adaptive multi-agent collaboration by letting a main agent synthesize executable workflows that coordinate sub-agents throu… | 💡 [amiya-special/Dynaflow](https://github.com/amiya-special/Dynaflow) 163★ |
+| 180 | [SmolDocling: An ultra-compact vision-language model for end-to-end multi-modal document conversion](https://huggingface.co/papers/2503.11576) | SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document… | [docling-project/docling](https://github.com/docling-project/docling) 69817★ |
+| 259 | [WeVisOne-VL: Unified Visual Perception from Objects to Pixels](https://huggingface.co/papers/2610.31329) | WeVisOne-VL unifies object-level and pixel-level visual perception via structured token prediction, supporting detection, localization, coun… | 💡 [Tencent/WeVisOne-VL](https://github.com/Tencent/WeVisOne-VL) 428★ |
 
 ## Hugging Face 新上热门的模型
 
@@ -324,9 +319,8 @@
 
 | 名次 | 模型 | 任务 | ♥ | 版本数 |
 | ---: | --- | --- | ---: | ---: |
-| 17 | [nvidia nemotron 3.5 transcribe](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B) | automatic-speech-recognition | 231 | 1 |
-| 46 | [lfm3](https://huggingface.co/AtomicChat/LFM3-1.7B-Uncensored-GGUF) | text-generation | 113 | 1 |
-| 49 | [clover](https://huggingface.co/Diffuspace/Clover-35B-A3B-Preview) | text-generation | 108 | 1 |
+| 12 | [mistral large 4 1t](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B) | image-text-to-text | 1238 | 1 |
+| 42 | [pika h3 flex](https://huggingface.co/Pika-Labs/Pika-H3-Flex) | image-to-video | 123 | 1 |
 
 ## 七、Lobsters 热门
 
@@ -334,37 +328,37 @@
 
 | 分 | 评论 | 标题 | 标签 | 讨论 |
 | ---: | ---: | --- | --- | --- |
-| 95 | 19 | [Apple's git still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html) | `cryptography` `mac` | [讨论](https://lobste.rs/s/xybmsj/apple_s_git_still_trusts_compromised) |
-| 65 | 17 | [AlpineBSD](https://wiki.alpinebsd.org/) | `netbsd` | [讨论](https://lobste.rs/s/yxuvie/alpinebsd) |
-| 15 | 2 | [GitLab security incident: attempted exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html) | `linux` `security` | [讨论](https://lobste.rs/s/2zsjwt/gitlab_security_incident_attempted) |
-| 127 | 32 | [This is not sustainable](https://www.netmeister.org/blog/defense-ddos.html) | `security` | [讨论](https://lobste.rs/s/cpaibp/this_is_not_sustainable) |
-| 31 | 11 | [GOTO Considered Totally Sick (for error handling in C)](https://thestateofinahaze.net/blog/c-goto-considered-totally-sick/) | `c` | [讨论](https://lobste.rs/s/exwlmn/goto_considered_totally_sick_for_error) |
-| 20 | 1 | [EMACS turns 50](https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/) | `emacs` `historical` | [讨论](https://lobste.rs/s/uimyck/emacs_turns_50) |
-| 33 | 0 | [Why Is This Fingerprinting Script Creating Bioweapons?](https://nullpt.rs/fingerprinting-bioweapons) | `ai` `reversing` | [讨论](https://lobste.rs/s/gvy5gz/why_is_this_fingerprinting_script) |
-| 32 | 2 | [Hoot 0.10.0 released](https://spritely.institute/news/hoot-0-10-0-released.html) | `lisp` `release` | [讨论](https://lobste.rs/s/m3gsln/hoot_0_10_0_released) |
-| 11 | 0 | [The case of the 9 bit AES key](https://v12.sh/blog/the-case-of-the-9bit-aes-key) | `cryptography` `reversing` | [讨论](https://lobste.rs/s/dqexzg/case_9_bit_aes_key) |
-| 28 | 13 | [Code-execution flaw in UEFI firmware affects most servers on planet Earth](https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/) | `security` | [讨论](https://lobste.rs/s/0gomue/code_execution_flaw_uefi_firmware) |
-| 84 | 15 | [A fast and secure tar parser for the Rust ecosystem](https://astral.sh/blog/tar-codec) | `python` `rust` | [讨论](https://lobste.rs/s/q7arzy/fast_secure_tar_parser_for_rust_ecosystem) |
-| 35 | 1 | [Start Doing Graph Theory](https://vertex.degree/) | `book` `math` | [讨论](https://lobste.rs/s/46sc07/start_doing_graph_theory) |
-| 6 | 0 | [Redox Ring Buffers Project Summary](https://www.redox-os.org/news/nlnet-rb-summary/) | `osdev` | [讨论](https://lobste.rs/s/brdwr2/redox_ring_buffers_project_summary) |
-| 22 | 2 | [Forging a Microsoft Edge Full Chain with Logic Bugs Only](https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/) | `security` | [讨论](https://lobste.rs/s/ansfvi/forging_microsoft_edge_full_chain_with) |
-| 23 | 7 | [Billion-query-per-second lookup tables in C++](https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/) | `c++` `programming` | [讨论](https://lobste.rs/s/d3ubhd/billion_query_per_second_lookup_tables_c) |
-| 83 | 15 | [Ghostty 1.4.0](https://ghostty.org/docs/install/release-notes/1-4-0) | `release` | [讨论](https://lobste.rs/s/o6vpqb/ghostty_1_4_0) |
-| 69 | 23 | [Four Months of Zig](https://gracefulliberty.com/articles/four-months-of-zig/) | `zig` | [讨论](https://lobste.rs/s/qr59sa/four_months_zig) |
-| 23 | 2 | [Pair-coding Lobste.rs feat](https://lobste.rs/s/mgy3tr) | `ask` `meta` `ruby` | [讨论](https://lobste.rs/s/mgy3tr/pair_coding_lobste_rs_feat) |
-| 13 | 1 | [Raspberry Pi Zero 3 W and Pi 4 Model A on the Way?](https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/) | `hardware` `linux` | [讨论](https://lobste.rs/s/hqcvyj/raspberry_pi_zero_3_w_pi_4_model_on_way) |
-| 4 | 0 | [Introducing the Accessible Components Library](https://tetralogical.com/blog/2026/10/14/accessible-components-library/) | `a11y` `web` | [讨论](https://lobste.rs/s/ssp7ug/introducing_accessible_components) |
+| 23 | 12 | [London meetup](https://lobste.rs/s/dsrruj) | `event` | [讨论](https://lobste.rs/s/dsrruj/london_meetup) |
+| 45 | 25 | [NetBSD adds a new Emacs-like text editor called atto](https://mastodon.sdf.org/@netbsd/117518160563539748) | `editors` `netbsd` | [讨论](https://lobste.rs/s/m6fw0x/netbsd_adds_new_emacs_like_text_editor) |
+| 59 | 12 | [What the fox say?](https://entropicthoughts.com/what-the-fox-say) | `games` | [讨论](https://lobste.rs/s/7qaac6/what_fox_say) |
+| 29 | 38 | [Shared password manager for families?](https://lobste.rs/s/eccbci) | `ask` `security` | [讨论](https://lobste.rs/s/eccbci/shared_password_manager_for_families) |
+| 13 | 1 | [C2PA's eMudhra Moment](https://www.da.vidbuchanan.co.uk/blog/c2pa-four.html) | `cryptography` `security` | [讨论](https://lobste.rs/s/2matgw/c2pa_s_emudhra_moment) |
+| 34 | 1 | [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/) | `retrocomputing` `reversing` | [讨论](https://lobste.rs/s/siebde/my_favourite_powermac_is_nintendo_wii) |
+| 8 | 2 | [If you love a website, back it up](http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/) | `web` | [讨论](https://lobste.rs/s/6ole9g/if_you_love_website_back_it_up) |
+| 42 | 5 | [Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer) | `ai` | [讨论](https://lobste.rs/s/zftely/qwenputer_fully_functioning) |
+| 17 | 6 | [Phorge](https://www.phorge.it/) | `php` `vcs` | [讨论](https://lobste.rs/s/tw3rsp/phorge) |
+| 77 | 11 | [EMACS turns 50](https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/) | `emacs` `historical` | [讨论](https://lobste.rs/s/uimyck/emacs_turns_50) |
+| 121 | 26 | [Apple's git still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html) | `cryptography` `mac` | [讨论](https://lobste.rs/s/xybmsj/apple_s_git_still_trusts_compromised) |
+| 7 | 0 | [Design the interface for functionality not familiarity](https://lapcatsoftware.com/articles/2026/10/10.html) | `mac` | [讨论](https://lobste.rs/s/qqelq1/design_interface_for_functionality_not) |
+| 8 | 6 | [Building NixOS using Nixtamal](https://nixtamal.toast.al/cookbook/nixos-using-nixtamal/) | `nix` | [讨论](https://lobste.rs/s/4x3ten/building_nixos_using_nixtamal) |
+| 43 | 6 | [GitLab security incident: attempted exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html) | `linux` `security` | [讨论](https://lobste.rs/s/2zsjwt/gitlab_security_incident_attempted) |
+| 113 | 11 | [Why Is This Fingerprinting Script Creating Bioweapons?](https://nullpt.rs/fingerprinting-bioweapons) | `reversing` | [讨论](https://lobste.rs/s/gvy5gz/why_is_this_fingerprinting_script) |
+| 9 | 5 | [Extremely brief history of PDP computers](https://entropicthoughts.com/history-of-pdp-computers) | `hardware` `historical` | [讨论](https://lobste.rs/s/ldvd3n/extremely_brief_history_pdp_computers) |
+| 8 | 9 | [The Web Can't Afford a JavaScript Runtime Monoculture](https://redmonk.com/kholterhoff/2026/10/27/js-runtime-monoculture/) | `javascript` | [讨论](https://lobste.rs/s/x6n380/web_can_t_afford_javascript_runtime) |
+| 6 | 1 | [An open format for writing agent-native software requirements](https://slcr.dev/announcements#2026-10-29-slcr-launches) | `building-ai-tooling` `practices` `release` | [讨论](https://lobste.rs/s/nexvnc/open_format_for_writing_agent_native) |
+| 5 | 0 | [XSS in yarr RSS reader](https://0x67673068.me/xss-in-yarr/) | `go` `security` `web` | [讨论](https://lobste.rs/s/1r7enm/xss_yarr_rss_reader) |
+| 1 | 0 | [Pidgin 3.0 Alpha 4 2.98.0 has been released](https://discourse.imfreedom.org/t/pidgin-3-0-alpha-4-2-98-0-has-been-released/445) | `release` | [讨论](https://lobste.rs/s/qsvspv/pidgin_3_0_alpha_4_2_98_0_has_been_released) |
 
 ## 复盘：14 天前报的，后来怎么样
 
 起来了 = 之后 star 翻倍且多了 500 以上，或者之后上了 HN 100 分。比 HN 早 = HN 那一帖比雷达晚几天。用来看哪种判断靠得住。
 
-**最近 60 天**（还有 79 个没到 14 天）
+**最近 60 天**（还有 76 个没到 14 天）
 
 | 当初的判断 | 复盘了 | 起来了 | 命中率 | 比 HN 早（中位数） |
 | --- | ---: | ---: | ---: | ---: |
-| 🚀 爆发 | 7 | 5 | 71% | — |
-| 🔴 先核对 | 8 | 5 | 62% | — |
+| 🚀 爆发 | 11 | 6 | 54% | — |
+| 🔴 先核对 | 10 | 5 | 50% | — |
 | 🟡 在降温 | 5 | 0 | 0% | — |
 | 🔵 已被发现 | 2 | 0 | 0% | — |
 | 🟢 窗口内 | 7 | 4 | 57% | 0 天 |
@@ -373,11 +367,12 @@
 
 | 仓库 | 第一次报 | 当初 | 那时 star | 现在 | HN 最高分 | 结论 |
 | --- | --- | --- | ---: | ---: | ---: | --- |
-| [HeyPuter/everything](https://github.com/HeyPuter/everything) | 2026-10-15 | 🚀 爆发 | 794 | 5010 | 59 | ✅ 起来了 |
-| [Oldcircle/geo-sleuth](https://github.com/Oldcircle/geo-sleuth) | 2026-10-15 | 🟢 窗口内 | 2821 | 4445 | 0 | 没起来 |
-| [T-Auto/dsh-ops](https://github.com/T-Auto/dsh-ops) | 2026-10-15 | 🚀 爆发 | 1764 | 4710 | 0 | ✅ 起来了 |
-| [marclou/mailcheap](https://github.com/marclou/mailcheap) | 2026-10-15 | 🔴 先核对 | 933 | 1539 | 2 | 没起来 |
-| [spideymooon/McOracle](https://github.com/spideymooon/McOracle) | 2026-10-15 | 🔴 先核对 | 287 | 617 | 0 | 没起来 |
+| [Graphicle-AI/graphicle](https://github.com/Graphicle-AI/graphicle) | 2026-10-16 | 🔴 先核对 | 176 | 470 | 48 | 没起来 |
+| [Supermedo/uncharted_pc](https://github.com/Supermedo/uncharted_pc) | 2026-10-16 | 🚀 爆发 | 726 | 2085 | 0 | ✅ 起来了 |
+| [ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL) | 2026-10-16 | 🚀 爆发 | 1229 | 2301 | 9 | 没起来 |
+| [chenglou/handwired](https://github.com/chenglou/handwired) | 2026-10-16 | 🚀 爆发 | 1160 | 2067 | 3 | 没起来 |
+| [feder-cr/open_scion](https://github.com/feder-cr/open_scion) | 2026-10-16 | 🚀 爆发 | 739 | 1018 | 0 | 没起来 |
+| [outcrawlai/scout](https://github.com/outcrawlai/scout) | 2026-10-16 | 🔴 先核对 | 840 | 947 | 0 | 没起来 |
 
 ---
 
