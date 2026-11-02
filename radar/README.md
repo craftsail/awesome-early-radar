@@ -4,6 +4,7 @@
 
 | 日期 | 候选 | 🆕 | 🟢 窗口内 | 🚀 爆发 | 头条 |
 | --- | ---: | ---: | ---: | ---: | --- |
+| [2026-11-02](2026/11/2026-11-02.md) | 102 | 4 | 6 | 15 | [qybaihe/bla](https://github.com/qybaihe/bla) |
 | [2026-11-01](2026/11/2026-11-01.md) | 107 | 7 | 9 | 15 | [SoMarkAI/OXR](https://github.com/SoMarkAI/OXR) |
 | [2026-10-31](2026/10/2026-10-31.md) | 107 | 6 | 8 | 15 | [SoMarkAI/OXR](https://github.com/SoMarkAI/OXR) |
 | [2026-10-30](2026/10/2026-10-30.md) | 107 | 3 | 8 | 15 | [SoMarkAI/OXR](https://github.com/SoMarkAI/OXR) |
