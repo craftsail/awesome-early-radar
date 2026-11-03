@@ -19,33 +19,34 @@
 
 <!-- radar:start -->
 
-### 最新一期：2026-11-02
+### 最新一期：2026-11-03
 
-[完整选题单](radar/latest.md) · [历史](radar/README.md) · 候选 102 个，细查 20 个，🟢 窗口内 6 个
+[完整选题单](radar/latest.md) · [历史](radar/README.md) · 候选 101 个，细查 20 个，🟢 窗口内 5 个
 
 | 分 | 判断 | 仓库 | 一句话 | star | 近 7 天 |
 | ---: | --- | --- | --- | ---: | ---: |
-| 90.2 | 🟢 窗口内 | [qybaihe/bla](https://github.com/qybaihe/bla) | 🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that… | 1871 | +1842 |
-| 90 | 🟢 窗口内 | [CopilotKit/OpenDuet](https://github.com/CopilotKit/OpenDuet) | An Open Source template for a proactive AI agent that gets y… | 1806 | +1805 |
-| 88.8 | 🟢 窗口内 | [SoMarkAI/OXR](https://github.com/SoMarkAI/OXR) | An open-source document parsing model with SOTA accuracy and… | 2867 | +1632 |
-| 85.3 | 🟢 窗口内 | [daveebbelaar/bama](https://github.com/daveebbelaar/bama) | BAMA: Build Any Mac App. Agent skills to research, clone, de… | 1344 | +1223 |
-| 84.2 | 🟢 窗口内 | [physicsdolphin/nv-uefi-unlocker](https://github.com/physicsdolphin/nv-uefi-unlocker) | UEFI pre-driver NVIDIA GPU unlocker for Windows Linux Hackin… | 1129 | +1117 |
-| 82.5 | 🟢 窗口内 | [indexable-inc/blaze](https://github.com/indexable-inc/blaze) | Incremental rust builds up to 92x faster than cargo/rustc | 1876 | +970 |
-| 66.9 | 🟡 在降温 | [andyhuo520/digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo) | AI digital-human talking-head videos from one photo: Renoise… | 1672 | +806 |
-| 64.6 | 🟡 在降温 | [DenisSergeevitch/ex-ussr-kinship-research](https://github.com/DenisSergeevitch/ex-ussr-kinship-research) | Evidence-first genealogy skill for AI agents (Codex, Claude… | 1460 | +638 |
-| 64.2 | 🟡 在降温 | [udhaykumarbala/cleanyourtv-app](https://github.com/udhaykumarbala/cleanyourtv-app) | A community-built phone app for Clean Your TV: clean up an A… | 1384 | +615 |
-| 60.3 | 🟡 在降温 | [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust) | Agent Skills that teach coding agents to write, review, and… | 1654 | +415 |
+| 90.2 | 🟢 窗口内 | [qybaihe/bla](https://github.com/qybaihe/bla) | 🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that… | 2007 | +1835 |
+| 86.9 | 🟢 窗口内 | [physicsdolphin/nv-uefi-unlocker](https://github.com/physicsdolphin/nv-uefi-unlocker) | UEFI pre-driver NVIDIA GPU unlocker for Windows Linux Hackin… | 1461 | +1398 |
+| 84.8 | 🟢 窗口内 | [CopilotKit/OpenDuet](https://github.com/CopilotKit/OpenDuet) | An Open Source template for a proactive AI agent that gets y… | 1869 | +1167 |
+| 83.7 | 🟢 窗口内 | [daveebbelaar/bama](https://github.com/daveebbelaar/bama) | BAMA: Build Any Mac App. Agent skills to research, clone, de… | 1459 | +1073 |
+| 80.4 | 🆕 🟢 窗口内 | [emanuele-em/kanzo](https://github.com/emanuele-em/kanzo) | Self-hosted, sharable kanban for humans and agents. One 4.5… | 909 | +810 |
+| 63.5 | 🟡 在降温 | [andyhuo520/digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo) | AI digital-human talking-head videos from one photo: Renoise… | 1739 | +574 |
+| 63.4 | 🟡 在降温 | [udhaykumarbala/cleanyourtv-app](https://github.com/udhaykumarbala/cleanyourtv-app) | A community-built phone app for Clean Your TV: clean up an A… | 1482 | +563 |
+| 60.9 | 🟡 在降温 | [DenisSergeevitch/ex-ussr-kinship-research](https://github.com/DenisSergeevitch/ex-ussr-kinship-research) | Evidence-first genealogy skill for AI agents (Codex, Claude… | 1520 | +442 |
+| 58.9 | 🟡 在降温 | [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust) | Agent Skills that teach coding agents to write, review, and… | 1688 | +359 |
+| 58.5 | 🟡 在降温 | [indexable-inc/blaze](https://github.com/indexable-inc/blaze) | Incremental rust builds up to 92x faster than cargo/rustc | 1923 | +345 |
 
-**🚀 爆发**：[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) 每天 +5064 · [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea) 每天 +338 · [heydamir/unslop](https://github.com/heydamir/unslop) 每天 +1421 · [wangzan101/Mika](https://github.com/wangzan101/Mika) 每天 +1185 · [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) 每天 +971
+**🚀 爆发**：[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) 每天 +5012 · [storytold/craft-anything](https://github.com/storytold/craft-anything) 每天 +1940 · [heydamir/unslop](https://github.com/heydamir/unslop) 每天 +1420 · [wangzan101/Mika](https://github.com/wangzan101/Mika) 每天 +1205 · [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea) 每天 +409
 
-**复盘**（最近 60 天，起来了 / 复盘了）：🚀 爆发 13/19 · 🔴 先核对 8/15 · 🟡 在降温 0/5 · 🔵 已被发现 0/2 · 🟢 窗口内 5/9
+**复盘**（最近 60 天，起来了 / 复盘了）：🚀 爆发 15/21 · 🔴 先核对 8/16 · 🟡 在降温 0/5 · 🔵 已被发现 0/2 · 🟢 窗口内 6/10
 
-**趋势**：`claude-code` 21 个 · `ai-agents` 21 个 · `codex` 16 个 · `agent-skills` 14 个 · `llm` 13 个 · `mcp-server` 12 个
+**趋势**：`claude-code` 21 个 · `ai-agents` 21 个 · `codex` 16 个 · `agent-skills` 15 个 · `llm` 12 个 · `mcp-server` 11 个
 
 ### 最近 14 期
 
 | 日期 | 候选 | 🆕 | 🟢 窗口内 | 🚀 爆发 | 头条 |
 | --- | ---: | ---: | ---: | ---: | --- |
+| [2026-11-03](radar/2026/11/2026-11-03.md) | 101 | 4 | 5 | 15 | [qybaihe/bla](https://github.com/qybaihe/bla) |
 | [2026-11-02](radar/2026/11/2026-11-02.md) | 102 | 4 | 6 | 15 | [qybaihe/bla](https://github.com/qybaihe/bla) |
 | [2026-11-01](radar/2026/11/2026-11-01.md) | 107 | 7 | 9 | 15 | [SoMarkAI/OXR](https://github.com/SoMarkAI/OXR) |
 | [2026-10-31](radar/2026/10/2026-10-31.md) | 107 | 6 | 8 | 15 | [SoMarkAI/OXR](https://github.com/SoMarkAI/OXR) |
@@ -59,6 +60,5 @@
 | [2026-10-23](radar/2026/10/2026-10-23.md) | 105 | 7 | 10 | 15 | [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) |
 | [2026-10-22](radar/2026/10/2026-10-22.md) | 106 | 8 | 10 | 15 | [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) |
 | [2026-10-21](radar/2026/10/2026-10-21.md) | 108 | 6 | 10 | 15 | [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) |
-| [2026-10-20](radar/2026/10/2026-10-20.md) | 107 | 4 | 8 | 15 | [feder-cr/git-ai](https://github.com/feder-cr/git-ai) |
 
 <!-- radar:end -->
