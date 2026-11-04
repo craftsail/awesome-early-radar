@@ -4,6 +4,7 @@
 
 | 日期 | 候选 | 🆕 | 🟢 窗口内 | 🚀 爆发 | 头条 |
 | --- | ---: | ---: | ---: | ---: | --- |
+| [2026-11-04](2026/11/2026-11-04.md) | 101 | 6 | 7 | 15 | [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) |
 | [2026-11-03](2026/11/2026-11-03.md) | 101 | 4 | 5 | 15 | [qybaihe/bla](https://github.com/qybaihe/bla) |
 | [2026-11-02](2026/11/2026-11-02.md) | 102 | 4 | 6 | 15 | [qybaihe/bla](https://github.com/qybaihe/bla) |
 | [2026-11-01](2026/11/2026-11-01.md) | 107 | 7 | 9 | 15 | [SoMarkAI/OXR](https://github.com/SoMarkAI/OXR) |
