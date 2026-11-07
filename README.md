@@ -19,33 +19,34 @@
 
 <!-- radar:start -->
 
-### 最新一期：2026-11-06
+### 最新一期：2026-11-07
 
-[完整选题单](radar/latest.md) · [历史](radar/README.md) · 候选 103 个，细查 20 个，🟢 窗口内 6 个
+[完整选题单](radar/latest.md) · [历史](radar/README.md) · 候选 101 个，细查 20 个，🟢 窗口内 5 个
 
 | 分 | 判断 | 仓库 | 一句话 | star | 近 7 天 |
 | ---: | --- | --- | --- | ---: | ---: |
-| 94.9 | 🟢 窗口内 | [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) | 🤖 Open-source, local-first alternative to Grok Bot, OpenAI d… | 2720 | +2720 |
-| 92 | 🟢 窗口内 | [benjitaylor/skills](https://github.com/benjitaylor/skills) | Skills for AI coding agents. | 2142 | +2143 |
-| 90.5 | 🟢 窗口内 | [caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram) | Agent skill: describe your stack in a sentence, get an archi… | 1881 | +1881 |
-| 88.4 | 🟢 窗口内 | [physicsdolphin/nv-uefi-unlocker](https://github.com/physicsdolphin/nv-uefi-unlocker) | UEFI pre-driver NVIDIA GPU unlocker for Windows Linux Hackin… | 1872 | +1577 |
-| 81.1 | 🆕 🟢 窗口内 | [andrew-babo/muse4ai](https://github.com/andrew-babo/muse4ai) | Muse4AI — let your AI agent make the pictures and the videos… | 856 | +858 |
-| 74.6 | 🟢 窗口内 | [alchaincyf/huashu-motion](https://github.com/alchaincyf/huashu-motion) | 让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch film… | 2422 | +500 |
-| 68.6 | 🟡 在降温 | [qybaihe/bla](https://github.com/qybaihe/bla) | 🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that… | 2459 | +953 |
-| 64.8 | 🟡 在降温 | [DenisSergeevitch/ex-ussr-kinship-research](https://github.com/DenisSergeevitch/ex-ussr-kinship-research) | Evidence-first genealogy skill for AI agents (Codex, Claude… | 1996 | +648 |
-| 64.6 | 🟡 在降温 | [daveebbelaar/bama](https://github.com/daveebbelaar/bama) | BAMA: Build Any Mac App. Agent skills to research, clone, de… | 1613 | +641 |
-| 62 | 🟡 在降温 | [udhaykumarbala/cleanyourtv-app](https://github.com/udhaykumarbala/cleanyourtv-app) | A community-built phone app for Clean Your TV: clean up an A… | 1690 | +492 |
+| 94.9 | 🟢 窗口内 | [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) | 🤖 Open-source, local-first alternative to Grok Bot, OpenAI d… | 2729 | +2728 |
+| 91.9 | 🟢 窗口内 | [benjitaylor/skills](https://github.com/benjitaylor/skills) | Skills for AI coding agents. | 2251 | +2113 |
+| 91.1 | 🟢 窗口内 | [caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram) | Agent skill: describe your stack in a sentence, get an archi… | 1985 | +1985 |
+| 85.5 | 🟢 窗口内 | [physicsdolphin/nv-uefi-unlocker](https://github.com/physicsdolphin/nv-uefi-unlocker) | UEFI pre-driver NVIDIA GPU unlocker for Windows Linux Hackin… | 1984 | +1241 |
+| 76.4 | 🆕 🟢 窗口内 | [sqlpxc/airhand](https://github.com/sqlpxc/airhand) | High-performance remote desktop over QUIC · Rust + Tauri + R… | 627 | +582 |
+| 67.5 | 🟡 在降温 | [qybaihe/bla](https://github.com/qybaihe/bla) | 🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that… | 2596 | +853 |
+| 65 | 🟡 在降温 | [DenisSergeevitch/ex-ussr-kinship-research](https://github.com/DenisSergeevitch/ex-ussr-kinship-research) | Evidence-first genealogy skill for AI agents (Codex, Claude… | 2075 | +666 |
+| 62.6 | 🟡 在降温 | [daveebbelaar/bama](https://github.com/daveebbelaar/bama) | BAMA: Build Any Mac App. Agent skills to research, clone, de… | 1647 | +521 |
+| 61.4 | 🟡 在降温 | [udhaykumarbala/cleanyourtv-app](https://github.com/udhaykumarbala/cleanyourtv-app) | A community-built phone app for Clean Your TV: clean up an A… | 1756 | +463 |
+| 60.6 | 🟡 在降温 | [ZiChuanLan/agent-purge](https://github.com/ZiChuanLan/agent-purge) | One persona, many coding agents. Replace or inject system pr… | 1358 | +429 |
 
-**🚀 爆发**：[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) 每天 +3369 · [storytold/craft-anything](https://github.com/storytold/craft-anything) 每天 +2801 · [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) 每天 +1001 · [zortos293/Lichii](https://github.com/zortos293/Lichii) 每天 +464 · [worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto](https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto) 每天 +1577
+**🚀 爆发**：[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) 每天 +2981 · [storytold/craft-anything](https://github.com/storytold/craft-anything) 每天 +2810 · [zortos293/Lichii](https://github.com/zortos293/Lichii) 每天 +632 · [heydamir/unslop](https://github.com/heydamir/unslop) 每天 +1265 · [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) 每天 +1022
 
-**复盘**（最近 60 天，起来了 / 复盘了）：🚀 爆发 24/36 · 🔴 先核对 8/19 · 🟡 在降温 0/5 · 🔵 已被发现 1/3 · 🟢 窗口内 6/11
+**复盘**（最近 60 天，起来了 / 复盘了）：🚀 爆发 26/39 · 🔴 先核对 9/20 · 🟡 在降温 0/5 · 🔵 已被发现 1/3 · 🟢 窗口内 6/11
 
-**趋势**：`ai-agents` 24 个 · `claude-code` 20 个 · `codex` 15 个 · `agent-skills` 13 个 · `mcp-server` 12 个 · `macos` 9 个
+**趋势**：`ai-agents` 23 个 · `claude-code` 19 个 · `agent-skills` 15 个 · `codex` 15 个 · `mcp-server` 11 个 · `windows` 10 个
 
 ### 最近 14 期
 
 | 日期 | 候选 | 🆕 | 🟢 窗口内 | 🚀 爆发 | 头条 |
 | --- | ---: | ---: | ---: | ---: | --- |
+| [2026-11-07](radar/2026/11/2026-11-07.md) | 101 | 4 | 5 | 15 | [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) |
 | [2026-11-06](radar/2026/11/2026-11-06.md) | 103 | 3 | 6 | 15 | [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) |
 | [2026-11-05](radar/2026/11/2026-11-05.md) | 100 | 5 | 6 | 15 | [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) |
 | [2026-11-04](radar/2026/11/2026-11-04.md) | 101 | 6 | 7 | 15 | [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) |
@@ -59,6 +60,5 @@
 | [2026-10-27](radar/2026/10/2026-10-27.md) | 107 | 8 | 8 | 15 | [amosblomqvist/learnharness](https://github.com/amosblomqvist/learnharness) |
 | [2026-10-26](radar/2026/10/2026-10-26.md) | 106 | 7 | 10 | 15 | [amosblomqvist/learnharness](https://github.com/amosblomqvist/learnharness) |
 | [2026-10-25](radar/2026/10/2026-10-25.md) | 106 | 6 | 10 | 15 | [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) |
-| [2026-10-24](radar/2026/10/2026-10-24.md) | 105 | 5 | 9 | 15 | [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) |
 
 <!-- radar:end -->
