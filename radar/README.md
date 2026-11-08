@@ -4,6 +4,7 @@
 
 | 日期 | 候选 | 🆕 | 🟢 窗口内 | 🚀 爆发 | 头条 |
 | --- | ---: | ---: | ---: | ---: | --- |
+| [2026-11-08](2026/11/2026-11-08.md) | 101 | 5 | 4 | 15 | [benjitaylor/skills](https://github.com/benjitaylor/skills) |
 | [2026-11-07](2026/11/2026-11-07.md) | 101 | 4 | 5 | 15 | [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) |
 | [2026-11-06](2026/11/2026-11-06.md) | 103 | 3 | 6 | 15 | [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) |
 | [2026-11-05](2026/11/2026-11-05.md) | 100 | 5 | 6 | 15 | [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) |
