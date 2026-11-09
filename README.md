@@ -19,33 +19,34 @@
 
 <!-- radar:start -->
 
-### 最新一期：2026-11-08
+### 最新一期：2026-11-09
 
 [完整选题单](radar/latest.md) · [历史](radar/README.md) · 候选 101 个，细查 20 个，🟢 窗口内 4 个
 
 | 分 | 判断 | 仓库 | 一句话 | star | 近 7 天 |
 | ---: | --- | --- | --- | ---: | ---: |
-| 90.8 | 🟢 窗口内 | [benjitaylor/skills](https://github.com/benjitaylor/skills) | Skills for AI coding agents. | 2525 | +1939 |
-| 90.4 | 🟢 窗口内 | [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) | 🤖 Open-source, local-first alternative to Grok Bot, OpenAI d… | 2735 | +1871 |
-| 86.6 | 🟢 窗口内 | [caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram) | Agent skill: describe your stack in a sentence, get an archi… | 2079 | +1356 |
-| 77.3 | 🟢 窗口内 | [sqlpxc/airhand](https://github.com/sqlpxc/airhand) | High-performance remote desktop over QUIC · Rust + Tauri + R… | 781 | +628 |
-| 69.8 | 🟡 在降温 | [qybaihe/bla](https://github.com/qybaihe/bla) | 🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that… | 2960 | +1072 |
-| 68.1 | 🟡 在降温 | [physicsdolphin/nv-uefi-unlocker](https://github.com/physicsdolphin/nv-uefi-unlocker) | UEFI pre-driver NVIDIA GPU unlocker for Windows Linux Hackin… | 2069 | +907 |
-| 65.3 | 🟡 在降温 | [DenisSergeevitch/ex-ussr-kinship-research](https://github.com/DenisSergeevitch/ex-ussr-kinship-research) | Evidence-first genealogy skill for AI agents (Codex, Claude… | 2150 | +687 |
-| 61.4 | 🟡 在降温 | [ZiChuanLan/agent-purge](https://github.com/ZiChuanLan/agent-purge) | One persona, many coding agents. Replace or inject system pr… | 1432 | +464 |
-| 57.8 | 🟡 在降温 | [daveebbelaar/bama](https://github.com/daveebbelaar/bama) | BAMA: Build Any Mac App. Agent skills to research, clone, de… | 1676 | +322 |
-| 53 | 🟡 在降温 | [xevrion/hatchzip](https://github.com/xevrion/hatchzip) | HatchZip is a free, open-source archive extractor for Window… | 2639 | +199 |
+| 89 | 🟢 窗口内 | [sarpstar/cinecode](https://github.com/sarpstar/cinecode) | Films made with code. Short films, long YouTube videos, ads,… | 1662 | +1662 |
+| 89 | 🟢 窗口内 | [benjitaylor/skills](https://github.com/benjitaylor/skills) | Skills for AI coding agents. | 2722 | +1660 |
+| 84.8 | 🟢 窗口内 | [voyager-so/vork](https://github.com/voyager-so/vork) | Headless 3D and VFX engine for agents. Research preview. | 1174 | +1174 |
+| 77.2 | 🆕 🟢 窗口内 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki) | Let AI agents operate a real iPhone. Local MCP server and ag… | 622 | +622 |
+| 68.2 | 🟡 在降温 | [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) | 🤖 Open-source, local-first alternative to Grok Bot, OpenAI d… | 2741 | +916 |
+| 67.3 | 🟡 在降温 | [caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram) | Agent skill: describe your stack in a sentence, get an archi… | 2154 | +837 |
+| 65.3 | 🟡 在降温 | [DenisSergeevitch/ex-ussr-kinship-research](https://github.com/DenisSergeevitch/ex-ussr-kinship-research) | Evidence-first genealogy skill for AI agents (Codex, Claude… | 2212 | +685 |
+| 64.9 | 🟡 在降温 | [physicsdolphin/nv-uefi-unlocker](https://github.com/physicsdolphin/nv-uefi-unlocker) | UEFI pre-driver NVIDIA GPU unlocker for Windows Linux Hackin… | 2127 | +659 |
+| 61.3 | 🟡 在降温 | [ZiChuanLan/agent-purge](https://github.com/ZiChuanLan/agent-purge) | One persona, many coding agents. Replace or inject system pr… | 1487 | +460 |
+| 54.9 | 🟡 在降温 | [daveebbelaar/bama](https://github.com/daveebbelaar/bama) | BAMA: Build Any Mac App. Agent skills to research, clone, de… | 1705 | +241 |
 
-**🚀 爆发**：[storytold/craft-anything](https://github.com/storytold/craft-anything) 每天 +2773 · [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) 每天 +2668 · [zortos293/Lichii](https://github.com/zortos293/Lichii) 每天 +776 · [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot) 每天 +756 · [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) 每天 +1066
+**🚀 爆发**：[storytold/craft-anything](https://github.com/storytold/craft-anything) 每天 +2685 · [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) 每天 +2415 · [anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager) 每天 +193 · [Minireel/HGhub](https://github.com/Minireel/HGhub) 每天 +687 · [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot) 每天 +900
 
-**复盘**（最近 60 天，起来了 / 复盘了）：🚀 爆发 28/41 · 🔴 先核对 10/21 · 🟡 在降温 0/5 · 🔵 已被发现 1/3 · 🟢 窗口内 6/13
+**复盘**（最近 60 天，起来了 / 复盘了）：🚀 爆发 32/45 · 🔴 先核对 11/23 · 🟡 在降温 0/5 · 🔵 已被发现 1/3 · 🟢 窗口内 6/13
 
-**趋势**：`ai-agents` 24 个 · `claude-code` 20 个 · `agent-skills` 15 个 · `codex` 14 个 · `mcp-server` 11 个 · `macos` 10 个
+**趋势**：`ai-agents` 26 个 · `claude-code` 20 个 · `agent-skills` 14 个 · `codex` 14 个 · `windows` 12 个 · `mcp-server` 9 个
 
 ### 最近 14 期
 
 | 日期 | 候选 | 🆕 | 🟢 窗口内 | 🚀 爆发 | 头条 |
 | --- | ---: | ---: | ---: | ---: | --- |
+| [2026-11-09](radar/2026/11/2026-11-09.md) | 101 | 6 | 4 | 15 | [sarpstar/cinecode](https://github.com/sarpstar/cinecode) |
 | [2026-11-08](radar/2026/11/2026-11-08.md) | 101 | 5 | 4 | 15 | [benjitaylor/skills](https://github.com/benjitaylor/skills) |
 | [2026-11-07](radar/2026/11/2026-11-07.md) | 101 | 4 | 5 | 15 | [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) |
 | [2026-11-06](radar/2026/11/2026-11-06.md) | 103 | 3 | 6 | 15 | [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) |
@@ -59,6 +60,5 @@
 | [2026-10-29](radar/2026/10/2026-10-29.md) | 106 | 7 | 5 | 15 | [xevrion/hatchzip](https://github.com/xevrion/hatchzip) |
 | [2026-10-28](radar/2026/10/2026-10-28.md) | 107 | 4 | 6 | 15 | [indexable-inc/blaze](https://github.com/indexable-inc/blaze) |
 | [2026-10-27](radar/2026/10/2026-10-27.md) | 107 | 8 | 8 | 15 | [amosblomqvist/learnharness](https://github.com/amosblomqvist/learnharness) |
-| [2026-10-26](radar/2026/10/2026-10-26.md) | 106 | 7 | 10 | 15 | [amosblomqvist/learnharness](https://github.com/amosblomqvist/learnharness) |
 
 <!-- radar:end -->
