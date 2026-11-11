@@ -4,6 +4,7 @@
 
 | 日期 | 候选 | 🆕 | 🟢 窗口内 | 🚀 爆发 | 头条 |
 | --- | ---: | ---: | ---: | ---: | --- |
+| [2026-11-11](2026/11/2026-11-11.md) | 101 | 6 | 5 | 15 | [sarpstar/cinecode](https://github.com/sarpstar/cinecode) |
 | [2026-11-10](2026/11/2026-11-10.md) | 101 | 5 | 4 | 15 | [sarpstar/cinecode](https://github.com/sarpstar/cinecode) |
 | [2026-11-09](2026/11/2026-11-09.md) | 101 | 6 | 4 | 15 | [sarpstar/cinecode](https://github.com/sarpstar/cinecode) |
 | [2026-11-08](2026/11/2026-11-08.md) | 101 | 5 | 4 | 15 | [benjitaylor/skills](https://github.com/benjitaylor/skills) |
