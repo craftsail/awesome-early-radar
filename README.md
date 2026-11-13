@@ -19,33 +19,34 @@
 
 <!-- radar:start -->
 
-### 最新一期：2026-11-12
+### 最新一期：2026-11-13
 
-[完整选题单](radar/latest.md) · [历史](radar/README.md) · 候选 99 个，细查 20 个，🟢 窗口内 6 个
+[完整选题单](radar/latest.md) · [历史](radar/README.md) · 候选 98 个，细查 20 个，🟢 窗口内 7 个
 
 | 分 | 判断 | 仓库 | 一句话 | star | 近 7 天 |
 | ---: | --- | --- | --- | ---: | ---: |
-| 90.7 | 🟢 窗口内 | [DIYgod/pinky](https://github.com/DIYgod/pinky) | Let AI agents use your phone, with you in the loop. | 1908 | +1908 |
-| 90.1 | 🟢 窗口内 | [sarpstar/cinecode](https://github.com/sarpstar/cinecode) | Films made with code. Short films, long YouTube videos, ads,… | 2245 | +1829 |
-| 88.3 | 🟢 窗口内 | [reacher-z/Awesome-REA](https://github.com/reacher-z/Awesome-REA) | Curated tools, case studies and papers for reverse engineeri… | 2608 | +1572 |
-| 87.5 | 🟢 窗口内 | [voyager-so/vork](https://github.com/voyager-so/vork) | Headless 3D and VFX engine for agents. Research preview. | 1467 | +1467 |
-| 78.3 | 🟢 窗口内 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki) | Let AI agents operate a real iPhone. Local MCP server and ag… | 989 | +679 |
-| 68.8 | 🟢 窗口内 | [xevrion/hatchzip](https://github.com/xevrion/hatchzip) | HatchZip is a free, open-source archive extractor for Window… | 2850 | +307 |
-| 62.8 | 🟡 在降温 | [caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram) | Agent skill: describe your stack in a sentence, get an archi… | 2419 | +534 |
-| 61.6 | 🟡 在降温 | [physicsdolphin/nv-uefi-unlocker](https://github.com/physicsdolphin/nv-uefi-unlocker) | UEFI pre-driver NVIDIA GPU unlocker for Windows Linux Hackin… | 2347 | +471 |
-| 59.1 | 🟡 在降温 | [DenisSergeevitch/ex-ussr-kinship-research](https://github.com/DenisSergeevitch/ex-ussr-kinship-research) | Evidence-first genealogy skill for AI agents (Codex, Claude… | 2365 | +367 |
-| 57.6 | 🟡 在降温 | [udhaykumarbala/cleanyourtv-app](https://github.com/udhaykumarbala/cleanyourtv-app) | A community-built phone app for Clean Your TV: clean up an A… | 2010 | +316 |
+| 91.4 | 🟢 窗口内 | [DIYgod/pinky](https://github.com/DIYgod/pinky) | Let AI agents use your phone, with you in the loop. | 2029 | +2029 |
+| 90.4 | 🟢 窗口内 | [sarpstar/cinecode](https://github.com/sarpstar/cinecode) | Films made with code. Short films, long YouTube videos, ads,… | 2363 | +1873 |
+| 88 | 🟢 窗口内 | [reacher-z/Awesome-REA](https://github.com/reacher-z/Awesome-REA) | Curated tools, case studies and papers for reverse engineeri… | 2687 | +1534 |
+| 82.7 | 🟢 窗口内 | [voyager-so/vork](https://github.com/voyager-so/vork) | Headless 3D and VFX engine for agents. Research preview. | 1499 | +984 |
+| 76.6 | 🟢 窗口内 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki) | Let AI agents operate a real iPhone. Local MCP server and ag… | 1033 | +592 |
+| 67.4 | 🟢 窗口内 | [xevrion/hatchzip](https://github.com/xevrion/hatchzip) | HatchZip is a free, open-source archive extractor for Window… | 2869 | +273 |
+| 67.2 | 🟢 窗口内 | [indexable-inc/blaze](https://github.com/indexable-inc/blaze) | Incremental rust builds up to 92x faster than cargo/rustc | 2308 | +269 |
+| 62.8 | 🟡 在降温 | [s1dashu/quiet-md](https://github.com/s1dashu/quiet-md) | Blazing-fast native notes app and rich-text editor for macOS… | 1735 | +534 |
+| 61.5 | 🟡 在降温 | [caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram) | Agent skill: describe your stack in a sentence, get an archi… | 2460 | +466 |
+| 60.3 | 🟡 在降温 | [physicsdolphin/nv-uefi-unlocker](https://github.com/physicsdolphin/nv-uefi-unlocker) | UEFI pre-driver NVIDIA GPU unlocker for Windows Linux Hackin… | 2403 | +415 |
 
-**🚀 爆发**：[storytold/craft-anything](https://github.com/storytold/craft-anything) 每天 +2474 · [Lee-xeo/Claude-Cage](https://github.com/Lee-xeo/Claude-Cage) 每天 +336 · [janestreet/agent_skills](https://github.com/janestreet/agent_skills) 每天 +727 · [huamidev/GestaltX](https://github.com/huamidev/GestaltX) 每天 +2136 · [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) 每天 +1900
+**🚀 爆发**：[storytold/craft-anything](https://github.com/storytold/craft-anything) 每天 +2401 · [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) 每天 +1775 · [huamidev/GestaltX](https://github.com/huamidev/GestaltX) 每天 +1743 · [janestreet/agent_skills](https://github.com/janestreet/agent_skills) 每天 +827 · [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot) 每天 +1156
 
-**复盘**（最近 60 天，起来了 / 复盘了）：🚀 爆发 35/51 · 🔴 先核对 14/27 · 🟡 在降温 0/5 · 🔵 已被发现 1/3 · 💤 不活跃 0/1 · 🟢 窗口内 8/16
+**复盘**（最近 60 天，起来了 / 复盘了）：🚀 爆发 36/52 · 🔴 先核对 15/28 · 🟡 在降温 0/5 · 🔵 已被发现 1/3 · 💤 不活跃 0/1 · 🟢 窗口内 8/17
 
-**趋势**：`ai-agents` 25 个 · `claude-code` 22 个 · `codex` 16 个 · `windows` 15 个 · `agent-skills` 12 个 · `macos` 12 个
+**趋势**：`ai-agents` 22 个 · `claude-code` 21 个 · `codex` 14 个 · `windows` 14 个 · `agent-skills` 12 个 · `macos` 11 个
 
 ### 最近 14 期
 
 | 日期 | 候选 | 🆕 | 🟢 窗口内 | 🚀 爆发 | 头条 |
 | --- | ---: | ---: | ---: | ---: | --- |
+| [2026-11-13](radar/2026/11/2026-11-13.md) | 98 | 4 | 7 | 15 | [DIYgod/pinky](https://github.com/DIYgod/pinky) |
 | [2026-11-12](radar/2026/11/2026-11-12.md) | 99 | 2 | 6 | 15 | [DIYgod/pinky](https://github.com/DIYgod/pinky) |
 | [2026-11-11](radar/2026/11/2026-11-11.md) | 101 | 6 | 5 | 15 | [sarpstar/cinecode](https://github.com/sarpstar/cinecode) |
 | [2026-11-10](radar/2026/11/2026-11-10.md) | 101 | 5 | 4 | 15 | [sarpstar/cinecode](https://github.com/sarpstar/cinecode) |
@@ -59,6 +60,5 @@
 | [2026-11-02](radar/2026/11/2026-11-02.md) | 102 | 4 | 6 | 15 | [qybaihe/bla](https://github.com/qybaihe/bla) |
 | [2026-11-01](radar/2026/11/2026-11-01.md) | 107 | 7 | 9 | 15 | [SoMarkAI/OXR](https://github.com/SoMarkAI/OXR) |
 | [2026-10-31](radar/2026/10/2026-10-31.md) | 107 | 6 | 8 | 15 | [SoMarkAI/OXR](https://github.com/SoMarkAI/OXR) |
-| [2026-10-30](radar/2026/10/2026-10-30.md) | 107 | 3 | 8 | 15 | [SoMarkAI/OXR](https://github.com/SoMarkAI/OXR) |
 
 <!-- radar:end -->
