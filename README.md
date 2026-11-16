@@ -19,33 +19,34 @@
 
 <!-- radar:start -->
 
-### 最新一期：2026-11-15
+### 最新一期：2026-11-16
 
-[完整选题单](radar/latest.md) · [历史](radar/README.md) · 候选 98 个，细查 20 个，🟢 窗口内 4 个
+[完整选题单](radar/latest.md) · [历史](radar/README.md) · 候选 95 个，细查 20 个，🟢 窗口内 5 个
 
 | 分 | 判断 | 仓库 | 一句话 | star | 近 7 天 |
 | ---: | --- | --- | --- | ---: | ---: |
-| 88.6 | 🟢 窗口内 | [shinyobjectz/raea](https://github.com/shinyobjectz/raea) | Render Anything Engine: tell your AI what to make. Videos, m… | 2498 | +1603 |
-| 87.1 | 🟢 窗口内 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) | Open-source, self-hosted Slack alternative where your team a… | 1416 | +1416 |
-| 78 | 🟢 窗口内 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki) | Let AI agents operate a real iPhone. Local MCP server and ag… | 1288 | +663 |
-| 75.7 | 🆕 🟢 窗口内 | [makepad/relax](https://github.com/makepad/relax) | Relax Rust JIT | 549 | +549 |
-| 69.5 | 🟡 在降温 | [DIYgod/pinky](https://github.com/DIYgod/pinky) | Let AI use your iPhone or Android phone, with you in the loo… | 2171 | +1047 |
-| 67.2 | 🟡 在降温 | [sarpstar/cinecode](https://github.com/sarpstar/cinecode) | Films made with code. Short films, long YouTube videos, ads,… | 2516 | +827 |
-| 65.2 | 🟡 在降温 | [reacher-z/Awesome-REA](https://github.com/reacher-z/Awesome-REA) | Curated tools, case studies and papers for reverse engineeri… | 2848 | +675 |
-| 61.1 | 🟡 在降温 | [s1dashu/quiet-md](https://github.com/s1dashu/quiet-md) | Blazing-fast native notes app and rich-text editor for macOS… | 1870 | +451 |
-| 59.7 | 🟡 在降温 | [voyager-so/vork](https://github.com/voyager-so/vork) | Headless 3D and VFX engine for agents. Research preview. | 1580 | +389 |
-| 59 | 🟡 在降温 | [physicsdolphin/nv-uefi-unlocker](https://github.com/physicsdolphin/nv-uefi-unlocker) | UEFI pre-driver NVIDIA GPU unlocker for Windows Linux Hackin… | 2492 | +363 |
+| 88.2 | 🟢 窗口内 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) | Open-source, self-hosted Slack alternative where your team a… | 1550 | +1550 |
+| 76.1 | 🟢 窗口内 | [makepad/relax](https://github.com/makepad/relax) | Relax Rust JIT | 565 | +565 |
+| 74.9 | 🆕 🟢 窗口内 | [credoksopho1984/blender-ai-copilot-studio](https://github.com/credoksopho1984/blender-ai-copilot-studio) | An AI copilot and MCP server for Blender that turns plain-la… | 513 | +513 |
+| 74.9 | 🆕 🟢 窗口内 | [racdeufindurch198812/Blender-AI-MCP-Studio](https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio) | Blender AI MCP Studio is an AI assistant and built-in Model… | 511 | +511 |
+| 74.8 | 🆕 🟢 窗口内 | [tiobeharxi1987/blender-ai-copilot-flow](https://github.com/tiobeharxi1987/blender-ai-copilot-flow) | A controlled AI workflow for Blender: every copilot edit is… | 510 | +510 |
+| 65.4 | 🟡 在降温 | [DIYgod/pinky](https://github.com/DIYgod/pinky) | Let AI use your iPhone or Android phone, with you in the loo… | 2236 | +692 |
+| 64.3 | 🟡 在降温 | [sarpstar/cinecode](https://github.com/sarpstar/cinecode) | Films made with code. Short films, long YouTube videos, ads,… | 2570 | +617 |
+| 63.2 | 🟡 在降温 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki) | Let AI agents operate a real iPhone. Local MCP server and ag… | 1372 | +556 |
+| 58.7 | 🟡 在降温 | [s1dashu/quiet-md](https://github.com/s1dashu/quiet-md) | Blazing-fast native notes app and rich-text editor for macOS… | 1889 | +355 |
+| 58.5 | 🟡 在降温 | [physicsdolphin/nv-uefi-unlocker](https://github.com/physicsdolphin/nv-uefi-unlocker) | UEFI pre-driver NVIDIA GPU unlocker for Windows Linux Hackin… | 2553 | +346 |
 
-**🚀 爆发**：[libracoder/kiri](https://github.com/libracoder/kiri) 每天 +322 · [huamidev/GestaltX](https://github.com/huamidev/GestaltX) 每天 +1263 · [deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo) 每天 +646 · [Minireel/HGhub](https://github.com/Minireel/HGhub) 每天 +759 · [janestreet/agent_skills](https://github.com/janestreet/agent_skills) 每天 +752
+**🚀 爆发**：[libracoder/kiri](https://github.com/libracoder/kiri) 每天 +519 · [deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo) 每天 +880 · [huamidev/GestaltX](https://github.com/huamidev/GestaltX) 每天 +1106 · [janestreet/agent_skills](https://github.com/janestreet/agent_skills) 每天 +729 · [Minireel/HGhub](https://github.com/Minireel/HGhub) 每天 +722
 
-**复盘**（最近 60 天，起来了 / 复盘了）：🚀 爆发 43/59 · 🔴 先核对 18/32 · 🟡 在降温 0/5 · 🔵 已被发现 1/3 · 💤 不活跃 0/1 · 🟢 窗口内 8/18
+**复盘**（最近 60 天，起来了 / 复盘了）：🚀 爆发 45/61 · 🔴 先核对 19/33 · 🟡 在降温 0/5 · 🔵 已被发现 1/3 · 💤 不活跃 0/1 · 🟢 窗口内 8/18
 
-**趋势**：`ai-agents` 24 个 · `claude-code` 23 个 · `codex` 17 个 · `windows` 16 个 · `agent-skills` 12 个 · `macos` 11 个
+**趋势**：`ai-agents` 23 个 · `claude-code` 21 个 · `codex` 16 个 · `windows` 16 个 · `agent-skills` 12 个 · `mcp-server` 12 个
 
 ### 最近 14 期
 
 | 日期 | 候选 | 🆕 | 🟢 窗口内 | 🚀 爆发 | 头条 |
 | --- | ---: | ---: | ---: | ---: | --- |
+| [2026-11-16](radar/2026/11/2026-11-16.md) | 95 | 13 | 5 | 15 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) |
 | [2026-11-15](radar/2026/11/2026-11-15.md) | 98 | 12 | 4 | 15 | [shinyobjectz/raea](https://github.com/shinyobjectz/raea) |
 | [2026-11-14](radar/2026/11/2026-11-14.md) | 99 | 3 | 6 | 15 | [DIYgod/pinky](https://github.com/DIYgod/pinky) |
 | [2026-11-13](radar/2026/11/2026-11-13.md) | 98 | 4 | 7 | 15 | [DIYgod/pinky](https://github.com/DIYgod/pinky) |
@@ -59,6 +60,5 @@
 | [2026-11-05](radar/2026/11/2026-11-05.md) | 100 | 5 | 6 | 15 | [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) |
 | [2026-11-04](radar/2026/11/2026-11-04.md) | 101 | 6 | 7 | 15 | [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) |
 | [2026-11-03](radar/2026/11/2026-11-03.md) | 101 | 4 | 5 | 15 | [qybaihe/bla](https://github.com/qybaihe/bla) |
-| [2026-11-02](radar/2026/11/2026-11-02.md) | 102 | 4 | 6 | 15 | [qybaihe/bla](https://github.com/qybaihe/bla) |
 
 <!-- radar:end -->
