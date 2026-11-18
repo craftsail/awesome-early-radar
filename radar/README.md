@@ -4,6 +4,7 @@
 
 | 日期 | 候选 | 🆕 | 🟢 窗口内 | 🚀 爆发 | 头条 |
 | --- | ---: | ---: | ---: | ---: | --- |
+| [2026-11-18](2026/11/2026-11-18.md) | 94 | 12 | 8 | 15 | [mdiri-ai/SoduWork](https://github.com/mdiri-ai/SoduWork) |
 | [2026-11-17](2026/11/2026-11-17.md) | 96 | 5 | 5 | 15 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) |
 | [2026-11-16](2026/11/2026-11-16.md) | 95 | 13 | 5 | 15 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) |
 | [2026-11-15](2026/11/2026-11-15.md) | 98 | 12 | 4 | 15 | [shinyobjectz/raea](https://github.com/shinyobjectz/raea) |
