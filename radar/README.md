@@ -4,6 +4,7 @@
 
 | 日期 | 候选 | 🆕 | 🟢 窗口内 | 🚀 爆发 | 头条 |
 | --- | ---: | ---: | ---: | ---: | --- |
+| [2026-11-20](2026/11/2026-11-20.md) | 99 | 14 | 3 | 15 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) |
 | [2026-11-19](2026/11/2026-11-19.md) | 98 | 9 | 6 | 15 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) |
 | [2026-11-18](2026/11/2026-11-18.md) | 94 | 12 | 8 | 15 | [mdiri-ai/SoduWork](https://github.com/mdiri-ai/SoduWork) |
 | [2026-11-17](2026/11/2026-11-17.md) | 96 | 5 | 5 | 15 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) |
