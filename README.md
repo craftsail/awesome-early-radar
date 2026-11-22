@@ -19,33 +19,34 @@
 
 <!-- radar:start -->
 
-### 最新一期：2026-11-21
+### 最新一期：2026-11-22
 
-[完整选题单](radar/latest.md) · [历史](radar/README.md) · 候选 98 个，细查 20 个，🟢 窗口内 4 个
+[完整选题单](radar/latest.md) · [历史](radar/README.md) · 候选 99 个，细查 20 个，🟢 窗口内 8 个
 
 | 分 | 判断 | 仓库 | 一句话 | star | 近 7 天 |
 | ---: | --- | --- | --- | ---: | ---: |
-| 86.7 | 🟢 窗口内 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) | Agent skill for hill-climbing local LLM serving speed (decod… | 1378 | +1378 |
-| 83.5 | 🟢 窗口内 | [huggingface/pybot](https://github.com/huggingface/pybot) | PyBot: a chatbot written in pure Python by a swarm of agents… | 1049 | +1047 |
-| 80.2 | 🟢 窗口内 | [Lemxy/WinRust](https://github.com/Lemxy/WinRust) | Windows shell replacement in Rust: taskbar, file manager, NT… | 795 | +795 |
-| 79.5 | 🆕 🟢 窗口内 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills) | 32 free marketing skills for your AI agent: research, positi… | 750 | +750 |
-| 62.5 | 🟡 在降温 | [s1dashu/quiet-md](https://github.com/s1dashu/quiet-md) | Blazing-fast native notes app and rich-text editor for macOS… | 2382 | +519 |
-| 61.1 | 🟡 在降温 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) | Open-source, self-hosted Slack alternative where your team a… | 1864 | +448 |
-| 60.9 | 🟡 在降温 | [DIYgod/pinky](https://github.com/DIYgod/pinky) | Let AI use your iPhone or Android phone, with you in the loo… | 2610 | +442 |
-| 60.3 | 🟡 在降温 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki) | Poki uses your iPhone like you do. An open-source agent app… | 1704 | +414 |
-| 57.1 | 🟡 在降温 | [sarpstar/cinecode](https://github.com/sarpstar/cinecode) | Films made with code. Short films, long YouTube videos, ads,… | 2819 | +300 |
-| 56.7 | 🟡 在降温 | [physicsdolphin/nv-uefi-unlocker](https://github.com/physicsdolphin/nv-uefi-unlocker) | UEFI pre-driver NVIDIA GPU unlocker for Windows Linux Hackin… | 2778 | +288 |
+| 94.7 | 🟢 窗口内 | [bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) | AI assistant and MCP server for Blender: visual chat, scene… | 2681 | +2681 |
+| 90 | 🟢 窗口内 | [iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping) | Paste a link, get captioned 9:16 clips in ~2 min. Free, loca… | 1802 | +1802 |
+| 89.6 | 🟢 窗口内 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) | Agent skill for hill-climbing local LLM serving speed (decod… | 1750 | +1750 |
+| 89.6 | 🟢 窗口内 | [XinaTian/MROffice](https://github.com/XinaTian/MROffice) | MR Office: open-source document, spreadsheet, presentation,… | 1756 | +1755 |
+| 83.9 | 🟢 窗口内 | [huggingface/pybot](https://github.com/huggingface/pybot) | PyBot: a chatbot written in pure Python by a swarm of agents… | 1092 | +1090 |
+| 82.7 | 🟢 窗口内 | [Lemxy/WinRust](https://github.com/Lemxy/WinRust) | Windows shell replacement in Rust: taskbar, file manager, NT… | 979 | +979 |
+| 80 | 🟢 窗口内 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills) | 32 free marketing skills for your AI agent: research, positi… | 784 | +784 |
+| 78.4 | 🟢 窗口内 | [s1dashu/quiet-md](https://github.com/s1dashu/quiet-md) | Blazing-fast native notes app and rich-text editor for macOS… | 2565 | +684 |
+| 60 | 🟡 在降温 | [DIYgod/pinky](https://github.com/DIYgod/pinky) | Let AI use your iPhone or Android phone, with you in the loo… | 2649 | +403 |
+| 59.2 | 🟡 在降温 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki) | Poki uses your iPhone like you do. An open-source agent app… | 1758 | +370 |
 
-**🚀 爆发**：[erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) 每天 +1434 · [krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor) 每天 +1215 · [bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) 每天 +1111 · [simplexai-labs/linger](https://github.com/simplexai-labs/linger) 每天 +273 · [iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping) 每天 +725
+**🚀 爆发**：[ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida) 每天 +5227 · [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) 每天 +1312 · [krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor) 每天 +1080 · [bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) 每天 +1013 · [omonkeyz/xbox-emulator](https://github.com/omonkeyz/xbox-emulator) 每天 +898
 
-**复盘**（最近 60 天，起来了 / 复盘了）：🚀 爆发 51/70 · 🔴 先核对 21/38 · 🟡 在降温 0/6 · 🔵 已被发现 1/3 · 💤 不活跃 0/1 · 🟢 窗口内 10/22
+**复盘**（最近 60 天，起来了 / 复盘了）：🚀 爆发 51/72 · 🔴 先核对 22/40 · 🟡 在降温 0/6 · 🔵 已被发现 1/3 · 💤 不活跃 0/1 · 🟢 窗口内 10/22
 
-**趋势**：`claude-code` 25 个 · `ai-agents` 22 个 · `codex` 19 个 · `mcp-server` 15 个 · `model-context-protocol` 15 个 · `windows` 13 个
+**趋势**：`claude-code` 24 个 · `ai-agents` 20 个 · `codex` 18 个 · `model-context-protocol` 17 个 · `mcp-server` 16 个 · `windows` 13 个
 
 ### 最近 14 期
 
 | 日期 | 候选 | 🆕 | 🟢 窗口内 | 🚀 爆发 | 头条 |
 | --- | ---: | ---: | ---: | ---: | --- |
+| [2026-11-22](radar/2026/11/2026-11-22.md) | 99 | 5 | 8 | 15 | [bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) |
 | [2026-11-21](radar/2026/11/2026-11-21.md) | 98 | 5 | 4 | 15 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) |
 | [2026-11-20](radar/2026/11/2026-11-20.md) | 99 | 14 | 3 | 15 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) |
 | [2026-11-19](radar/2026/11/2026-11-19.md) | 98 | 9 | 6 | 15 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) |
@@ -59,6 +60,5 @@
 | [2026-11-11](radar/2026/11/2026-11-11.md) | 101 | 6 | 5 | 15 | [sarpstar/cinecode](https://github.com/sarpstar/cinecode) |
 | [2026-11-10](radar/2026/11/2026-11-10.md) | 101 | 5 | 4 | 15 | [sarpstar/cinecode](https://github.com/sarpstar/cinecode) |
 | [2026-11-09](radar/2026/11/2026-11-09.md) | 101 | 6 | 4 | 15 | [sarpstar/cinecode](https://github.com/sarpstar/cinecode) |
-| [2026-11-08](radar/2026/11/2026-11-08.md) | 101 | 5 | 4 | 15 | [benjitaylor/skills](https://github.com/benjitaylor/skills) |
 
 <!-- radar:end -->
