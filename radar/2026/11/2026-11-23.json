@@ -1,0 +1,3935 @@
+{
+  "date": "2026-11-23T07:06:00.020450271Z",
+  "params": {
+    "topics": [
+      "agent",
+      "mcp",
+      "rust",
+      "local-first"
+    ],
+    "days": 30,
+    "min_stars": 50,
+    "max_stars": 3000,
+    "deep": 20
+  },
+  "candidates": 100,
+  "repos": [
+    {
+      "repo": "bookwjitchieni1986/blender-ai-mcp-addon",
+      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+      "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+      "lang": null,
+      "homepage": null,
+      "license": "MIT",
+      "stars": 2758,
+      "forks": 39,
+      "open_issues": 61,
+      "stars_7d": 2758,
+      "stars_prev_7d": 0,
+      "delta": 77,
+      "is_new": false,
+      "known": false,
+      "last14": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        937,
+        934,
+        825,
+        62,
+        0
+      ],
+      "from_history": true,
+      "created_at": "2026-11-19T14:43:10Z",
+      "pushed_at": "2026-11-22T13:29:36Z",
+      "age_days": 3,
+      "idle_days": 0,
+      "hn": {
+        "posts": 0,
+        "max_points": 0,
+        "best": null,
+        "first_found": null
+      },
+      "flags": [],
+      "topics": [
+        "ai-agents",
+        "ai-assistant",
+        "blender",
+        "blender-addon",
+        "blender-ai",
+        "blender-automation",
+        "blender-mcp",
+        "blender-plugin",
+        "blender-scripting",
+        "bpy",
+        "chatgpt",
+        "claude",
+        "gemini",
+        "llm",
+        "mcp",
+        "mcp-for-blender",
+        "mcp-server",
+        "model-context-protocol",
+        "ollama",
+        "opencode"
+      ],
+      "matched": [
+        "agent",
+        "mcp"
+      ],
+      "score": 95.1,
+      "verdict": "in_window"
+    },
+    {
+      "repo": "XinaTian/MROffice",
+      "url": "https://github.com/XinaTian/MROffice",
+      "desc": "MR Office — the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, presentations, PDF and code in the browser. Copilot in every editor edits real Word, Excel and PowerPoint files with you; an MCP server lets Claude, ChatGPT, Cursor and Codex create and edit them; embed it in your app with one line.",
+      "lang": "TypeScript",
+      "homepage": "https://mroffice.ai",
+      "license": "AGPL-3.0",
+      "stars": 2461,
+      "forks": 283,
+      "open_issues": 0,
+      "stars_7d": 2459,
+      "stars_prev_7d": 2,
+      "delta": 705,
+      "is_new": false,
+      "known": false,
+      "last14": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        32,
+        490,
+        643,
+        674,
+        619,
+        0
+      ],
+      "from_history": true,
+      "created_at": "2026-11-10T17:54:07Z",
+      "pushed_at": "2026-11-23T02:37:02Z",
+      "age_days": 12,
+      "idle_days": 0,
+      "hn": {
+        "posts": 1,
+        "max_points": 4,
+        "best": "https://news.ycombinator.com/item?id=50546074",
+        "first_found": null
+      },
+      "flags": [],
+      "topics": [
+        "ai",
+        "ai-agent",
+        "claude-code",
+        "codex",
+        "copilot",
+        "cursor",
+        "document-editor",
+        "docx",
+        "embed",
+        "excel",
+        "mcp",
+        "mcp-server",
+        "microsoft-office-alternative",
+        "office-suite",
+        "pdf-editor",
+        "powerpoint",
+        "pptx",
+        "spreadsheet",
+        "word",
+        "xlsx"
+      ],
+      "matched": [
+        "mcp"
+      ],
+      "score": 93.7,
+      "verdict": "in_window"
+    },
+    {
+      "repo": "iamajmeena/neonclipping",
+      "url": "https://github.com/iamajmeena/neonclipping",
+      "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+      "lang": "Python",
+      "homepage": null,
+      "license": "MIT",
+      "stars": 2166,
+      "forks": 126,
+      "open_issues": 30,
+      "stars_7d": 2166,
+      "stars_prev_7d": 0,
+      "delta": 364,
+      "is_new": false,
+      "known": false,
+      "last14": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        657,
+        728,
+        460,
+        321,
+        0
+      ],
+      "from_history": true,
+      "created_at": "2026-11-19T10:00:43Z",
+      "pushed_at": "2026-11-21T22:46:46Z",
+      "age_days": 3,
+      "idle_days": 1,
+      "hn": {
+        "posts": 0,
+        "max_points": 0,
+        "best": null,
+        "first_found": null
+      },
+      "flags": [],
+      "topics": [
+        "ai-video-clipper",
+        "clipping",
+        "faster-whisper",
+        "ffmpeg",
+        "gameplay-clipper",
+        "local-llm",
+        "ollama",
+        "open-source-video-editor",
+        "opusclip-alternative",
+        "shorts",
+        "twitch-clips",
+        "vertical-video",
+        "video",
+        "whisper",
+        "youtube-shorts-generator",
+        "yt-dlp"
+      ],
+      "matched": [
+        "local-first"
+      ],
+      "score": 92.2,
+      "verdict": "in_window"
+    },
+    {
+      "repo": "sybil-solutions/inference-optimisation-skill",
+      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+      "desc": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+      "lang": "Python",
+      "homepage": null,
+      "license": "MIT",
+      "stars": 2000,
+      "forks": 184,
+      "open_issues": 20,
+      "stars_7d": 1597,
+      "stars_prev_7d": 403,
+      "delta": 250,
+      "is_new": false,
+      "known": false,
+      "last14": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        403,
+        576,
+        179,
+        113,
+        107,
+        408,
+        214,
+        0
+      ],
+      "from_history": true,
+      "created_at": "2026-11-16T18:40:04Z",
+      "pushed_at": "2026-11-16T18:40:08Z",
+      "age_days": 6,
+      "idle_days": 6,
+      "hn": {
+        "posts": 0,
+        "max_points": 0,
+        "best": null,
+        "first_found": null
+      },
+      "flags": [],
+      "topics": [
+        "agent-skill",
+        "benchmarking",
+        "claude-code",
+        "inference",
+        "llm",
+        "speculative-decoding"
+      ],
+      "matched": [
+        "agent"
+      ],
+      "score": 88.5,
+      "verdict": "in_window"
+    },
+    {
+      "repo": "Lemxy/WinRust",
+      "url": "https://github.com/Lemxy/WinRust",
+      "desc": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
+      "lang": "Rust",
+      "homepage": null,
+      "license": "Apache-2.0",
+      "stars": 1270,
+      "forks": 70,
+      "open_issues": 51,
+      "stars_7d": 1270,
+      "stars_prev_7d": 0,
+      "delta": 291,
+      "is_new": false,
+      "known": false,
+      "last14": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        80,
+        73,
+        348,
+        298,
+        183,
+        288,
+        0
+      ],
+      "from_history": true,
+      "created_at": "2026-11-17T14:27:06Z",
+      "pushed_at": "2026-11-22T21:12:31Z",
+      "age_days": 5,
+      "idle_days": 0,
+      "hn": {
+        "posts": 0,
+        "max_points": 0,
+        "best": null,
+        "first_found": null
+      },
+      "flags": [],
+      "topics": [],
+      "matched": [
+        "rust"
+      ],
+      "score": 85.8,
+      "verdict": "in_window"
+    },
+    {
+      "repo": "huggingface/pybot",
+      "url": "https://github.com/huggingface/pybot",
+      "desc": "PyBot: a chatbot written in pure Python by a swarm of agents. No weights, no training, just rules.",
+      "lang": "Python",
+      "homepage": null,
+      "license": "Apache-2.0",
+      "stars": 1126,
+      "forks": 126,
+      "open_issues": 12,
+      "stars_7d": 799,
+      "stars_prev_7d": 327,
+      "delta": 34,
+      "is_new": false,
+      "known": false,
+      "last14": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        325,
+        408,
+        132,
+        114,
+        71,
+        39,
+        35,
+        0
+      ],
+      "from_history": true,
+      "created_at": "2026-11-12T11:35:13Z",
+      "pushed_at": "2026-11-16T11:07:29Z",
+      "age_days": 10,
+      "idle_days": 6,
+      "hn": {
+        "posts": 2,
+        "max_points": 7,
+        "best": "https://news.ycombinator.com/item?id=50517920",
+        "first_found": null
+      },
+      "flags": [],
+      "topics": [],
+      "matched": [
+        "agent"
+      ],
+      "score": 80.2,
+      "verdict": "in_window"
+    },
+    {
+      "repo": "s1dashu/quiet-md",
+      "url": "https://github.com/s1dashu/quiet-md",
+      "desc": "Blazing-fast native notes app and rich-text editor for macOS, Windows, and Linux. Built with Rust + GPUI. Local-first and beautifully designed.",
+      "lang": "Rust",
+      "homepage": "https://quiet.md",
+      "license": "MIT",
+      "stars": 2650,
+      "forks": 226,
+      "open_issues": 46,
+      "stars_7d": 745,
+      "stars_prev_7d": 377,
+      "delta": 85,
+      "is_new": false,
+      "known": false,
+      "last14": [
+        52,
+        61,
+        87,
+        64,
+        66,
+        21,
+        26,
+        46,
+        34,
+        29,
+        370,
+        182,
+        84,
+        0
+      ],
+      "from_history": true,
+      "created_at": "2026-11-01T14:22:53Z",
+      "pushed_at": "2026-11-23T02:10:30Z",
+      "age_days": 21,
+      "idle_days": 0,
+      "hn": {
+        "posts": 0,
+        "max_points": 0,
+        "best": null,
+        "first_found": null
+      },
+      "flags": [],
+      "topics": [],
+      "matched": [
+        "rust",
+        "local-first"
+      ],
+      "score": 79.4,
+      "verdict": "in_window"
+    },
+    {
+      "repo": "boringmarketer/boring-marketing-skills",
+      "url": "https://github.com/boringmarketer/boring-marketing-skills",
+      "desc": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
+      "lang": "Python",
+      "homepage": "https://boringmarketing.com",
+      "license": "MIT",
+      "stars": 799,
+      "forks": 282,
+      "open_issues": 2,
+      "stars_7d": 516,
+      "stars_prev_7d": 283,
+      "delta": 15,
+      "is_new": false,
+      "known": false,
+      "last14": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        283,
+        303,
+        91,
+        49,
+        28,
+        31,
+        14,
+        0
+      ],
+      "from_history": true,
+      "created_at": "2026-11-16T15:09:46Z",
+      "pushed_at": "2026-11-17T22:53:58Z",
+      "age_days": 6,
+      "idle_days": 5,
+      "hn": {
+        "posts": 0,
+        "max_points": 0,
+        "best": null,
+        "first_found": null
+      },
+      "flags": [],
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "copywriting",
+        "local-seo",
+        "marketing",
+        "seo"
+      ],
+      "matched": [
+        "agent"
+      ],
+      "score": 75.0,
+      "verdict": "in_window"
+    },
+    {
+      "repo": "DIYgod/pinky",
+      "url": "https://github.com/DIYgod/pinky",
+      "desc": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.",
+      "lang": "Go",
+      "homepage": null,
+      "license": "Apache-2.0",
+      "stars": 2692,
+      "forks": 278,
+      "open_issues": 20,
+      "stars_7d": 374,
+      "stars_prev_7d": 779,
+      "delta": 43,
+      "is_new": false,
+      "known": false,
+      "last14": [
+        219,
+        142,
+        129,
+        67,
+        71,
+        78,
+        73,
+        92,
+        82,
+        68,
+        51,
+        43,
+        38,
+        0
+      ],
+      "from_history": true,
+      "created_at": "2026-11-06T16:53:14Z",
+      "pushed_at": "2026-11-23T06:29:04Z",
+      "age_days": 16,
+      "idle_days": 0,
+      "hn": {
+        "posts": 0,
+        "max_points": 0,
+        "best": null,
+        "first_found": null
+      },
+      "flags": [],
+      "topics": [
+        "ai-agent",
+        "android",
+        "claude-code",
+        "ios",
+        "iphone",
+        "mcp",
+        "mcp-server",
+        "phone-automation"
+      ],
+      "matched": [
+        "agent",
+        "mcp"
+      ],
+      "score": 59.3,
+      "verdict": "cooling"
+    },
+    {
+      "repo": "JosssphZhou/poki",
+      "url": "https://github.com/JosssphZhou/poki",
+      "desc": "Poki uses your iPhone like you do. An open-source agent app that runs on your iPhone, reads the screen, and taps, types and swipes in real apps with your own model account.",
+      "lang": "Swift",
+      "homepage": "https://poki.bot",
+      "license": "AGPL-3.0",
+      "stars": 1859,
+      "forks": 277,
+      "open_issues": 171,
+      "stars_7d": 327,
+      "stars_prev_7d": 718,
+      "delta": 101,
+      "is_new": false,
+      "known": false,
+      "last14": [
+        120,
+        48,
+        48,
+        101,
+        158,
+        98,
+        145,
+        46,
+        28,
+        71,
+        28,
+        64,
+        90,
+        0
+      ],
+      "from_history": true,
+      "created_at": "2026-11-05T15:04:31Z",
+      "pushed_at": "2026-11-23T06:34:51Z",
+      "age_days": 17,
+      "idle_days": 0,
+      "hn": {
+        "posts": 0,
+        "max_points": 0,
+        "best": null,
+        "first_found": null
+      },
+      "flags": [],
+      "topics": [
+        "ai-agents",
+        "ai-assistant",
+        "automation",
+        "claude-code",
+        "computer-use",
+        "gui-agent",
+        "ios",
+        "ios-app",
+        "iphone",
+        "llm",
+        "mcp",
+        "mobile-agent",
+        "model-context-protocol",
+        "open-source",
+        "phone-agent",
+        "swift",
+        "voice-assistant"
+      ],
+      "matched": [
+        "agent",
+        "mcp"
+      ],
+      "score": 57.9,
+      "verdict": "cooling"
+    },
+    {
+      "repo": "agentes-chat/agentes-chat",
+      "url": "https://github.com/agentes-chat/agentes-chat",
+      "desc": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+      "lang": "TypeScript",
+      "homepage": "https://agentes.chat",
+      "license": "AGPL-3.0",
+      "stars": 1963,
+      "forks": 382,
+      "open_issues": 434,
+      "stars_7d": 317,
+      "stars_prev_7d": 1646,
+      "delta": 47,
+      "is_new": false,
+      "known": false,
+      "last14": [
+        0,
+        605,
+        635,
+        108,
+        67,
+        148,
+        83,
+        46,
+        34,
+        44,
+        97,
+        49,
+        47,
+        0
+      ],
+      "from_history": true,
+      "created_at": "2026-11-09T00:50:28Z",
+      "pushed_at": "2026-11-23T06:49:10Z",
+      "age_days": 14,
+      "idle_days": 0,
+      "hn": {
+        "posts": 7,
+        "max_points": 5,
+        "best": "https://news.ycombinator.com/item?id=49789538",
+        "first_found": null
+      },
+      "flags": [],
+      "topics": [
+        "agentic-ai",
+        "ai-agents",
+        "browser-automation",
+        "chat",
+        "claude",
+        "claude-code",
+        "codex",
+        "collaboration",
+        "computer-use",
+        "docker-compose",
+        "gemini",
+        "grok",
+        "human-in-the-loop",
+        "llm",
+        "mcp",
+        "multi-agent",
+        "openai",
+        "self-hosted",
+        "slack-alternative",
+        "team-chat"
+      ],
+      "matched": [
+        "agent",
+        "mcp"
+      ],
+      "score": 57.6,
+      "verdict": "cooling"
+    },
+    {
+      "repo": "physicsdolphin/nv-uefi-unlocker",
+      "url": "https://github.com/physicsdolphin/nv-uefi-unlocker",
+      "desc": "UEFI pre-driver NVIDIA GPU unlocker for Windows Linux Hackintosh and all EFI-bootable system (Rust): SEC2 scrubber -> FWSEC/WPR2 -> signed Booter -> V67 four-write payload, read-back verified. Verified on most RTX 20 30 40 Series.",
+      "lang": "Rust",
+      "homepage": null,
+      "license": "GPL-2.0",
+      "stars": 2870,
+      "forks": 267,
+      "open_issues": 27,
+      "stars_7d": 286,
+      "stars_prev_7d": 384,
+      "delta": 45,
+      "is_new": false,
+      "known": false,
+      "last14": [
+        61,
+        77,
+        55,
+        38,
+        58,
+        62,
+        33,
+        54,
+        46,
+        65,
+        31,
+        49,
+        41,
+        0
+      ],
+      "from_history": true,
+      "created_at": "2026-10-26T06:22:24Z",
+      "pushed_at": "2026-11-23T04:51:19Z",
+      "age_days": 28,
+      "idle_days": 0,
+      "hn": {
+        "posts": 1,
+        "max_points": 2,
+        "best": "https://news.ycombinator.com/item?id=50272846",
+        "first_found": null
+      },
+      "flags": [],
+      "topics": [],
+      "matched": [
+        "rust"
+      ],
+      "score": 56.6,
+      "verdict": "cooling"
+    },
+    {
+      "repo": "sarpstar/cinecode",
+      "url": "https://github.com/sarpstar/cinecode",
+      "desc": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
+      "lang": "Python",
+      "homepage": "https://x.com/sarpstar",
+      "license": "MIT",
+      "stars": 2890,
+      "forks": 490,
+      "open_issues": 18,
+      "stars_7d": 267,
+      "stars_prev_7d": 669,
+      "delta": 49,
+      "is_new": false,
+      "known": false,
+      "last14": [
+        119,
+        172,
+        117,
+        86,
+        71,
+        57,
+        47,
+        63,
+        50,
+        53,
+        33,
+        19,
+        49,
+        0
+      ],
+      "from_history": true,
+      "created_at": "2026-11-03T10:08:16Z",
+      "pushed_at": "2026-11-12T21:40:34Z",
+      "age_days": 19,
+      "idle_days": 10,
+      "hn": {
+        "posts": 0,
+        "max_points": 0,
+        "best": null,
+        "first_found": null
+      },
+      "flags": [],
+      "topics": [],
+      "matched": [
+        "agent"
+      ],
+      "score": 55.9,
+      "verdict": "cooling"
+    },
+    {
+      "repo": "caru-ini/stack-diagram",
+      "url": "https://github.com/caru-ini/stack-diagram",
+      "desc": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+      "lang": "TypeScript",
+      "homepage": "stacks.caru.moe",
+      "license": "MIT",
+      "stars": 2771,
+      "forks": 155,
+      "open_issues": 1,
+      "stars_7d": 220,
+      "stars_prev_7d": 342,
+      "delta": 76,
+      "is_new": false,
+      "known": false,
+      "last14": [
+        64,
+        140,
+        44,
+        25,
+        15,
+        25,
+        29,
+        41,
+        43,
+        27,
+        22,
+        10,
+        77,
+        0
+      ],
+      "from_history": true,
+      "created_at": "2026-11-01T05:35:12Z",
+      "pushed_at": "2026-11-20T16:28:58Z",
+      "age_days": 22,
+      "idle_days": 2,
+      "hn": {
+        "posts": 0,
+        "max_points": 0,
+        "best": null,
+        "first_found": null
+      },
+      "flags": [],
+      "topics": [
+        "agent-skills",
+        "architecture-diagram",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "diagram",
+        "system-architecture",
+        "tech-stack"
+      ],
+      "matched": [
+        "agent"
+      ],
+      "score": 54.0,
+      "verdict": "cooling"
+    },
+    {
+      "repo": "EL4CTEO/fast-anything",
+      "url": "https://github.com/EL4CTEO/fast-anything",
+      "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+      "lang": "Rust",
+      "homepage": "https://www.npmjs.com/package/@el4cteo/fast-anything",
+      "license": "MIT",
+      "stars": 2290,
+      "forks": 141,
+      "open_issues": 12,
+      "stars_7d": 2290,
+      "stars_prev_7d": 0,
+      "delta": null,
+      "is_new": true,
+      "known": false,
+      "last14": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        365,
+        1925,
+        0
+      ],
+      "from_history": true,
+      "created_at": "2026-11-21T14:40:27Z",
+      "pushed_at": "2026-11-23T01:28:18Z",
+      "age_days": 1,
+      "idle_days": 0,
+      "hn": {
+        "posts": 1,
+        "max_points": 192,
+        "best": "https://news.ycombinator.com/item?id=50596155",
+        "first_found": "2026-11-22T04:10:09Z"
+      },
+      "flags": [],
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude-code",
+        "claude-code-plugin",
+        "codex",
+        "developer-tools",
+        "ffi",
+        "mcp",
+        "mcp-server",
+        "napi-rs",
+        "nodejs",
+        "optimization",
+        "performance",
+        "profiler",
+        "pyo3",
+        "python",
+        "rewrite-it-in-rust",
+        "ruby",
+        "rust",
+        "typescript"
+      ],
+      "matched": [
+        "agent",
+        "mcp",
+        "rust"
+      ],
+      "score": 46.4,
+      "verdict": "discovered"
+    },
+    {
+      "repo": "voyager-so/vork",
+      "url": "https://github.com/voyager-so/vork",
+      "desc": "Headless 3D and VFX engine for agents. Research preview.",
+      "lang": "Rust",
+      "homepage": "https://voyager.so/vork",
+      "license": null,
+      "stars": 1692,
+      "forks": 145,
+      "open_issues": 6,
+      "stars_7d": 88,
+      "stars_prev_7d": 288,
+      "delta": 13,
+      "is_new": false,
+      "known": false,
+      "last14": [
+        49,
+        102,
+        30,
+        29,
+        52,
+        14,
+        12,
+        18,
+        11,
+        16,
+        18,
+        12,
+        13,
+        0
+      ],
+      "from_history": true,
+      "created_at": "2026-11-05T22:37:07Z",
+      "pushed_at": "2026-11-18T06:21:25Z",
+      "age_days": 17,
+      "idle_days": 5,
+      "hn": {
+        "posts": 2,
+        "max_points": 8,
+        "best": "https://news.ycombinator.com/item?id=50396650",
+        "first_found": null
+      },
+      "flags": [],
+      "topics": [
+        "3d",
+        "ai-agents",
+        "gpu",
+        "metal",
+        "ray-tracing",
+        "rendering",
+        "rust",
+        "slang",
+        "vfx",
+        "vulkan"
+      ],
+      "matched": [
+        "agent",
+        "rust"
+      ],
+      "score": 44.9,
+      "verdict": "cooling"
+    },
+    {
+      "repo": "pierridotite/mobile-agent-testers",
+      "url": "https://github.com/pierridotite/mobile-agent-testers",
+      "desc": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs",
+      "lang": "Python",
+      "homepage": null,
+      "license": "MIT",
+      "stars": 862,
+      "forks": 87,
+      "open_issues": 0,
+      "stars_7d": 845,
+      "stars_prev_7d": 17,
+      "delta": null,
+      "is_new": true,
+      "known": false,
+      "last14": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        17,
+        14,
+        11,
+        4,
+        3,
+        8,
+        805,
+        0
+      ],
+      "from_history": true,
+      "created_at": "2026-11-16T19:11:44Z",
+      "pushed_at": "2026-11-23T00:06:16Z",
+      "age_days": 6,
+      "idle_days": 0,
+      "hn": {
+        "posts": 0,
+        "max_points": 0,
+        "best": null,
+        "first_found": null
+      },
+      "flags": [
+        "一天进了一半以上的 star，但 HN 上没火过"
+      ],
+      "topics": [
+        "accessibility-testing",
+        "ai-agents",
+        "ai-testing",
+        "android",
+        "android-emulator",
+        "claude",
+        "claude-code",
+        "e2e-testing",
+        "exploratory-testing",
+        "expo",
+        "flutter",
+        "github-actions",
+        "ios",
+        "ios-simulator",
+        "llm",
+        "mobile-testing",
+        "qa",
+        "react-native",
+        "test-automation",
+        "ui-testing"
+      ],
+      "matched": [
+        "agent"
+      ],
+      "score": 40.4,
+      "verdict": "check"
+    },
+    {
+      "repo": "INK-Q/agy-fast",
+      "url": "https://github.com/INK-Q/agy-fast",
+      "desc": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
+      "lang": "TypeScript",
+      "homepage": null,
+      "license": "MIT",
+      "stars": 626,
+      "forks": 38,
+      "open_issues": 7,
+      "stars_7d": 626,
+      "stars_prev_7d": 0,
+      "delta": null,
+      "is_new": true,
+      "known": false,
+      "last14": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        7,
+        34,
+        168,
+        53,
+        364,
+        0
+      ],
+      "from_history": true,
+      "created_at": "2026-11-19T04:58:46Z",
+      "pushed_at": "2026-11-22T18:34:31Z",
+      "age_days": 4,
+      "idle_days": 0,
+      "hn": {
+        "posts": 0,
+        "max_points": 0,
+        "best": null,
+        "first_found": null
+      },
+      "flags": [
+        "一天进了一半以上的 star，但 HN 上没火过"
+      ],
+      "topics": [
+        "ai-agent",
+        "ai-coding",
+        "antigravity",
+        "antigravity-cli",
+        "antigravity-ide",
+        "antigravity-plugins",
+        "coding-agent",
+        "context-optimization",
+        "developer-productivity",
+        "developer-tools",
+        "gemini",
+        "google-antigravity",
+        "latency-optimization",
+        "mcp",
+        "mcp-plugin",
+        "mcp-server",
+        "model-context-protocol",
+        "performance",
+        "plugin",
+        "token-optimization"
+      ],
+      "matched": [
+        "mcp"
+      ],
+      "score": 38.6,
+      "verdict": "check"
+    },
+    {
+      "repo": "w01fb0ss/PiBot",
+      "url": "https://github.com/w01fb0ss/PiBot",
+      "desc": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
+      "lang": "TypeScript",
+      "homepage": "https://pibot.space",
+      "license": "Apache-2.0",
+      "stars": 441,
+      "forks": 59,
+      "open_issues": 3,
+      "stars_7d": 441,
+      "stars_prev_7d": 0,
+      "delta": 207,
+      "is_new": false,
+      "known": false,
+      "last14": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        249,
+        192,
+        0
+      ],
+      "from_history": true,
+      "created_at": "2026-11-21T06:54:24Z",
+      "pushed_at": "2026-11-23T01:57:13Z",
+      "age_days": 2,
+      "idle_days": 0,
+      "hn": {
+        "posts": 0,
+        "max_points": 0,
+        "best": null,
+        "first_found": null
+      },
+      "flags": [
+        "一天进了一半以上的 star，但 HN 上没火过"
+      ],
+      "topics": [
+        "agent",
+        "ai-agent",
+        "ai-agents",
+        "ai-assistant",
+        "android",
+        "automation",
+        "chatgpt",
+        "coding-agent",
+        "computer-use",
+        "desktop-app",
+        "electron",
+        "llm",
+        "local-first",
+        "mcp",
+        "multi-agent",
+        "ollama",
+        "openai",
+        "privacy",
+        "self-hosted",
+        "typescript"
+      ],
+      "matched": [
+        "local-first"
+      ],
+      "score": 36.5,
+      "verdict": "check"
+    },
+    {
+      "repo": "FrigadeHQ/yogurt",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "desc": "Private AI meeting notes that stay on your computer. No meeting bot. Free and open source for Mac, Windows and Linux. An alternative to Granola, Otter and Fireflies.",
+      "lang": "TypeScript",
+      "homepage": "https://yogurt.so",
+      "license": "MIT",
+      "stars": 3000,
+      "forks": 255,
+      "open_issues": 53,
+      "stars_7d": 1084,
+      "stars_prev_7d": 1916,
+      "delta": 117,
+      "is_new": false,
+      "known": false,
+      "last14": [
+        0,
+        577,
+        478,
+        276,
+        194,
+        191,
+        200,
+        186,
+        370,
+        187,
+        141,
+        95,
+        105,
+        0
+      ],
+      "from_history": true,
+      "created_at": "2026-11-10T20:01:01Z",
+      "pushed_at": "2026-11-23T06:19:08Z",
+      "age_days": 12,
+      "idle_days": 0,
+      "hn": {
+        "posts": 1,
+        "max_points": 307,
+        "best": "https://news.ycombinator.com/item?id=50454625",
+        "first_found": "2026-11-11T15:33:06Z"
+      },
+      "flags": [],
+      "topics": [
+        "ai-meeting-assistant",
+        "ai-notetaker",
+        "electron",
+        "granola-alternative",
+        "linux",
+        "llama-cpp",
+        "local-ai",
+        "local-first",
+        "macos",
+        "mcp",
+        "meeting-minutes",
+        "meeting-notes",
+        "offline-first",
+        "open-source",
+        "privacy",
+        "speech-to-text",
+        "transcription",
+        "whisper",
+        "whisper-cpp",
+        "windows"
+      ],
+      "matched": [
+        "mcp",
+        "local-first"
+      ],
+      "score": 34.9,
+      "verdict": "discovered"
+    }
+  ],
+  "keyword_trends": [
+    {
+      "name": "agent",
+      "total": 1086,
+      "repos": 30,
+      "stars": 48111,
+      "top": [
+        "sarpstar/cinecode",
+        "caru-ini/stack-diagram",
+        "bookwjitchieni1986/blender-ai-mcp-addon"
+      ]
+    },
+    {
+      "name": "mcp",
+      "total": 208,
+      "repos": 30,
+      "stars": 36129,
+      "top": [
+        "FrigadeHQ/yogurt",
+        "bookwjitchieni1986/blender-ai-mcp-addon",
+        "DIYgod/pinky"
+      ]
+    },
+    {
+      "name": "rust",
+      "total": 200,
+      "repos": 30,
+      "stars": 29261,
+      "top": [
+        "physicsdolphin/nv-uefi-unlocker",
+        "s1dashu/quiet-md",
+        "EL4CTEO/fast-anything"
+      ]
+    },
+    {
+      "name": "local-first",
+      "total": 71,
+      "repos": 30,
+      "stars": 17305,
+      "top": [
+        "FrigadeHQ/yogurt",
+        "s1dashu/quiet-md",
+        "iamajmeena/neonclipping"
+      ]
+    }
+  ],
+  "topic_trends": [
+    {
+      "name": "mcp",
+      "total": null,
+      "repos": 34,
+      "stars": 34252,
+      "top": [
+        "FrigadeHQ/yogurt",
+        "bookwjitchieni1986/blender-ai-mcp-addon",
+        "DIYgod/pinky"
+      ]
+    },
+    {
+      "name": "claude-code",
+      "total": null,
+      "repos": 27,
+      "stars": 33700,
+      "top": [
+        "caru-ini/stack-diagram",
+        "DenisSergeevitch/ex-ussr-kinship-research",
+        "DIYgod/pinky"
+      ]
+    },
+    {
+      "name": "local-first",
+      "total": null,
+      "repos": 23,
+      "stars": 11190,
+      "top": [
+        "FrigadeHQ/yogurt",
+        "yjid/kensaku",
+        "emanuele-em/kanzo"
+      ]
+    },
+    {
+      "name": "ai-agents",
+      "total": null,
+      "repos": 22,
+      "stars": 23201,
+      "top": [
+        "bookwjitchieni1986/blender-ai-mcp-addon",
+        "EL4CTEO/fast-anything",
+        "agentes-chat/agentes-chat"
+      ]
+    },
+    {
+      "name": "rust",
+      "total": null,
+      "repos": 22,
+      "stars": 18767,
+      "top": [
+        "EL4CTEO/fast-anything",
+        "yjid/kensaku",
+        "Renly1994/xiaotang-daozai"
+      ]
+    },
+    {
+      "name": "codex",
+      "total": null,
+      "repos": 21,
+      "stars": 25219,
+      "top": [
+        "caru-ini/stack-diagram",
+        "DenisSergeevitch/ex-ussr-kinship-research",
+        "XinaTian/MROffice"
+      ]
+    },
+    {
+      "name": "mcp-server",
+      "total": null,
+      "repos": 18,
+      "stars": 17484,
+      "top": [
+        "bookwjitchieni1986/blender-ai-mcp-addon",
+        "DIYgod/pinky",
+        "XinaTian/MROffice"
+      ]
+    },
+    {
+      "name": "model-context-protocol",
+      "total": null,
+      "repos": 16,
+      "stars": 12824,
+      "top": [
+        "bookwjitchieni1986/blender-ai-mcp-addon",
+        "JosssphZhou/poki",
+        "emanuele-em/kanzo"
+      ]
+    },
+    {
+      "name": "windows",
+      "total": null,
+      "repos": 13,
+      "stars": 11966,
+      "top": [
+        "FrigadeHQ/yogurt",
+        "yjid/kensaku",
+        "Renly1994/xiaotang-daozai"
+      ]
+    },
+    {
+      "name": "agent-skills",
+      "total": null,
+      "repos": 11,
+      "stars": 15103,
+      "top": [
+        "caru-ini/stack-diagram",
+        "DenisSergeevitch/ex-ussr-kinship-research",
+        "EL4CTEO/fast-anything"
+      ]
+    },
+    {
+      "name": "developer-tools",
+      "total": null,
+      "repos": 10,
+      "stars": 5703,
+      "top": [
+        "EL4CTEO/fast-anything",
+        "alexeyw/lot-map",
+        "INK-Q/agy-fast"
+      ]
+    },
+    {
+      "name": "llm",
+      "total": null,
+      "repos": 9,
+      "stars": 12014,
+      "top": [
+        "bookwjitchieni1986/blender-ai-mcp-addon",
+        "sybil-solutions/inference-optimisation-skill",
+        "agentes-chat/agentes-chat"
+      ]
+    },
+    {
+      "name": "macos",
+      "total": null,
+      "repos": 9,
+      "stars": 8905,
+      "top": [
+        "FrigadeHQ/yogurt",
+        "daveebbelaar/bama",
+        "simpsoka/zigzag"
+      ]
+    },
+    {
+      "name": "ai-agent",
+      "total": null,
+      "repos": 8,
+      "stars": 8048,
+      "top": [
+        "DIYgod/pinky",
+        "XinaTian/MROffice",
+        "INK-Q/agy-fast"
+      ]
+    },
+    {
+      "name": "blender",
+      "total": null,
+      "repos": 8,
+      "stars": 6335,
+      "top": [
+        "bookwjitchieni1986/blender-ai-mcp-addon",
+        "racdeufindurch198812/Blender-AI-MCP-Studio",
+        "credoksopho1984/blender-ai-copilot-studio"
+      ]
+    },
+    {
+      "name": "blender-addon",
+      "total": null,
+      "repos": 8,
+      "stars": 6335,
+      "top": [
+        "bookwjitchieni1986/blender-ai-mcp-addon",
+        "racdeufindurch198812/Blender-AI-MCP-Studio",
+        "credoksopho1984/blender-ai-copilot-studio"
+      ]
+    },
+    {
+      "name": "blender-ai",
+      "total": null,
+      "repos": 8,
+      "stars": 6335,
+      "top": [
+        "bookwjitchieni1986/blender-ai-mcp-addon",
+        "racdeufindurch198812/Blender-AI-MCP-Studio",
+        "credoksopho1984/blender-ai-copilot-studio"
+      ]
+    },
+    {
+      "name": "blender-automation",
+      "total": null,
+      "repos": 8,
+      "stars": 6335,
+      "top": [
+        "bookwjitchieni1986/blender-ai-mcp-addon",
+        "racdeufindurch198812/Blender-AI-MCP-Studio",
+        "credoksopho1984/blender-ai-copilot-studio"
+      ]
+    },
+    {
+      "name": "blender-mcp",
+      "total": null,
+      "repos": 8,
+      "stars": 6335,
+      "top": [
+        "bookwjitchieni1986/blender-ai-mcp-addon",
+        "racdeufindurch198812/Blender-AI-MCP-Studio",
+        "credoksopho1984/blender-ai-copilot-studio"
+      ]
+    },
+    {
+      "name": "blender-plugin",
+      "total": null,
+      "repos": 8,
+      "stars": 6335,
+      "top": [
+        "bookwjitchieni1986/blender-ai-mcp-addon",
+        "racdeufindurch198812/Blender-AI-MCP-Studio",
+        "credoksopho1984/blender-ai-copilot-studio"
+      ]
+    },
+    {
+      "name": "blender-scripting",
+      "total": null,
+      "repos": 8,
+      "stars": 6335,
+      "top": [
+        "bookwjitchieni1986/blender-ai-mcp-addon",
+        "racdeufindurch198812/Blender-AI-MCP-Studio",
+        "credoksopho1984/blender-ai-copilot-studio"
+      ]
+    },
+    {
+      "name": "bpy",
+      "total": null,
+      "repos": 8,
+      "stars": 6335,
+      "top": [
+        "bookwjitchieni1986/blender-ai-mcp-addon",
+        "racdeufindurch198812/Blender-AI-MCP-Studio",
+        "credoksopho1984/blender-ai-copilot-studio"
+      ]
+    },
+    {
+      "name": "python",
+      "total": null,
+      "repos": 8,
+      "stars": 4815,
+      "top": [
+        "EL4CTEO/fast-anything",
+        "cutetailbud/ff-ruyijs",
+        "aa1143/NamiAgent"
+      ]
+    },
+    {
+      "name": "claude",
+      "total": null,
+      "repos": 7,
+      "stars": 8861,
+      "top": [
+        "bookwjitchieni1986/blender-ai-mcp-addon",
+        "agentes-chat/agentes-chat",
+        "kubai087/kubai-icons"
+      ]
+    },
+    {
+      "name": "ios",
+      "total": null,
+      "repos": 7,
+      "stars": 7187,
+      "top": [
+        "DIYgod/pinky",
+        "JosssphZhou/poki",
+        "pierridotite/mobile-agent-testers"
+      ]
+    },
+    {
+      "name": "android",
+      "total": null,
+      "repos": 7,
+      "stars": 5706,
+      "top": [
+        "DIYgod/pinky",
+        "pierridotite/mobile-agent-testers",
+        "21stware/bowel"
+      ]
+    },
+    {
+      "name": "typescript",
+      "total": null,
+      "repos": 7,
+      "stars": 5214,
+      "top": [
+        "EL4CTEO/fast-anything",
+        "alexeyw/lot-map",
+        "meshy-dev/ThreeRT"
+      ]
+    },
+    {
+      "name": "3d-automation",
+      "total": null,
+      "repos": 7,
+      "stars": 3577,
+      "top": [
+        "racdeufindurch198812/Blender-AI-MCP-Studio",
+        "credoksopho1984/blender-ai-copilot-studio",
+        "tiobeharxi1987/blender-ai-copilot-flow"
+      ]
+    },
+    {
+      "name": "3d-modeling",
+      "total": null,
+      "repos": 7,
+      "stars": 3577,
+      "top": [
+        "racdeufindurch198812/Blender-AI-MCP-Studio",
+        "credoksopho1984/blender-ai-copilot-studio",
+        "tiobeharxi1987/blender-ai-copilot-flow"
+      ]
+    },
+    {
+      "name": "blender-agents",
+      "total": null,
+      "repos": 7,
+      "stars": 3577,
+      "top": [
+        "racdeufindurch198812/Blender-AI-MCP-Studio",
+        "credoksopho1984/blender-ai-copilot-studio",
+        "tiobeharxi1987/blender-ai-copilot-flow"
+      ]
+    },
+    {
+      "name": "blender-assistant",
+      "total": null,
+      "repos": 7,
+      "stars": 3577,
+      "top": [
+        "racdeufindurch198812/Blender-AI-MCP-Studio",
+        "credoksopho1984/blender-ai-copilot-studio",
+        "tiobeharxi1987/blender-ai-copilot-flow"
+      ]
+    },
+    {
+      "name": "blender-chatgpt",
+      "total": null,
+      "repos": 7,
+      "stars": 3577,
+      "top": [
+        "racdeufindurch198812/Blender-AI-MCP-Studio",
+        "credoksopho1984/blender-ai-copilot-studio",
+        "tiobeharxi1987/blender-ai-copilot-flow"
+      ]
+    },
+    {
+      "name": "blender-copilot",
+      "total": null,
+      "repos": 7,
+      "stars": 3577,
+      "top": [
+        "racdeufindurch198812/Blender-AI-MCP-Studio",
+        "credoksopho1984/blender-ai-copilot-studio",
+        "tiobeharxi1987/blender-ai-copilot-flow"
+      ]
+    },
+    {
+      "name": "blender-extension",
+      "total": null,
+      "repos": 7,
+      "stars": 3577,
+      "top": [
+        "racdeufindurch198812/Blender-AI-MCP-Studio",
+        "credoksopho1984/blender-ai-copilot-studio",
+        "tiobeharxi1987/blender-ai-copilot-flow"
+      ]
+    },
+    {
+      "name": "blender-llm",
+      "total": null,
+      "repos": 7,
+      "stars": 3577,
+      "top": [
+        "racdeufindurch198812/Blender-AI-MCP-Studio",
+        "credoksopho1984/blender-ai-copilot-studio",
+        "tiobeharxi1987/blender-ai-copilot-flow"
+      ]
+    },
+    {
+      "name": "blender3d",
+      "total": null,
+      "repos": 7,
+      "stars": 3577,
+      "top": [
+        "racdeufindurch198812/Blender-AI-MCP-Studio",
+        "credoksopho1984/blender-ai-copilot-studio",
+        "tiobeharxi1987/blender-ai-copilot-flow"
+      ]
+    },
+    {
+      "name": "desktop-app",
+      "total": null,
+      "repos": 7,
+      "stars": 3331,
+      "top": [
+        "harshsinghsv/swiftdl",
+        "DuskBotAI/duskbot",
+        "w01fb0ss/PiBot"
+      ]
+    },
+    {
+      "name": "open-source",
+      "total": null,
+      "repos": 6,
+      "stars": 7316,
+      "top": [
+        "FrigadeHQ/yogurt",
+        "yjid/kensaku",
+        "JosssphZhou/poki"
+      ]
+    },
+    {
+      "name": "computer-use",
+      "total": null,
+      "repos": 6,
+      "stars": 7142,
+      "top": [
+        "agentes-chat/agentes-chat",
+        "daveebbelaar/bama",
+        "JosssphZhou/poki"
+      ]
+    },
+    {
+      "name": "self-hosted",
+      "total": null,
+      "repos": 6,
+      "stars": 4603,
+      "top": [
+        "agentes-chat/agentes-chat",
+        "emanuele-em/kanzo",
+        "DuskBotAI/duskbot"
+      ]
+    },
+    {
+      "name": "tauri",
+      "total": null,
+      "repos": 6,
+      "stars": 4516,
+      "top": [
+        "yjid/kensaku",
+        "harshsinghsv/swiftdl",
+        "LNPANDY/HGhub-MacOS-iOS-Version"
+      ]
+    },
+    {
+      "name": "automation",
+      "total": null,
+      "repos": 6,
+      "stars": 4191,
+      "top": [
+        "JosssphZhou/poki",
+        "cutetailbud/ff-ruyijs",
+        "swipt-automation/swipt"
+      ]
+    },
+    {
+      "name": "gemini",
+      "total": null,
+      "repos": 5,
+      "stars": 6363,
+      "top": [
+        "bookwjitchieni1986/blender-ai-mcp-addon",
+        "agentes-chat/agentes-chat",
+        "INK-Q/agy-fast"
+      ]
+    },
+    {
+      "name": "ai-assistant",
+      "total": null,
+      "repos": 5,
+      "stars": 5946,
+      "top": [
+        "bookwjitchieni1986/blender-ai-mcp-addon",
+        "JosssphZhou/poki",
+        "eduwxyz/tucano"
+      ]
+    },
+    {
+      "name": "cursor",
+      "total": null,
+      "repos": 5,
+      "stars": 4737,
+      "top": [
+        "XinaTian/MROffice",
+        "Dodaios/ste80-humanizer",
+        "eduwxyz/tucano"
+      ]
+    },
+    {
+      "name": "electron",
+      "total": null,
+      "repos": 5,
+      "stars": 4225,
+      "top": [
+        "FrigadeHQ/yogurt",
+        "eduwxyz/tucano",
+        "w01fb0ss/PiBot"
+      ]
+    },
+    {
+      "name": "coding-agent",
+      "total": null,
+      "repos": 5,
+      "stars": 3757,
+      "top": [
+        "ZiChuanLan/agent-purge",
+        "INK-Q/agy-fast",
+        "w01fb0ss/PiBot"
+      ]
+    },
+    {
+      "name": "agentic-ai",
+      "total": null,
+      "repos": 5,
+      "stars": 3638,
+      "top": [
+        "agentes-chat/agentes-chat",
+        "eduwxyz/tucano",
+        "KenKaiii/Roamies"
+      ]
+    },
+    {
+      "name": "nodejs",
+      "total": null,
+      "repos": 5,
+      "stars": 3322,
+      "top": [
+        "EL4CTEO/fast-anything",
+        "chutingyean/Agent-Cockpit",
+        "brunnojob/reporelief"
+      ]
+    },
+    {
+      "name": "sqlite",
+      "total": null,
+      "repos": 5,
+      "stars": 2040,
+      "top": [
+        "emanuele-em/kanzo",
+        "peterpoal134/memory-brain",
+        "Riley-Coyote/mnemos-mcp"
+      ]
+    },
+    {
+      "name": "privacy",
+      "total": null,
+      "repos": 4,
+      "stars": 5535,
+      "top": [
+        "FrigadeHQ/yogurt",
+        "yjid/kensaku",
+        "w01fb0ss/PiBot"
+      ]
+    },
+    {
+      "name": "ai",
+      "total": null,
+      "repos": 4,
+      "stars": 3819,
+      "top": [
+        "XinaTian/MROffice",
+        "hevnsnt/CVEngine",
+        "KenKaiii/Roamies"
+      ]
+    },
+    {
+      "name": "react",
+      "total": null,
+      "repos": 4,
+      "stars": 2524,
+      "top": [
+        "kubai087/kubai-icons",
+        "LNPANDY/HGhub-MacOS-iOS-Version",
+        "TixXin/Fuyu"
+      ]
+    },
+    {
+      "name": "cli",
+      "total": null,
+      "repos": 4,
+      "stars": 2241,
+      "top": [
+        "emanuele-em/kanzo",
+        "heydeer/slimdeer",
+        "4yk5/Ghostman"
+      ]
+    },
+    {
+      "name": "github-actions",
+      "total": null,
+      "repos": 4,
+      "stars": 1914,
+      "top": [
+        "pierridotite/mobile-agent-testers",
+        "yalongwastaken/git-koi",
+        "brunnojob/reporelief"
+      ]
+    },
+    {
+      "name": "chinese",
+      "total": null,
+      "repos": 4,
+      "stars": 1146,
+      "top": [
+        "aa1143/NamiAgent",
+        "lynote-ai/local-ai-note-taker",
+        "SparkofSpike/Brain4Agent"
+      ]
+    },
+    {
+      "name": "research",
+      "total": null,
+      "repos": 4,
+      "stars": 615,
+      "top": [
+        "DKKD13/dsh-finance",
+        "assansolution-cell/options-commander-cli",
+        "71chili/logseq-novara-knowledge-vault"
+      ]
+    },
+    {
+      "name": "claude-code-plugin",
+      "total": null,
+      "repos": 3,
+      "stars": 5369,
+      "top": [
+        "EL4CTEO/fast-anything",
+        "daveebbelaar/bama",
+        "alexeyw/lot-map"
+      ]
+    },
+    {
+      "name": "ollama",
+      "total": null,
+      "repos": 3,
+      "stars": 5365,
+      "top": [
+        "bookwjitchieni1986/blender-ai-mcp-addon",
+        "iamajmeena/neonclipping",
+        "w01fb0ss/PiBot"
+      ]
+    },
+    {
+      "name": "whisper",
+      "total": null,
+      "repos": 3,
+      "stars": 5356,
+      "top": [
+        "FrigadeHQ/yogurt",
+        "iamajmeena/neonclipping",
+        "lynote-ai/local-ai-note-taker"
+      ]
+    },
+    {
+      "name": "opencode",
+      "total": null,
+      "repos": 3,
+      "stars": 5268,
+      "top": [
+        "bookwjitchieni1986/blender-ai-mcp-addon",
+        "ZiChuanLan/agent-purge",
+        "eduwxyz/tucano"
+      ]
+    },
+    {
+      "name": "iphone",
+      "total": null,
+      "repos": 3,
+      "stars": 4905,
+      "top": [
+        "DIYgod/pinky",
+        "JosssphZhou/poki",
+        "hridaya423/phonedriver"
+      ]
+    },
+    {
+      "name": "swift",
+      "total": null,
+      "repos": 3,
+      "stars": 4250,
+      "top": [
+        "daveebbelaar/bama",
+        "JosssphZhou/poki",
+        "KenKaiii/Roamies"
+      ]
+    },
+    {
+      "name": "linux",
+      "total": null,
+      "repos": 3,
+      "stars": 4070,
+      "top": [
+        "FrigadeHQ/yogurt",
+        "21stware/bowel",
+        "eduwxyz/tucano"
+      ]
+    },
+    {
+      "name": "chatgpt",
+      "total": null,
+      "repos": 3,
+      "stars": 3737,
+      "top": [
+        "bookwjitchieni1986/blender-ai-mcp-addon",
+        "gogoymh/auto-ontology-mcp",
+        "w01fb0ss/PiBot"
+      ]
+    },
+    {
+      "name": "llama-cpp",
+      "total": null,
+      "repos": 3,
+      "stars": 3595,
+      "top": [
+        "FrigadeHQ/yogurt",
+        "scarletkc/colab-playground",
+        "lynote-ai/local-ai-note-taker"
+      ]
+    },
+    {
+      "name": "productivity",
+      "total": null,
+      "repos": 3,
+      "stars": 3543,
+      "top": [
+        "Renly1994/xiaotang-daozai",
+        "emanuele-em/kanzo",
+        "TixXin/Fuyu"
+      ]
+    },
+    {
+      "name": "local-ai",
+      "total": null,
+      "repos": 3,
+      "stars": 3509,
+      "top": [
+        "FrigadeHQ/yogurt",
+        "lemonadesaltbagel/airlock",
+        "lynote-ai/local-ai-note-taker"
+      ]
+    },
+    {
+      "name": "git",
+      "total": null,
+      "repos": 3,
+      "stars": 3429,
+      "top": [
+        "lexifina/global-law",
+        "DEEIX-AI/Winc",
+        "71chili/logseq-novara-knowledge-vault"
+      ]
+    },
+    {
+      "name": "svg",
+      "total": null,
+      "repos": 3,
+      "stars": 3023,
+      "top": [
+        "kubai087/kubai-icons",
+        "simpsoka/zigzag",
+        "DominikScholz/open-bot-avatar"
+      ]
+    },
+    {
+      "name": "multi-agent",
+      "total": null,
+      "repos": 3,
+      "stars": 2851,
+      "top": [
+        "agentes-chat/agentes-chat",
+        "eduwxyz/tucano",
+        "w01fb0ss/PiBot"
+      ]
+    },
+    {
+      "name": "openai",
+      "total": null,
+      "repos": 3,
+      "stars": 2845,
+      "top": [
+        "agentes-chat/agentes-chat",
+        "w01fb0ss/PiBot",
+        "KenKaiii/Roamies"
+      ]
+    },
+    {
+      "name": "ocr",
+      "total": null,
+      "repos": 3,
+      "stars": 2574,
+      "top": [
+        "yjid/kensaku",
+        "zenvyzenshiro/zenlink",
+        "strugglesky/scrubshot"
+      ]
+    },
+    {
+      "name": "deepseek-harness",
+      "total": null,
+      "repos": 3,
+      "stars": 2502,
+      "top": [
+        "ZiChuanLan/agent-purge",
+        "oriliz/agent-crop",
+        "peterpoal134/memory-brain"
+      ]
+    },
+    {
+      "name": "dsh",
+      "total": null,
+      "repos": 3,
+      "stars": 2426,
+      "top": [
+        "ZiChuanLan/agent-purge",
+        "peterpoal134/memory-brain",
+        "DKKD13/dsh-finance"
+      ]
+    },
+    {
+      "name": "agent-observability",
+      "total": null,
+      "repos": 3,
+      "stars": 1530,
+      "top": [
+        "alexeyw/lot-map",
+        "oriliz/agent-crop",
+        "jackulau/coding.sh"
+      ]
+    },
+    {
+      "name": "writing",
+      "total": null,
+      "repos": 3,
+      "stars": 1386,
+      "top": [
+        "Dodaios/ste80-humanizer",
+        "71chili/logseq-novara-knowledge-vault",
+        "dynamicdeblackice-commits/joplin-arvella-notes"
+      ]
+    },
+    {
+      "name": "gpui",
+      "total": null,
+      "repos": 3,
+      "stars": 1368,
+      "top": [
+        "Koimsurai/Arke",
+        "scarletkc/colab-playground",
+        "neondeex/atlas-filemanager"
+      ]
+    },
+    {
+      "name": "memory",
+      "total": null,
+      "repos": 3,
+      "stars": 949,
+      "top": [
+        "DuskBotAI/duskbot",
+        "peterpoal134/memory-brain",
+        "SparkofSpike/Brain4Agent"
+      ]
+    },
+    {
+      "name": "knowledge-graph",
+      "total": null,
+      "repos": 3,
+      "stars": 816,
+      "top": [
+        "chutingyean/Agent-Cockpit",
+        "71chili/logseq-novara-knowledge-vault",
+        "dynamicdeblackice-commits/joplin-arvella-notes"
+      ]
+    },
+    {
+      "name": "agent-memory",
+      "total": null,
+      "repos": 3,
+      "stars": 802,
+      "top": [
+        "relatedb/relate",
+        "Riley-Coyote/mnemos-mcp",
+        "SparkofSpike/Brain4Agent"
+      ]
+    },
+    {
+      "name": "markdown",
+      "total": null,
+      "repos": 3,
+      "stars": 623,
+      "top": [
+        "Ciao1019/ArcMD",
+        "71chili/logseq-novara-knowledge-vault",
+        "dynamicdeblackice-commits/joplin-arvella-notes"
+      ]
+    },
+    {
+      "name": "note-taking",
+      "total": null,
+      "repos": 3,
+      "stars": 623,
+      "top": [
+        "Ciao1019/ArcMD",
+        "71chili/logseq-novara-knowledge-vault",
+        "dynamicdeblackice-commits/joplin-arvella-notes"
+      ]
+    },
+    {
+      "name": "long-term-memory",
+      "total": null,
+      "repos": 3,
+      "stars": 564,
+      "top": [
+        "peterpoal134/memory-brain",
+        "Riley-Coyote/mnemos-mcp",
+        "SparkofSpike/Brain4Agent"
+      ]
+    },
+    {
+      "name": "documentation",
+      "total": null,
+      "repos": 3,
+      "stars": 497,
+      "top": [
+        "brunnojob/reporelief",
+        "71chili/logseq-novara-knowledge-vault",
+        "dynamicdeblackice-commits/joplin-arvella-notes"
+      ]
+    },
+    {
+      "name": "claude-skills",
+      "total": null,
+      "repos": 2,
+      "stars": 3863,
+      "top": [
+        "caru-ini/stack-diagram",
+        "Dodaios/ste80-humanizer"
+      ]
+    },
+    {
+      "name": "ai-meeting-assistant",
+      "total": null,
+      "repos": 2,
+      "stars": 3190,
+      "top": [
+        "FrigadeHQ/yogurt",
+        "lynote-ai/local-ai-note-taker"
+      ]
+    },
+    {
+      "name": "granola-alternative",
+      "total": null,
+      "repos": 2,
+      "stars": 3190,
+      "top": [
+        "FrigadeHQ/yogurt",
+        "lynote-ai/local-ai-note-taker"
+      ]
+    },
+    {
+      "name": "meeting-minutes",
+      "total": null,
+      "repos": 2,
+      "stars": 3190,
+      "top": [
+        "FrigadeHQ/yogurt",
+        "lynote-ai/local-ai-note-taker"
+      ]
+    },
+    {
+      "name": "meeting-notes",
+      "total": null,
+      "repos": 2,
+      "stars": 3190,
+      "top": [
+        "FrigadeHQ/yogurt",
+        "lynote-ai/local-ai-note-taker"
+      ]
+    },
+    {
+      "name": "speech-to-text",
+      "total": null,
+      "repos": 2,
+      "stars": 3190,
+      "top": [
+        "FrigadeHQ/yogurt",
+        "lynote-ai/local-ai-note-taker"
+      ]
+    },
+    {
+      "name": "transcription",
+      "total": null,
+      "repos": 2,
+      "stars": 3190,
+      "top": [
+        "FrigadeHQ/yogurt",
+        "lynote-ai/local-ai-note-taker"
+      ]
+    },
+    {
+      "name": "whisper-cpp",
+      "total": null,
+      "repos": 2,
+      "stars": 3190,
+      "top": [
+        "FrigadeHQ/yogurt",
+        "lynote-ai/local-ai-note-taker"
+      ]
+    },
+    {
+      "name": "video",
+      "total": null,
+      "repos": 2,
+      "stars": 3089,
+      "top": [
+        "iamajmeena/neonclipping",
+        "Moh4696/cinematic-skill"
+      ]
+    },
+    {
+      "name": "performance",
+      "total": null,
+      "repos": 2,
+      "stars": 2916,
+      "top": [
+        "EL4CTEO/fast-anything",
+        "INK-Q/agy-fast"
+      ]
+    },
+    {
+      "name": "local-llm",
+      "total": null,
+      "repos": 2,
+      "stars": 2485,
+      "top": [
+        "iamajmeena/neonclipping",
+        "lemonadesaltbagel/airlock"
+      ]
+    },
+    {
+      "name": "liquid-glass",
+      "total": null,
+      "repos": 2,
+      "stars": 2441,
+      "top": [
+        "daveebbelaar/bama",
+        "zenvyzenshiro/zenlink"
+      ]
+    },
+    {
+      "name": "grok",
+      "total": null,
+      "repos": 2,
+      "stars": 2410,
+      "top": [
+        "agentes-chat/agentes-chat",
+        "eduwxyz/tucano"
+      ]
+    },
+    {
+      "name": "metal",
+      "total": null,
+      "repos": 2,
+      "stars": 2373,
+      "top": [
+        "voyager-so/vork",
+        "meshy-dev/ThreeRT"
+      ]
+    },
+    {
+      "name": "ray-tracing",
+      "total": null,
+      "repos": 2,
+      "stars": 2373,
+      "top": [
+        "voyager-so/vork",
+        "meshy-dev/ThreeRT"
+      ]
+    },
+    {
+      "name": "rendering",
+      "total": null,
+      "repos": 2,
+      "stars": 2373,
+      "top": [
+        "voyager-so/vork",
+        "meshy-dev/ThreeRT"
+      ]
+    },
+    {
+      "name": "voice-assistant",
+      "total": null,
+      "repos": 2,
+      "stars": 2300,
+      "top": [
+        "JosssphZhou/poki",
+        "KenKaiii/Roamies"
+      ]
+    },
+    {
+      "name": "swiftui",
+      "total": null,
+      "repos": 2,
+      "stars": 2282,
+      "top": [
+        "daveebbelaar/bama",
+        "GiroCrab/GiroCrab"
+      ]
+    },
+    {
+      "name": "desktop-widget",
+      "total": null,
+      "repos": 2,
+      "stars": 2224,
+      "top": [
+        "Renly1994/xiaotang-daozai",
+        "TixXin/Fuyu"
+      ]
+    },
+    {
+      "name": "dynamic-island",
+      "total": null,
+      "repos": 2,
+      "stars": 2224,
+      "top": [
+        "Renly1994/xiaotang-daozai",
+        "TixXin/Fuyu"
+      ]
+    },
+    {
+      "name": "human-in-the-loop",
+      "total": null,
+      "repos": 2,
+      "stars": 2116,
+      "top": [
+        "agentes-chat/agentes-chat",
+        "assansolution-cell/options-commander-cli"
+      ]
+    },
+    {
+      "name": "gpu",
+      "total": null,
+      "repos": 2,
+      "stars": 2097,
+      "top": [
+        "voyager-so/vork",
+        "scarletkc/colab-playground"
+      ]
+    },
+    {
+      "name": "animation",
+      "total": null,
+      "repos": 2,
+      "stars": 1942,
+      "top": [
+        "kubai087/kubai-icons",
+        "DominikScholz/open-bot-avatar"
+      ]
+    },
+    {
+      "name": "threejs",
+      "total": null,
+      "repos": 2,
+      "stars": 1489,
+      "top": [
+        "Leonxlnx/cook",
+        "meshy-dev/ThreeRT"
+      ]
+    },
+    {
+      "name": "coding-agents",
+      "total": null,
+      "repos": 2,
+      "stars": 1476,
+      "top": [
+        "emanuele-em/kanzo",
+        "jackulau/coding.sh"
+      ]
+    },
+    {
+      "name": "ide",
+      "total": null,
+      "repos": 2,
+      "stars": 1264,
+      "top": [
+        "DEEIX-AI/Winc",
+        "coloride-group/Coloride-old"
+      ]
+    },
+    {
+      "name": "terminal",
+      "total": null,
+      "repos": 2,
+      "stars": 1256,
+      "top": [
+        "DEEIX-AI/Winc",
+        "4yk5/Ghostman"
+      ]
+    },
+    {
+      "name": "android-emulator",
+      "total": null,
+      "repos": 2,
+      "stars": 1216,
+      "top": [
+        "pierridotite/mobile-agent-testers",
+        "hridaya423/phonedriver"
+      ]
+    },
+    {
+      "name": "ios-simulator",
+      "total": null,
+      "repos": 2,
+      "stars": 1216,
+      "top": [
+        "pierridotite/mobile-agent-testers",
+        "hridaya423/phonedriver"
+      ]
+    },
+    {
+      "name": "mobile-testing",
+      "total": null,
+      "repos": 2,
+      "stars": 1216,
+      "top": [
+        "pierridotite/mobile-agent-testers",
+        "hridaya423/phonedriver"
+      ]
+    },
+    {
+      "name": "javascript",
+      "total": null,
+      "repos": 2,
+      "stars": 1175,
+      "top": [
+        "cutetailbud/ff-ruyijs",
+        "brunnojob/reporelief"
+      ]
+    },
+    {
+      "name": "windows-11",
+      "total": null,
+      "repos": 2,
+      "stars": 1169,
+      "top": [
+        "Koimsurai/Arke",
+        "zenvyzenshiro/zenlink"
+      ]
+    },
+    {
+      "name": "pixel-art",
+      "total": null,
+      "repos": 2,
+      "stars": 1130,
+      "top": [
+        "yalongwastaken/git-koi",
+        "KenKaiii/Roamies"
+      ]
+    },
+    {
+      "name": "agent",
+      "total": null,
+      "repos": 2,
+      "stars": 1039,
+      "top": [
+        "aa1143/NamiAgent",
+        "w01fb0ss/PiBot"
+      ]
+    },
+    {
+      "name": "react-native",
+      "total": null,
+      "repos": 2,
+      "stars": 1009,
+      "top": [
+        "pierridotite/mobile-agent-testers",
+        "dynamicdeblackice-commits/joplin-arvella-notes"
+      ]
+    },
+    {
+      "name": "file-manager",
+      "total": null,
+      "repos": 2,
+      "stars": 963,
+      "top": [
+        "Koimsurai/Arke",
+        "neondeex/atlas-filemanager"
+      ]
+    },
+    {
+      "name": "adb",
+      "total": null,
+      "repos": 2,
+      "stars": 941,
+      "top": [
+        "kirklin/skyward",
+        "hridaya423/phonedriver"
+      ]
+    },
+    {
+      "name": "ai-coding",
+      "total": null,
+      "repos": 2,
+      "stars": 870,
+      "top": [
+        "INK-Q/agy-fast",
+        "oriliz/agent-crop"
+      ]
+    },
+    {
+      "name": "apple-silicon",
+      "total": null,
+      "repos": 2,
+      "stars": 852,
+      "top": [
+        "LNPANDY/HGhub-MacOS-iOS-Version",
+        "GiroCrab/GiroCrab"
+      ]
+    },
+    {
+      "name": "deepseek",
+      "total": null,
+      "repos": 2,
+      "stars": 766,
+      "top": [
+        "aa1143/NamiAgent",
+        "DKKD13/dsh-finance"
+      ]
+    },
+    {
+      "name": "code-review",
+      "total": null,
+      "repos": 2,
+      "stars": 725,
+      "top": [
+        "chutingyean/Agent-Cockpit",
+        "brunnojob/reporelief"
+      ]
+    },
+    {
+      "name": "dsh-plugin",
+      "total": null,
+      "repos": 2,
+      "stars": 627,
+      "top": [
+        "JimLiu/open-artifact",
+        "oriliz/agent-crop"
+      ]
+    },
+    {
+      "name": "markdown-editor",
+      "total": null,
+      "repos": 2,
+      "stars": 476,
+      "top": [
+        "Ciao1019/ArcMD",
+        "71chili/logseq-novara-knowledge-vault"
+      ]
+    },
+    {
+      "name": "devtools",
+      "total": null,
+      "repos": 2,
+      "stars": 426,
+      "top": [
+        "oriliz/agent-crop",
+        "4yk5/Ghostman"
+      ]
+    },
+    {
+      "name": "observability",
+      "total": null,
+      "repos": 2,
+      "stars": 401,
+      "top": [
+        "oriliz/agent-crop",
+        "jackulau/coding.sh"
+      ]
+    },
+    {
+      "name": "tracing",
+      "total": null,
+      "repos": 2,
+      "stars": 401,
+      "top": [
+        "oriliz/agent-crop",
+        "jackulau/coding.sh"
+      ]
+    },
+    {
+      "name": "knowledge-base",
+      "total": null,
+      "repos": 2,
+      "stars": 294,
+      "top": [
+        "71chili/logseq-novara-knowledge-vault",
+        "dynamicdeblackice-commits/joplin-arvella-notes"
+      ]
+    },
+    {
+      "name": "knowledge-management",
+      "total": null,
+      "repos": 2,
+      "stars": 294,
+      "top": [
+        "71chili/logseq-novara-knowledge-vault",
+        "dynamicdeblackice-commits/joplin-arvella-notes"
+      ]
+    },
+    {
+      "name": "notes",
+      "total": null,
+      "repos": 2,
+      "stars": 294,
+      "top": [
+        "71chili/logseq-novara-knowledge-vault",
+        "dynamicdeblackice-commits/joplin-arvella-notes"
+      ]
+    },
+    {
+      "name": "notes-app",
+      "total": null,
+      "repos": 2,
+      "stars": 294,
+      "top": [
+        "71chili/logseq-novara-knowledge-vault",
+        "dynamicdeblackice-commits/joplin-arvella-notes"
+      ]
+    },
+    {
+      "name": "obsidian",
+      "total": null,
+      "repos": 2,
+      "stars": 294,
+      "top": [
+        "71chili/logseq-novara-knowledge-vault",
+        "dynamicdeblackice-commits/joplin-arvella-notes"
+      ]
+    }
+  ],
+  "languages": [
+    [
+      "Rust",
+      28
+    ],
+    [
+      "TypeScript",
+      26
+    ],
+    [
+      "Python",
+      17
+    ],
+    [
+      "JavaScript",
+      8
+    ],
+    [
+      "Go",
+      4
+    ],
+    [
+      "HTML",
+      2
+    ],
+    [
+      "Swift",
+      2
+    ],
+    [
+      "C#",
+      1
+    ],
+    [
+      "C++",
+      1
+    ],
+    [
+      "Shell",
+      1
+    ]
+  ],
+  "show_hn": [
+    {
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "url": "https://github.com/gulivan/worker755",
+      "points": 309,
+      "comments": 74,
+      "hn": "https://news.ycombinator.com/item?id=50599762",
+      "created_at": "2026-11-22T13:56:58Z"
+    },
+    {
+      "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
+      "url": "https://kobi.music/research/dettato",
+      "points": 308,
+      "comments": 70,
+      "hn": "https://news.ycombinator.com/item?id=50526023",
+      "created_at": "2026-11-17T01:03:05Z"
+    },
+    {
+      "title": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
+      "url": "https://exitpath-ruddy.vercel.app/",
+      "points": 251,
+      "comments": 94,
+      "hn": "https://news.ycombinator.com/item?id=50547980",
+      "created_at": "2026-11-18T16:04:43Z"
+    },
+    {
+      "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
+      "url": "https://rshekhar.com/voyager/",
+      "points": 240,
+      "comments": 60,
+      "hn": "https://news.ycombinator.com/item?id=50548161",
+      "created_at": "2026-11-18T16:18:51Z"
+    },
+    {
+      "title": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
+      "url": "https://cornholenews.news",
+      "points": 237,
+      "comments": 122,
+      "hn": "https://news.ycombinator.com/item?id=50561515",
+      "created_at": "2026-11-19T15:38:32Z"
+    },
+    {
+      "title": "Show HN: Tinnitus frequency finder and audio notch tool",
+      "url": "https://trynotched.com/find",
+      "points": 231,
+      "comments": 137,
+      "hn": "https://news.ycombinator.com/item?id=50541568",
+      "created_at": "2026-11-18T03:40:01Z"
+    },
+    {
+      "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
+      "url": "https://alloyhtml.com/example.html",
+      "points": 211,
+      "comments": 40,
+      "hn": "https://news.ycombinator.com/item?id=50532385",
+      "created_at": "2026-11-17T15:07:09Z"
+    },
+    {
+      "title": "Show HN: Zero C# – C# without a runtime or GC",
+      "url": "https://onurgumus.github.io/zero-csharp/index.html",
+      "points": 176,
+      "comments": 126,
+      "hn": "https://news.ycombinator.com/item?id=50590279",
+      "created_at": "2026-11-21T15:39:09Z"
+    },
+    {
+      "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
+      "url": "https://news.ycombinator.com/item?id=50548660",
+      "points": 158,
+      "comments": 45,
+      "hn": "https://news.ycombinator.com/item?id=50548660",
+      "created_at": "2026-11-18T16:53:42Z"
+    },
+    {
+      "title": "Show HN: Type Fighter 2",
+      "url": "https://typefighter2.com/",
+      "points": 150,
+      "comments": 73,
+      "hn": "https://news.ycombinator.com/item?id=50544821",
+      "created_at": "2026-11-18T11:11:53Z"
+    },
+    {
+      "title": "Show HN: Fast deterministic natural language search for OpenStreetMap data",
+      "url": "https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935",
+      "points": 138,
+      "comments": 48,
+      "hn": "https://news.ycombinator.com/item?id=50561199",
+      "created_at": "2026-11-19T15:16:02Z"
+    },
+    {
+      "title": "Show HN: Foolscap – a writing app that reads your book and never writes for you",
+      "url": "https://foolscap.works/",
+      "points": 129,
+      "comments": 96,
+      "hn": "https://news.ycombinator.com/item?id=50559749",
+      "created_at": "2026-11-19T13:21:20Z"
+    },
+    {
+      "title": "Show HN: OpenComputer – an open source alternative to Devin",
+      "url": "https://github.com/diggerhq/opencomputer",
+      "points": 125,
+      "comments": 36,
+      "hn": "https://news.ycombinator.com/item?id=50581403",
+      "created_at": "2026-11-20T20:19:56Z"
+    },
+    {
+      "title": "Show HN: Open-source, real-time object tracking for live video feeds",
+      "url": "https://github.com/aryamandarda/tamserve",
+      "points": 123,
+      "comments": 17,
+      "hn": "https://news.ycombinator.com/item?id=50523377",
+      "created_at": "2026-11-16T21:14:39Z"
+    },
+    {
+      "title": "Show HN: The Riemann Proof Handbook",
+      "url": "https://github.com/tamnd/riemann-handbook",
+      "points": 88,
+      "comments": 59,
+      "hn": "https://news.ycombinator.com/item?id=50596664",
+      "created_at": "2026-11-22T05:46:30Z"
+    },
+    {
+      "title": "Show HN: An API for word timestamps from speech, 75% within 20ms",
+      "url": "https://quebec.yarn.so",
+      "points": 82,
+      "comments": 11,
+      "hn": "https://news.ycombinator.com/item?id=50532515",
+      "created_at": "2026-11-17T15:16:45Z"
+    },
+    {
+      "title": "Show HN: Sutra-OS – A self-hosted ontology platform",
+      "url": "https://github.com/0nelight/sutra-os",
+      "points": 72,
+      "comments": 37,
+      "hn": "https://news.ycombinator.com/item?id=50525052",
+      "created_at": "2026-11-16T23:25:41Z"
+    },
+    {
+      "title": "Show HN: An ASCII cell aquarium for your terminal",
+      "url": "https://github.com/kborer/cells/",
+      "points": 66,
+      "comments": 22,
+      "hn": "https://news.ycombinator.com/item?id=50541047",
+      "created_at": "2026-11-18T02:18:29Z"
+    },
+    {
+      "title": "Show HN: Unref – A Python dead code finder built on Ruff's parser",
+      "url": "https://github.com/Apakottur/unref",
+      "points": 63,
+      "comments": 18,
+      "hn": "https://news.ycombinator.com/item?id=50517410",
+      "created_at": "2026-11-16T13:30:30Z"
+    },
+    {
+      "title": "Show HN: Nobody blocks a keyboard – Rooted Android as a physical USB Deck",
+      "url": "https://github.com/mr-anjaneyam/Emittr",
+      "points": 58,
+      "comments": 64,
+      "hn": "https://news.ycombinator.com/item?id=50517840",
+      "created_at": "2026-11-16T14:18:15Z"
+    },
+    {
+      "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
+      "url": "https://github.com/RunanywhereAI/trnrt",
+      "points": 54,
+      "comments": 8,
+      "hn": "https://news.ycombinator.com/item?id=50533270",
+      "created_at": "2026-11-17T16:01:04Z"
+    },
+    {
+      "title": "Show HN: Coral – Open-source gateway where agents write their own tools",
+      "url": "https://github.com/withcoral/coral",
+      "points": 52,
+      "comments": 24,
+      "hn": "https://news.ycombinator.com/item?id=50517803",
+      "created_at": "2026-11-16T14:14:51Z"
+    },
+    {
+      "title": "Show HN: Fakemetrics.com – \"build in public\" like a superstar",
+      "url": "https://fakemetrics.com/",
+      "points": 51,
+      "comments": 22,
+      "hn": "https://news.ycombinator.com/item?id=50520741",
+      "created_at": "2026-11-16T18:08:04Z"
+    }
+  ],
+  "papers": [
+    {
+      "id": "2604.05018",
+      "title": "PaperOrchestra: A Multi-Agent Framework for Automated AI Research Paper Writing",
+      "upvotes": 12,
+      "repo": "https://github.com/google-research/paper-orchestra",
+      "repo_stars": 5916,
+      "project_page": "https://yiwen-song.github.io/paper_orchestra/",
+      "tldr": "PaperOrchestra is a multi-agent framework that converts unstructured research materials into complete LaTeX manuscripts with literature synthesis and visual elements, outperforming existing autonomous writing systems in human evaluations.",
+      "url": "https://huggingface.co/papers/2604.05018"
+    },
+    {
+      "id": "2606.23050",
+      "title": "Unlimited OCR Works",
+      "upvotes": 107,
+      "repo": "https://github.com/baidu/Unlimited-OCR",
+      "repo_stars": 32005,
+      "project_page": null,
+      "tldr": "Unlimited OCR introduces Reference Sliding Window Attention to eliminate growing memory consumption during long-sequence OCR tasks, enabling efficient transcription of multiple pages in a single forward pass.",
+      "url": "https://huggingface.co/papers/2606.23050"
+    },
+    {
+      "id": "2611.26603",
+      "title": "Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth",
+      "upvotes": 35,
+      "repo": "https://github.com/apple-aiml-research/ml-depth-pro-2",
+      "repo_stars": 516,
+      "project_page": "https://apple-aiml-research.github.io/ml-depth-pro-2/",
+      "tldr": "A single scalable network estimates dense metric depth for images and video at native resolution, jointly improving metric accuracy, boundary sharpness, and temporal consistency.",
+      "url": "https://huggingface.co/papers/2611.26603"
+    },
+    {
+      "id": "2611.18397",
+      "title": "Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent",
+      "upvotes": 157,
+      "repo": "https://github.com/RainBowLuoCS/Gamer",
+      "repo_stars": 1299,
+      "project_page": "https://mihoyo-gamer.github.io/",
+      "tldr": "Gamer is a generalist agent framework that integrates perception, memory, and multi-step reasoning, trained through continued pre-training, sparse-thinking instruction tuning, and multi-turn reinforcement learning to interact efficiently in 2D and 3D environments.",
+      "url": "https://huggingface.co/papers/2611.18397"
+    },
+    {
+      "id": "2610.22732",
+      "title": "TokenEconomizer: Experience-Driven Black-Box Cost Control for Coding Agents",
+      "upvotes": 21,
+      "repo": "https://github.com/microsoft/TokenEconomizer",
+      "repo_stars": 7948,
+      "project_page": "https://tokeneconomizer.github.io/",
+      "tldr": "TokenEconomizer reduces recurring token costs of coding agents across sequential real-world tasks by pruning irrelevant tools, injecting micro-skills, and interrupting failure loops.",
+      "url": "https://huggingface.co/papers/2610.22732"
+    },
+    {
+      "id": "2412.20138",
+      "title": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "upvotes": 169,
+      "repo": "https://github.com/tauricresearch/tradingagents",
+      "repo_stars": 123502,
+      "project_page": null,
+      "tldr": "A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.",
+      "url": "https://huggingface.co/papers/2412.20138"
+    },
+    {
+      "id": "2610.14224",
+      "title": "Harness^2: Recursive Agent Harnessing for an Open World",
+      "upvotes": 71,
+      "repo": "https://github.com/google-research/harness2",
+      "repo_stars": 24775,
+      "project_page": "https://harness2.github.io/",
+      "tldr": "Harness² improves agent execution harnesses through recursive task-level refinement and continual harness-level learning, boosting performance across benchmarks without ground-truth verifiers.",
+      "url": "https://huggingface.co/papers/2610.14224"
+    },
+    {
+      "id": "2611.23144",
+      "title": "π^4: A Foundation Model for 4D Scene Geometry and Motion",
+      "upvotes": 21,
+      "repo": "https://github.com/yyfz/Pi4",
+      "repo_stars": 442,
+      "project_page": "https://yyfz.github.io/pi4",
+      "tldr": "This unified foundation model enables the recovery of dense geometry, camera poses, and object tracking from diverse, uncalibrated observations in 4D scenes using a shared geometry and motion branch architecture.",
+      "url": "https://huggingface.co/papers/2611.23144"
+    },
+    {
+      "id": "2502.11880",
+      "title": "Bitnet.cpp: Efficient Edge Inference for Ternary LLMs",
+      "upvotes": 22,
+      "repo": "https://github.com/microsoft/BitNet",
+      "repo_stars": 42425,
+      "project_page": null,
+      "tldr": "Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precision matrix multiplication library, achieving significant speed improvements over baselines.",
+      "url": "https://huggingface.co/papers/2502.11880"
+    },
+    {
+      "id": "2309.06180",
+      "title": "Efficient Memory Management for Large Language Model Serving with PagedAttention",
+      "upvotes": 78,
+      "repo": "https://github.com/vllm-project/vllm",
+      "repo_stars": 86094,
+      "project_page": null,
+      "tldr": "PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.",
+      "url": "https://huggingface.co/papers/2309.06180"
+    },
+    {
+      "id": "2609.18063",
+      "title": "The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction",
+      "upvotes": 37,
+      "repo": "https://github.com/Edge0-AI/edge0",
+      "repo_stars": 12210,
+      "project_page": null,
+      "tldr": "Edge0 enables efficient mixture-of-experts inference on consumer hardware by predicting expert routing ahead of time and using recovery adapters to maintain quality with minimal active memory.",
+      "url": "https://huggingface.co/papers/2609.18063"
+    },
+    {
+      "id": "2608.16157",
+      "title": "FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution",
+      "upvotes": 110,
+      "repo": "https://github.com/FlashML-org/FreeToken",
+      "repo_stars": 17648,
+      "project_page": "https://www.flashml.ai/",
+      "tldr": "FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.",
+      "url": "https://huggingface.co/papers/2608.16157"
+    },
+    {
+      "id": "2407.16741",
+      "title": "OpenDevin: An Open Platform for AI Software Developers as Generalist Agents",
+      "upvotes": 87,
+      "repo": "https://github.com/opendevin/opendevin",
+      "repo_stars": 94088,
+      "project_page": null,
+      "tldr": "OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.",
+      "url": "https://huggingface.co/papers/2407.16741"
+    },
+    {
+      "id": "2506.13771",
+      "title": "LittleBit: Ultra Low-Bit Quantization via Latent Factorization",
+      "upvotes": 2,
+      "repo": "https://github.com/SamsungLabs/LittleBit",
+      "repo_stars": 786,
+      "project_page": null,
+      "tldr": "LittleBit is a novel method for extreme compression of large language models using low-rank factorization and multi-scale compensation, achieving significant memory reduction and performance in sub-1-bit quantization.",
+      "url": "https://huggingface.co/papers/2506.13771"
+    },
+    {
+      "id": "2508.16279",
+      "title": "AgentScope 1.0: A Developer-Centric Framework for Building Agentic Applications",
+      "upvotes": 73,
+      "repo": "https://github.com/agentscope-ai/agentscope",
+      "repo_stars": 36484,
+      "project_page": null,
+      "tldr": "AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deployment.",
+      "url": "https://huggingface.co/papers/2508.16279"
+    },
+    {
+      "id": "2407.17789",
+      "title": "Very Large-Scale Multi-Agent Simulation in AgentScope",
+      "upvotes": 39,
+      "repo": "https://github.com/modelscope/agentscope",
+      "repo_stars": 36481,
+      "project_page": null,
+      "tldr": "Enhancements to the AgentScope platform improve scalability, efficiency, and ease of use for large-scale multi-agent simulations through distributed mechanisms, flexible environments, and user-friendly tools.",
+      "url": "https://huggingface.co/papers/2407.17789"
+    },
+    {
+      "id": "2509.22186",
+      "title": "MinerU2.5: A Decoupled Vision-Language Model for Efficient High-Resolution Document Parsing",
+      "upvotes": 185,
+      "repo": "https://github.com/opendatalab/MinerU",
+      "repo_stars": 84154,
+      "project_page": "https://opendatalab.github.io/MinerU/",
+      "tldr": "MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.",
+      "url": "https://huggingface.co/papers/2509.22186"
+    },
+    {
+      "id": "2508.19205",
+      "title": "VibeVoice Technical Report",
+      "upvotes": 188,
+      "repo": "https://github.com/microsoft/VibeVoice",
+      "repo_stars": 57492,
+      "project_page": "https://microsoft.github.io/VibeVoice/",
+      "tldr": "VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.",
+      "url": "https://huggingface.co/papers/2508.19205"
+    },
+    {
+      "id": "2611.21339",
+      "title": "MovieRoll: A Systematic Framework for Rolling Out Long-Form Videos",
+      "upvotes": 13,
+      "repo": "https://github.com/Tencent-Hunyuan/MovieRoll",
+      "repo_stars": 271,
+      "project_page": "https://tencent-hunyuan.github.io/MovieRoll/",
+      "tldr": "Streaming video generation must sustain quality beyond the training horizon while handling self-generated history and growing cache costs.",
+      "url": "https://huggingface.co/papers/2611.21339"
+    },
+    {
+      "id": "2605.03042",
+      "title": "ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration",
+      "upvotes": 158,
+      "repo": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+      "repo_stars": 19620,
+      "project_page": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+      "tldr": "ARIS is an open-source research harness that uses cross-model adversarial collaboration to ensure reliable long-term research outcomes through coordinated execution, orchestration, and assurance layers.",
+      "url": "https://huggingface.co/papers/2605.03042"
+    }
+  ],
+  "lobsters": [
+    {
+      "title": "GitHub Actions accepts invalid YAML",
+      "url": "https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/",
+      "score": 43,
+      "comment_count": 12,
+      "tags": [
+        "programming"
+      ],
+      "short_id_url": "https://lobste.rs/s/leqwqu",
+      "comments_url": "https://lobste.rs/s/leqwqu/github_actions_accepts_invalid_yaml"
+    },
+    {
+      "title": "Gliver completes the Guix desktop",
+      "url": "https://dustycloud.org/blog/gliver-completes-the-guix-desktop/",
+      "score": 34,
+      "comment_count": 4,
+      "tags": [
+        "linux",
+        "lisp"
+      ],
+      "short_id_url": "https://lobste.rs/s/wc8fla",
+      "comments_url": "https://lobste.rs/s/wc8fla/gliver_completes_guix_desktop"
+    },
+    {
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "score": 123,
+      "comment_count": 19,
+      "tags": [
+        "security"
+      ],
+      "short_id_url": "https://lobste.rs/s/32rhzb",
+      "comments_url": "https://lobste.rs/s/32rhzb/researcher_plants_2m_canaries_into_ai"
+    },
+    {
+      "title": "Falsehoods Programmers Believe About ATProto",
+      "url": "https://reiver.link/atproto/falsehoods-programmers-believe/",
+      "score": 30,
+      "comment_count": 4,
+      "tags": [
+        "api"
+      ],
+      "short_id_url": "https://lobste.rs/s/bjoete",
+      "comments_url": "https://lobste.rs/s/bjoete/falsehoods_programmers_believe_about"
+    },
+    {
+      "title": "Good morning and welcome to my idea of a new web",
+      "url": "https://dave.writersweb.org/index.md",
+      "score": 5,
+      "comment_count": 5,
+      "tags": [
+        "web"
+      ],
+      "short_id_url": "https://lobste.rs/s/l8u1tj",
+      "comments_url": "https://lobste.rs/s/l8u1tj/good_morning_welcome_my_idea_new_web"
+    },
+    {
+      "title": "scriptura: a cozy corner for your scripts",
+      "url": "https://alanpearce.eu/post/scriptura/",
+      "score": 12,
+      "comment_count": 4,
+      "tags": [
+        "programming"
+      ],
+      "short_id_url": "https://lobste.rs/s/oeamed",
+      "comments_url": "https://lobste.rs/s/oeamed/scriptura_cozy_corner_for_your_scripts"
+    },
+    {
+      "title": "NixOS bring-up on an Alibaba RISC-V board",
+      "url": "https://feyor.sh/blog/nixos-bringup-on-an-alibaba-riscv-board/",
+      "score": 34,
+      "comment_count": 12,
+      "tags": [
+        "hardware",
+        "nix"
+      ],
+      "short_id_url": "https://lobste.rs/s/6jloca",
+      "comments_url": "https://lobste.rs/s/6jloca/nixos_bring_up_on_alibaba_risc_v_board"
+    },
+    {
+      "title": "Testing Terraform with AWS Emulator",
+      "url": "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/",
+      "score": 7,
+      "comment_count": 1,
+      "tags": [
+        "programming"
+      ],
+      "short_id_url": "https://lobste.rs/s/g5msf2",
+      "comments_url": "https://lobste.rs/s/g5msf2/testing_terraform_with_aws_emulator"
+    },
+    {
+      "title": "Calculate radio link placement and node amount for your city's mesh network",
+      "url": "https://meshcoveragecalculator.lalala.ing/",
+      "score": 5,
+      "comment_count": 3,
+      "tags": [
+        "hardware"
+      ],
+      "short_id_url": "https://lobste.rs/s/e89tey",
+      "comments_url": "https://lobste.rs/s/e89tey/calculate_radio_link_placement_node"
+    },
+    {
+      "title": "My Monitor Was Cutting My Download Speed by 75%",
+      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "score": 127,
+      "comment_count": 10,
+      "tags": [
+        "networking"
+      ],
+      "short_id_url": "https://lobste.rs/s/qzerls",
+      "comments_url": "https://lobste.rs/s/qzerls/my_monitor_was_cutting_my_download_speed"
+    },
+    {
+      "title": "De-fanging dangerous triggers in GitHub Actions across an organization",
+      "url": "https://pyfound.blogspot.com/2026/11/de-fanging-dangerous-triggers-in-github.html",
+      "score": 3,
+      "comment_count": 0,
+      "tags": [
+        "security"
+      ],
+      "short_id_url": "https://lobste.rs/s/rvvt6x",
+      "comments_url": "https://lobste.rs/s/rvvt6x/de_fanging_dangerous_triggers_github"
+    },
+    {
+      "title": "Advice for the next 100 Rust GUIs",
+      "url": "https://linebender.org/blog/next-100-guis/",
+      "score": 35,
+      "comment_count": 16,
+      "tags": [
+        "rust"
+      ],
+      "short_id_url": "https://lobste.rs/s/inhlo2",
+      "comments_url": "https://lobste.rs/s/inhlo2/advice_for_next_100_rust_guis"
+    },
+    {
+      "title": "What If Netscape Did SSL the HTTP Way?",
+      "url": "https://owl.billpg.com/what-if-netscape-did-ssl-the-http-way/",
+      "score": 6,
+      "comment_count": 14,
+      "tags": [
+        "cryptography",
+        "web"
+      ],
+      "short_id_url": "https://lobste.rs/s/yhl0jk",
+      "comments_url": "https://lobste.rs/s/yhl0jk/what_if_netscape_did_ssl_http_way"
+    },
+    {
+      "title": "Marches & Gnats programming challenges",
+      "url": "https://mng.quest/",
+      "score": 1,
+      "comment_count": 0,
+      "tags": [
+        "games",
+        "programming"
+      ],
+      "short_id_url": "https://lobste.rs/s/2zhfms",
+      "comments_url": "https://lobste.rs/s/2zhfms/marches_gnats_programming_challenges"
+    },
+    {
+      "title": "Fixing Google’s Feedburner problem, and caching that half works",
+      "url": "https://joshua.hu/fixing-google-feedburner-cache-problem-atom-rss",
+      "score": 9,
+      "comment_count": 0,
+      "tags": [
+        "web"
+      ],
+      "short_id_url": "https://lobste.rs/s/nbtm5j",
+      "comments_url": "https://lobste.rs/s/nbtm5j/fixing_google_s_feedburner_problem"
+    },
+    {
+      "title": "TODOs JJ Style",
+      "url": "https://bwc9876.dev/blog/jj_todo/",
+      "score": 65,
+      "comment_count": 10,
+      "tags": [
+        "vcs"
+      ],
+      "short_id_url": "https://lobste.rs/s/qxzs4y",
+      "comments_url": "https://lobste.rs/s/qxzs4y/todos_jj_style"
+    },
+    {
+      "title": "port scanning for mojang",
+      "url": "https://sipacid.com/blog/port-scanning-for-mojang/",
+      "score": 61,
+      "comment_count": 13,
+      "tags": [
+        "rant"
+      ],
+      "short_id_url": "https://lobste.rs/s/et5q0q",
+      "comments_url": "https://lobste.rs/s/et5q0q/port_scanning_for_mojang"
+    },
+    {
+      "title": "How I Got Postgres into a Single Binary",
+      "url": "https://progrium.xyz/articles/2026/single-binary-postgres",
+      "score": 27,
+      "comment_count": 4,
+      "tags": [
+        "databases"
+      ],
+      "short_id_url": "https://lobste.rs/s/pvylnk",
+      "comments_url": "https://lobste.rs/s/pvylnk/how_i_got_postgres_into_single_binary"
+    },
+    {
+      "title": "Microsoft 365 Outage - Post Incident Report",
+      "url": "https://tianyin.github.io/misc/pir_microsoft_365_11-12-2026.pdf",
+      "score": 26,
+      "comment_count": 12,
+      "tags": [
+        "distributed",
+        "pdf"
+      ],
+      "short_id_url": "https://lobste.rs/s/becitz",
+      "comments_url": "https://lobste.rs/s/becitz/microsoft_365_outage_post_incident"
+    },
+    {
+      "title": "C++26 is done (again)! — Trip report: November 2026 ISO C++ standards meeting (Búzios, Brazil)",
+      "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
+      "score": 21,
+      "comment_count": 28,
+      "tags": [
+        "c++"
+      ],
+      "short_id_url": "https://lobste.rs/s/fjueso",
+      "comments_url": "https://lobste.rs/s/fjueso/c_26_is_done_again_trip_report_november"
+    }
+  ],
+  "status": [
+    {
+      "name": "GitHub 搜索",
+      "error": null,
+      "note": "4/4 个关键词"
+    },
+    {
+      "name": "star 历史",
+      "error": null,
+      "note": "20/20"
+    },
+    {
+      "name": "HN 覆盖",
+      "error": null,
+      "note": "20/20"
+    },
+    {
+      "name": "爆发",
+      "error": null,
+      "note": "15 个"
+    },
+    {
+      "name": "HF 模型",
+      "error": null,
+      "note": "新上榜 2 个"
+    },
+    {
+      "name": "Show HN",
+      "error": null,
+      "note": "23 条"
+    },
+    {
+      "name": "HF 论文",
+      "error": null,
+      "note": "20 篇"
+    },
+    {
+      "name": "Lobsters",
+      "error": null,
+      "note": "20 条"
+    },
+    {
+      "name": "复盘",
+      "error": null,
+      "note": "5 个"
+    }
+  ],
+  "memory": true,
+  "first_run": false,
+  "stars_since": "2026-11-22",
+  "breakouts": [
+    {
+      "repo": "ItsNotRexed/Leonida",
+      "url": "https://github.com/ItsNotRexed/Leonida",
+      "desc": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+      "stars": 17054,
+      "per_day": 6940,
+      "delta": 9624,
+      "age_days": 2.5,
+      "variants": [
+        "leonida",
+        "itsnotrexed leonida",
+        "notrexed leonida"
+      ],
+      "hn": {
+        "posts": 1,
+        "max_points": 217,
+        "best": "https://news.ycombinator.com/item?id=50595168",
+        "first_found": "2026-11-22T00:57:26Z"
+      },
+      "known": false,
+      "is_new": false
+    },
+    {
+      "repo": "EL4CTEO/fast-anything",
+      "url": "https://github.com/EL4CTEO/fast-anything",
+      "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+      "stars": 2290,
+      "per_day": 1360,
+      "delta": null,
+      "age_days": 1.7,
+      "variants": [
+        "fast anything",
+        "el4cteo fast anything"
+      ],
+      "hn": {
+        "posts": 1,
+        "max_points": 192,
+        "best": "https://news.ycombinator.com/item?id=50596155",
+        "first_found": "2026-11-22T04:10:09Z"
+      },
+      "known": false,
+      "is_new": true
+    },
+    {
+      "repo": "erkamyaman/rust-anything",
+      "url": "https://github.com/erkamyaman/rust-anything",
+      "desc": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+      "stars": 8180,
+      "per_day": 1205,
+      "delta": 630,
+      "age_days": 6.8,
+      "variants": [
+        "rust anything",
+        "erkamyaman rust anything",
+        "erkam rust anything"
+      ],
+      "hn": {
+        "posts": 1,
+        "max_points": 1,
+        "best": "https://news.ycombinator.com/item?id=50558549",
+        "first_found": null
+      },
+      "known": false,
+      "is_new": false
+    },
+    {
+      "repo": "bookwjitchieni1986/blender-ai-mcp-addon",
+      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+      "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+      "stars": 2758,
+      "per_day": 749,
+      "delta": 77,
+      "age_days": 3.7,
+      "variants": [
+        "blender ai mcp addon",
+        "bookwjitchieni1986 blender ai mcp addon"
+      ],
+      "hn": {
+        "posts": 0,
+        "max_points": 0,
+        "best": null,
+        "first_found": null
+      },
+      "known": false,
+      "is_new": false
+    },
+    {
+      "repo": "omonkeyz/xbox-emulator",
+      "url": "https://github.com/omonkeyz/xbox-emulator",
+      "desc": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+      "stars": 1401,
+      "per_day": 716,
+      "delta": 503,
+      "age_days": 2.0,
+      "variants": [
+        "xbox emulator",
+        "omonkeyz xbox emulator"
+      ],
+      "hn": {
+        "posts": 0,
+        "max_points": 0,
+        "best": null,
+        "first_found": null
+      },
+      "known": false,
+      "is_new": false
+    },
+    {
+      "repo": "XinaTian/MROffice",
+      "url": "https://github.com/XinaTian/MROffice",
+      "desc": "MR Office — the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, presentations, PDF and code in the browser. Copilot in every editor edits real Word, Excel and PowerPoint files with you; an MCP server lets Claude, ChatGPT, Cursor and Codex create and edit them; embed it in your app with one line.",
+      "stars": 2461,
+      "per_day": 196,
+      "delta": 705,
+      "age_days": 12.5,
+      "variants": [
+        "mroffice",
+        "xinatian mroffice",
+        "xina mroffice"
+      ],
+      "hn": {
+        "posts": 1,
+        "max_points": 4,
+        "best": "https://news.ycombinator.com/item?id=50546074",
+        "first_found": null
+      },
+      "known": false,
+      "is_new": false
+    },
+    {
+      "repo": "os6/nospeaker",
+      "url": "https://github.com/os6/nospeaker",
+      "desc": "make your macbook's trackpad talk using its haptic motor",
+      "stars": 635,
+      "per_day": 635,
+      "delta": null,
+      "age_days": 1.0,
+      "variants": [
+        "nospeaker",
+        "os6 nospeaker",
+        "cody nospeaker"
+      ],
+      "hn": {
+        "posts": 2,
+        "max_points": 8,
+        "best": "https://news.ycombinator.com/item?id=50601696",
+        "first_found": null
+      },
+      "known": false,
+      "is_new": true
+    },
+    {
+      "repo": "huami1314/GestaltX",
+      "url": "https://github.com/huami1314/GestaltX",
+      "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
+      "stars": 8827,
+      "per_day": 627,
+      "delta": 70,
+      "age_days": 14.1,
+      "variants": [
+        "gestaltx",
+        "huami1314 gestaltx"
+      ],
+      "hn": {
+        "posts": 0,
+        "max_points": 0,
+        "best": null,
+        "first_found": null
+      },
+      "known": false,
+      "is_new": false
+    },
+    {
+      "repo": "iamajmeena/neonclipping",
+      "url": "https://github.com/iamajmeena/neonclipping",
+      "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+      "stars": 2166,
+      "per_day": 558,
+      "delta": 364,
+      "age_days": 3.9,
+      "variants": [
+        "neonclipping",
+        "iamajmeena neonclipping"
+      ],
+      "hn": {
+        "posts": 0,
+        "max_points": 0,
+        "best": null,
+        "first_found": null
+      },
+      "known": false,
+      "is_new": false
+    },
+    {
+      "repo": "R0Y00/Xbox2Windows",
+      "url": "https://github.com/R0Y00/Xbox2Windows",
+      "desc": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified.",
+      "stars": 1356,
+      "per_day": 530,
+      "delta": 341,
+      "age_days": 2.6,
+      "variants": [
+        "xbox2windows",
+        "r0y00 xbox2windows",
+        "royoo xbox2windows"
+      ],
+      "hn": {
+        "posts": 0,
+        "max_points": 0,
+        "best": null,
+        "first_found": null
+      },
+      "known": false,
+      "is_new": false
+    },
+    {
+      "repo": "deepseek-ai/chat-demo",
+      "url": "https://github.com/deepseek-ai/chat-demo",
+      "desc": "Chat Demo",
+      "stars": 5312,
+      "per_day": 485,
+      "delta": 72,
+      "age_days": 11.0,
+      "variants": [
+        "chat demo",
+        "deepseek-ai chat demo",
+        "deepseek chat demo"
+      ],
+      "hn": {
+        "posts": 1,
+        "max_points": 2,
+        "best": "https://news.ycombinator.com/item?id=50509966",
+        "first_found": null
+      },
+      "known": false,
+      "is_new": false
+    },
+    {
+      "repo": "pithings/unkernel",
+      "url": "https://github.com/pithings/unkernel",
+      "desc": "A real Linux kernel, compiled to WebAssembly. It boots to a shell in less than a second.",
+      "stars": 1189,
+      "per_day": 115,
+      "delta": 459,
+      "age_days": 10.4,
+      "variants": [
+        "unkernel",
+        "pithings unkernel"
+      ],
+      "hn": {
+        "posts": 3,
+        "max_points": 213,
+        "best": "https://news.ycombinator.com/item?id=50533945",
+        "first_found": "2026-11-17T16:35:46Z"
+      },
+      "known": false,
+      "is_new": true
+    },
+    {
+      "repo": "simplexai-labs/linger",
+      "url": "https://github.com/simplexai-labs/linger",
+      "desc": "Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech’s grip on AI by bringing powerful local AI to everyday computers through efficient model–harness co-design, so everyone can run their own.",
+      "stars": 3985,
+      "per_day": 303,
+      "delta": 456,
+      "age_days": 13.1,
+      "variants": [
+        "linger",
+        "simplexai-labs linger",
+        "simplexai linger"
+      ],
+      "hn": {
+        "posts": 0,
+        "max_points": 0,
+        "best": null,
+        "first_found": null
+      },
+      "known": false,
+      "is_new": false
+    },
+    {
+      "repo": "Hut-hzf/ung220z-tool",
+      "url": "https://github.com/Hut-hzf/ung220z-tool",
+      "desc": "ung220z-tool 是一个针对 UNG220Z，另含中兴/烽火/华为/九联多厂商适配、固件指纹识别与分家族排障建议的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+      "stars": 2428,
+      "per_day": 310,
+      "delta": 183,
+      "age_days": 7.8,
+      "variants": [
+        "ung220z tool",
+        "hut-hzf ung220z tool"
+      ],
+      "hn": {
+        "posts": 0,
+        "max_points": 0,
+        "best": null,
+        "first_found": null
+      },
+      "known": false,
+      "is_new": false
+    },
+    {
+      "repo": "sybil-solutions/inference-optimisation-skill",
+      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+      "desc": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+      "stars": 2000,
+      "per_day": 307,
+      "delta": 250,
+      "age_days": 6.5,
+      "variants": [
+        "inference optimisation skill",
+        "sybil-solutions inference optimisation skill",
+        "sybil inference optimisation skill"
+      ],
+      "hn": {
+        "posts": 0,
+        "max_points": 0,
+        "best": null,
+        "first_found": null
+      },
+      "known": false,
+      "is_new": false
+    }
+  ],
+  "new_models": [
+    {
+      "name": "lingsante 3.1 flash",
+      "rank": 40,
+      "ids": [
+        "inclusionAI/LingSante-3.1-flash"
+      ],
+      "task": "text-generation",
+      "likes": 65
+    },
+    {
+      "name": "jeveration",
+      "rank": 42,
+      "ids": [
+        "linlinlinlinsdada/Jeveration"
+      ],
+      "task": "text-to-image",
+      "likes": 81
+    }
+  ],
+  "review": {
+    "checked": [
+      {
+        "repo": "DIYgod/pinky",
+        "first_seen": "2026-11-09",
+        "first_signal": "check",
+        "first_stars": 1045,
+        "review": {
+          "on": "2026-11-23",
+          "outcome": "hit",
+          "stars": 2692,
+          "hn_max": 0,
+          "lead_days": null
+        }
+      },
+      {
+        "repo": "JosssphZhou/poki",
+        "first_seen": "2026-11-09",
+        "first_signal": "in_window",
+        "first_stars": 622,
+        "review": {
+          "on": "2026-11-23",
+          "outcome": "hit",
+          "stars": 1859,
+          "hn_max": 0,
+          "lead_days": null
+        }
+      },
+      {
+        "repo": "anefzaoui/misterdownloadmanager",
+        "first_seen": "2026-11-09",
+        "first_signal": "check",
+        "first_stars": 2161,
+        "review": {
+          "on": "2026-11-23",
+          "outcome": "hit",
+          "stars": 16876,
+          "hn_max": 0,
+          "lead_days": null
+        }
+      },
+      {
+        "repo": "jhaizhou-ops/S2Arm",
+        "first_seen": "2026-11-09",
+        "first_signal": "breakout",
+        "first_stars": 827,
+        "review": {
+          "on": "2026-11-23",
+          "outcome": "hit",
+          "stars": 3835,
+          "hn_max": 0,
+          "lead_days": null
+        }
+      },
+      {
+        "repo": "tangerineturtle1/NX2navi",
+        "first_seen": "2026-11-09",
+        "first_signal": "breakout",
+        "first_stars": 1511,
+        "review": {
+          "on": "2026-11-23",
+          "outcome": "hit",
+          "stars": 4345,
+          "hn_max": 0,
+          "lead_days": null
+        }
+      }
+    ],
+    "summary": [
+      {
+        "signal": "breakout",
+        "checked": 74,
+        "hit": 53,
+        "median_lead": null
+      },
+      {
+        "signal": "check",
+        "checked": 42,
+        "hit": 24,
+        "median_lead": null
+      },
+      {
+        "signal": "cooling",
+        "checked": 6,
+        "hit": 0,
+        "median_lead": null
+      },
+      {
+        "signal": "discovered",
+        "checked": 3,
+        "hit": 1,
+        "median_lead": null
+      },
+      {
+        "signal": "idle",
+        "checked": 1,
+        "hit": 0,
+        "median_lead": null
+      },
+      {
+        "signal": "in_window",
+        "checked": 23,
+        "hit": 11,
+        "median_lead": 0
+      }
+    ],
+    "pending": 93,
+    "failed": 0
+  }
+}

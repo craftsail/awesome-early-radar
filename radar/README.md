@@ -4,6 +4,7 @@
 
 | 日期 | 候选 | 🆕 | 🟢 窗口内 | 🚀 爆发 | 头条 |
 | --- | ---: | ---: | ---: | ---: | --- |
+| [2026-11-23](2026/11/2026-11-23.md) | 100 | 6 | 8 | 15 | [bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) |
 | [2026-11-22](2026/11/2026-11-22.md) | 99 | 5 | 8 | 15 | [bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) |
 | [2026-11-21](2026/11/2026-11-21.md) | 98 | 5 | 4 | 15 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) |
 | [2026-11-20](2026/11/2026-11-20.md) | 99 | 14 | 3 | 15 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) |
