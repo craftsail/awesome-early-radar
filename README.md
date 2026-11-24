@@ -19,33 +19,34 @@
 
 <!-- radar:start -->
 
-### 最新一期：2026-11-23
+### 最新一期：2026-11-24
 
-[完整选题单](radar/latest.md) · [历史](radar/README.md) · 候选 100 个，细查 20 个，🟢 窗口内 8 个
+[完整选题单](radar/latest.md) · [历史](radar/README.md) · 候选 104 个，细查 20 个，🟢 窗口内 7 个
 
 | 分 | 判断 | 仓库 | 一句话 | star | 近 7 天 |
 | ---: | --- | --- | --- | ---: | ---: |
-| 95.1 | 🟢 窗口内 | [bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) | AI assistant and MCP server for Blender: visual chat, scene… | 2758 | +2758 |
-| 93.7 | 🟢 窗口内 | [XinaTian/MROffice](https://github.com/XinaTian/MROffice) | MR Office — the open-source editors of the AI office suite c… | 2461 | +2459 |
-| 92.2 | 🟢 窗口内 | [iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping) | Paste a link, get captioned 9:16 clips in ~2 min. Free, loca… | 2166 | +2166 |
-| 88.5 | 🟢 窗口内 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) | Agent skill for hill-climbing local LLM serving speed (decod… | 2000 | +1597 |
-| 85.8 | 🟢 窗口内 | [Lemxy/WinRust](https://github.com/Lemxy/WinRust) | Windows shell replacement in Rust: taskbar, file manager, NT… | 1270 | +1270 |
-| 80.2 | 🟢 窗口内 | [huggingface/pybot](https://github.com/huggingface/pybot) | PyBot: a chatbot written in pure Python by a swarm of agents… | 1126 | +799 |
-| 79.4 | 🟢 窗口内 | [s1dashu/quiet-md](https://github.com/s1dashu/quiet-md) | Blazing-fast native notes app and rich-text editor for macOS… | 2650 | +745 |
-| 75 | 🟢 窗口内 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills) | 32 free marketing skills for your AI agent: research, positi… | 799 | +516 |
-| 59.3 | 🟡 在降温 | [DIYgod/pinky](https://github.com/DIYgod/pinky) | Let AI use your iPhone or Android phone, with you in the loo… | 2692 | +374 |
-| 57.9 | 🟡 在降温 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki) | Poki uses your iPhone like you do. An open-source agent app… | 1859 | +327 |
+| 93.2 | 🟢 窗口内 | [iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping) | Paste a link, get captioned 9:16 clips in ~2 min. Free, loca… | 2359 | +2359 |
+| 86.8 | 🟢 窗口内 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) | Agent skill for hill-climbing local LLM serving speed (decod… | 2360 | +1381 |
+| 86.4 | 🟢 窗口内 | [Lemxy/WinRust](https://github.com/Lemxy/WinRust) | Windows shell replacement in Rust: taskbar, file manager, NT… | 1421 | +1341 |
+| 80.9 | 🟢 窗口内 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast) | Non-invasive MCP accelerator plugin for Google Antigravity (… | 845 | +845 |
+| 79.4 | 🟢 窗口内 | [s1dashu/quiet-md](https://github.com/s1dashu/quiet-md) | Blazing-fast native notes app and rich-text editor for macOS… | 2699 | +748 |
+| 75.3 | 🟢 窗口内 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot) | Open-source, local-first AI agent team for your desktop: mul… | 529 | +529 |
+| 74.7 | 🆕 🟢 窗口内 | [qianyiai/kurocat](https://github.com/qianyiai/kurocat) | KuroCat — Free open-source desktop typing cat pet & OBS over… | 503 | +503 |
+| 60.5 | 🟡 在降温 | [huggingface/pybot](https://github.com/huggingface/pybot) | PyBot: a chatbot written in pure Python by a swarm of agents… | 1156 | +422 |
+| 58.1 | 🟡 在降温 | [DIYgod/pinky](https://github.com/DIYgod/pinky) | Let AI use your iPhone or Android phone, with you in the loo… | 2737 | +332 |
+| 57.8 | 🟡 在降温 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki) | Poki uses your iPhone like you do. An open-source agent app… | 1900 | +322 |
 
-**🚀 爆发**：[ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida) 每天 +6940 · [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) 每天 +1360 · [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) 每天 +1205 · [bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) 每天 +749 · [omonkeyz/xbox-emulator](https://github.com/omonkeyz/xbox-emulator) 每天 +716
+**🚀 爆发**：[Marvisak/VIctory](https://github.com/Marvisak/VIctory) 每天 +6883 · [ivall/xcl](https://github.com/ivall/xcl) 每天 +1581 · [Hut-hzf/ung220z-tool](https://github.com/Hut-hzf/ung220z-tool) 每天 +444 · [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) 每天 +1207 · [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) 每天 +1133
 
-**复盘**（最近 60 天，起来了 / 复盘了）：🚀 爆发 53/74 · 🔴 先核对 24/42 · 🟡 在降温 0/6 · 🔵 已被发现 1/3 · 💤 不活跃 0/1 · 🟢 窗口内 11/23
+**复盘**（最近 60 天，起来了 / 复盘了）：🚀 爆发 53/75 · 🔴 先核对 25/43 · 🟡 在降温 0/6 · 🔵 已被发现 1/3 · 💤 不活跃 0/1 · 🟢 窗口内 11/24
 
-**趋势**：`claude-code` 27 个 · `ai-agents` 22 个 · `codex` 21 个 · `mcp-server` 18 个 · `model-context-protocol` 16 个 · `windows` 13 个
+**趋势**：`claude-code` 28 个 · `codex` 22 个 · `ai-agents` 18 个 · `mcp-server` 18 个 · `model-context-protocol` 16 个 · `windows` 15 个
 
 ### 最近 14 期
 
 | 日期 | 候选 | 🆕 | 🟢 窗口内 | 🚀 爆发 | 头条 |
 | --- | ---: | ---: | ---: | ---: | --- |
+| [2026-11-24](radar/2026/11/2026-11-24.md) | 104 | 9 | 7 | 15 | [iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping) |
 | [2026-11-23](radar/2026/11/2026-11-23.md) | 100 | 6 | 8 | 15 | [bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) |
 | [2026-11-22](radar/2026/11/2026-11-22.md) | 99 | 5 | 8 | 15 | [bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) |
 | [2026-11-21](radar/2026/11/2026-11-21.md) | 98 | 5 | 4 | 15 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) |
@@ -59,6 +60,5 @@
 | [2026-11-13](radar/2026/11/2026-11-13.md) | 98 | 4 | 7 | 15 | [DIYgod/pinky](https://github.com/DIYgod/pinky) |
 | [2026-11-12](radar/2026/11/2026-11-12.md) | 99 | 2 | 6 | 15 | [DIYgod/pinky](https://github.com/DIYgod/pinky) |
 | [2026-11-11](radar/2026/11/2026-11-11.md) | 101 | 6 | 5 | 15 | [sarpstar/cinecode](https://github.com/sarpstar/cinecode) |
-| [2026-11-10](radar/2026/11/2026-11-10.md) | 101 | 5 | 4 | 15 | [sarpstar/cinecode](https://github.com/sarpstar/cinecode) |
 
 <!-- radar:end -->
