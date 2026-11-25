@@ -19,33 +19,34 @@
 
 <!-- radar:start -->
 
-### 最新一期：2026-11-24
+### 最新一期：2026-11-25
 
-[完整选题单](radar/latest.md) · [历史](radar/README.md) · 候选 104 个，细查 20 个，🟢 窗口内 7 个
+[完整选题单](radar/latest.md) · [历史](radar/README.md) · 候选 106 个，细查 20 个，🟢 窗口内 11 个
 
 | 分 | 判断 | 仓库 | 一句话 | star | 近 7 天 |
 | ---: | --- | --- | --- | ---: | ---: |
-| 93.2 | 🟢 窗口内 | [iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping) | Paste a link, get captioned 9:16 clips in ~2 min. Free, loca… | 2359 | +2359 |
-| 86.8 | 🟢 窗口内 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) | Agent skill for hill-climbing local LLM serving speed (decod… | 2360 | +1381 |
-| 86.4 | 🟢 窗口内 | [Lemxy/WinRust](https://github.com/Lemxy/WinRust) | Windows shell replacement in Rust: taskbar, file manager, NT… | 1421 | +1341 |
-| 80.9 | 🟢 窗口内 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast) | Non-invasive MCP accelerator plugin for Google Antigravity (… | 845 | +845 |
-| 79.4 | 🟢 窗口内 | [s1dashu/quiet-md](https://github.com/s1dashu/quiet-md) | Blazing-fast native notes app and rich-text editor for macOS… | 2699 | +748 |
-| 75.3 | 🟢 窗口内 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot) | Open-source, local-first AI agent team for your desktop: mul… | 529 | +529 |
-| 74.7 | 🆕 🟢 窗口内 | [qianyiai/kurocat](https://github.com/qianyiai/kurocat) | KuroCat — Free open-source desktop typing cat pet & OBS over… | 503 | +503 |
-| 60.5 | 🟡 在降温 | [huggingface/pybot](https://github.com/huggingface/pybot) | PyBot: a chatbot written in pure Python by a swarm of agents… | 1156 | +422 |
-| 58.1 | 🟡 在降温 | [DIYgod/pinky](https://github.com/DIYgod/pinky) | Let AI use your iPhone or Android phone, with you in the loo… | 2737 | +332 |
-| 57.8 | 🟡 在降温 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki) | Poki uses your iPhone like you do. An open-source agent app… | 1900 | +322 |
+| 94 | 🟢 窗口内 | [iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping) | Paste a link, get captioned 9:16 clips in ~2 min. Free, loca… | 2532 | +2532 |
+| 90.8 | 🟢 窗口内 | [pierridotite/mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers) | 20 AI testers on 20 different phones, in parallel, on GitHub… | 1971 | +1929 |
+| 87.5 | 🟢 窗口内 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) | Agent skill for hill-climbing local LLM serving speed (decod… | 2619 | +1463 |
+| 86.5 | 🟢 窗口内 | [Lemxy/WinRust](https://github.com/Lemxy/WinRust) | Windows shell replacement in Rust: taskbar, file manager, NT… | 1500 | +1348 |
+| 86.4 | 🟢 窗口内 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast) | Non-invasive MCP accelerator plugin for Google Antigravity (… | 1340 | +1334 |
+| 80.7 | 🆕 🟢 窗口内 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking) | Agent skill: turn four pixel art views into fake-3D sprites… | 834 | +834 |
+| 80.1 | 🟢 窗口内 | [qianyiai/kurocat](https://github.com/qianyiai/kurocat) | KuroCat — Free open-source desktop typing cat pet & OBS over… | 791 | +791 |
+| 79.6 | 🟢 窗口内 | [s1dashu/quiet-md](https://github.com/s1dashu/quiet-md) | Blazing-fast native notes app and rich-text editor for macOS… | 2743 | +758 |
+| 76.2 | 🟢 窗口内 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot) | Open-source, local-first AI agent team for your desktop: mul… | 571 | +571 |
+| 72.5 | 🆕 🟢 窗口内 | [tweak-for-me/impulse](https://github.com/tweak-for-me/impulse) | Lightweight alternative Windows client for game trainers: ho… | 418 | +418 |
 
-**🚀 爆发**：[Marvisak/VIctory](https://github.com/Marvisak/VIctory) 每天 +6883 · [ivall/xcl](https://github.com/ivall/xcl) 每天 +1581 · [Hut-hzf/ung220z-tool](https://github.com/Hut-hzf/ung220z-tool) 每天 +444 · [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) 每天 +1207 · [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) 每天 +1133
+**🚀 爆发**：[Marvisak/VIctory](https://github.com/Marvisak/VIctory) 每天 +8250 · [fxceless/victory-fork](https://github.com/fxceless/victory-fork) 每天 +2407 · [xcl-dev/xcl](https://github.com/xcl-dev/xcl) 每天 +1784 · [4lwayz/portwatch-vi](https://github.com/4lwayz/portwatch-vi) 每天 +933 · [ubiquitarianism/leonida](https://github.com/ubiquitarianism/leonida) 每天 +1521
 
-**复盘**（最近 60 天，起来了 / 复盘了）：🚀 爆发 53/75 · 🔴 先核对 25/43 · 🟡 在降温 0/6 · 🔵 已被发现 1/3 · 💤 不活跃 0/1 · 🟢 窗口内 11/24
+**复盘**（最近 60 天，起来了 / 复盘了）：🚀 爆发 55/77 · 🔴 先核对 25/43 · 🟡 在降温 0/6 · 🔵 已被发现 2/4 · 💤 不活跃 0/1 · 🟢 窗口内 11/25
 
-**趋势**：`claude-code` 28 个 · `codex` 22 个 · `ai-agents` 18 个 · `mcp-server` 18 个 · `model-context-protocol` 16 个 · `windows` 15 个
+**趋势**：`claude-code` 29 个 · `codex` 22 个 · `ai-agents` 21 个 · `windows` 19 个 · `mcp-server` 16 个 · `model-context-protocol` 13 个
 
 ### 最近 14 期
 
 | 日期 | 候选 | 🆕 | 🟢 窗口内 | 🚀 爆发 | 头条 |
 | --- | ---: | ---: | ---: | ---: | --- |
+| [2026-11-25](radar/2026/11/2026-11-25.md) | 106 | 13 | 11 | 15 | [iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping) |
 | [2026-11-24](radar/2026/11/2026-11-24.md) | 104 | 9 | 7 | 15 | [iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping) |
 | [2026-11-23](radar/2026/11/2026-11-23.md) | 100 | 6 | 8 | 15 | [bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) |
 | [2026-11-22](radar/2026/11/2026-11-22.md) | 99 | 5 | 8 | 15 | [bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) |
@@ -59,6 +60,5 @@
 | [2026-11-14](radar/2026/11/2026-11-14.md) | 99 | 3 | 6 | 15 | [DIYgod/pinky](https://github.com/DIYgod/pinky) |
 | [2026-11-13](radar/2026/11/2026-11-13.md) | 98 | 4 | 7 | 15 | [DIYgod/pinky](https://github.com/DIYgod/pinky) |
 | [2026-11-12](radar/2026/11/2026-11-12.md) | 99 | 2 | 6 | 15 | [DIYgod/pinky](https://github.com/DIYgod/pinky) |
-| [2026-11-11](radar/2026/11/2026-11-11.md) | 101 | 6 | 5 | 15 | [sarpstar/cinecode](https://github.com/sarpstar/cinecode) |
 
 <!-- radar:end -->
