@@ -19,33 +19,34 @@
 
 <!-- radar:start -->
 
-### 最新一期：2026-11-25
+### 最新一期：2026-11-26
 
-[完整选题单](radar/latest.md) · [历史](radar/README.md) · 候选 106 个，细查 20 个，🟢 窗口内 11 个
+[完整选题单](radar/latest.md) · [历史](radar/README.md) · 候选 106 个，细查 20 个，🟢 窗口内 14 个
 
 | 分 | 判断 | 仓库 | 一句话 | star | 近 7 天 |
 | ---: | --- | --- | --- | ---: | ---: |
-| 94 | 🟢 窗口内 | [iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping) | Paste a link, get captioned 9:16 clips in ~2 min. Free, loca… | 2532 | +2532 |
-| 90.8 | 🟢 窗口内 | [pierridotite/mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers) | 20 AI testers on 20 different phones, in parallel, on GitHub… | 1971 | +1929 |
-| 87.5 | 🟢 窗口内 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) | Agent skill for hill-climbing local LLM serving speed (decod… | 2619 | +1463 |
-| 86.5 | 🟢 窗口内 | [Lemxy/WinRust](https://github.com/Lemxy/WinRust) | Windows shell replacement in Rust: taskbar, file manager, NT… | 1500 | +1348 |
-| 86.4 | 🟢 窗口内 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast) | Non-invasive MCP accelerator plugin for Google Antigravity (… | 1340 | +1334 |
-| 80.7 | 🆕 🟢 窗口内 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking) | Agent skill: turn four pixel art views into fake-3D sprites… | 834 | +834 |
-| 80.1 | 🟢 窗口内 | [qianyiai/kurocat](https://github.com/qianyiai/kurocat) | KuroCat — Free open-source desktop typing cat pet & OBS over… | 791 | +791 |
-| 79.6 | 🟢 窗口内 | [s1dashu/quiet-md](https://github.com/s1dashu/quiet-md) | Blazing-fast native notes app and rich-text editor for macOS… | 2743 | +758 |
-| 76.2 | 🟢 窗口内 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot) | Open-source, local-first AI agent team for your desktop: mul… | 571 | +571 |
-| 72.5 | 🆕 🟢 窗口内 | [tweak-for-me/impulse](https://github.com/tweak-for-me/impulse) | Lightweight alternative Windows client for game trainers: ho… | 418 | +418 |
+| 93.1 | 🟢 窗口内 | [pierridotite/mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers) | 20 AI testers on 20 different phones, in parallel, on GitHub… | 2390 | +2344 |
+| 91.2 | 🟢 窗口内 | [iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping) | Paste a link, get captioned 9:16 clips in ~2 min. Free, loca… | 2645 | +1989 |
+| 88.1 | 🟢 窗口内 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast) | Non-invasive MCP accelerator plugin for Google Antigravity (… | 1585 | +1545 |
+| 87.5 | 🟢 窗口内 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) | Agent skill for hill-climbing local LLM serving speed (decod… | 2731 | +1462 |
+| 86.1 | 🟢 窗口内 | [Avaneesh-Inamdar/Stream-Tube-Desktop](https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop) | Native YouTube client for Windows in Rust, with SponsorBlock… | 1309 | +1309 |
+| 84.7 | 🟢 窗口内 | [qianyiai/kurocat](https://github.com/qianyiai/kurocat) | KuroCat — Free open-source 3D/2D desktop typing cat & AI cod… | 1165 | +1165 |
+| 83.9 | 🟢 窗口内 | [Lemxy/WinRust](https://github.com/Lemxy/WinRust) | Windows shell replacement in Rust: taskbar, file manager, NT… | 1582 | +1083 |
+| 82.5 | 🟢 窗口内 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking) | Agent skill: turn four pixel art views into fake-3D sprites… | 962 | +963 |
+| 81.5 | 🟢 窗口内 | [s1dashu/quiet-md](https://github.com/s1dashu/quiet-md) | Blazing-fast native notes app and rich-text editor for macOS… | 2906 | +893 |
+| 79.5 | 🟢 窗口内 | [Ahmet-Dedeler/awesome-gta6-reverse-engineering](https://github.com/Ahmet-Dedeler/awesome-gta6-reverse-engineering) | Curated list of open-source GTA VI (GTA 6) reverse engineeri… | 755 | +755 |
 
-**🚀 爆发**：[Marvisak/VIctory](https://github.com/Marvisak/VIctory) 每天 +8250 · [fxceless/victory-fork](https://github.com/fxceless/victory-fork) 每天 +2407 · [xcl-dev/xcl](https://github.com/xcl-dev/xcl) 每天 +1784 · [4lwayz/portwatch-vi](https://github.com/4lwayz/portwatch-vi) 每天 +933 · [ubiquitarianism/leonida](https://github.com/ubiquitarianism/leonida) 每天 +1521
+**🚀 爆发**：[Marvisak/VIctory](https://github.com/Marvisak/VIctory) 每天 +5290 · [fxceless/victory-fork](https://github.com/fxceless/victory-fork) 每天 +2004 · [Belobug/VIctory-Belobug-AMD](https://github.com/Belobug/VIctory-Belobug-AMD) 每天 +1692 · [xcl-dev/xcl](https://github.com/xcl-dev/xcl) 每天 +1527 · [4lwayz/portwatch-vi](https://github.com/4lwayz/portwatch-vi) 每天 +1050
 
-**复盘**（最近 60 天，起来了 / 复盘了）：🚀 爆发 55/77 · 🔴 先核对 25/43 · 🟡 在降温 0/6 · 🔵 已被发现 2/4 · 💤 不活跃 0/1 · 🟢 窗口内 11/25
+**复盘**（最近 60 天，起来了 / 复盘了）：🚀 爆发 55/77 · 🔴 先核对 26/44 · 🟡 在降温 0/6 · 🔵 已被发现 3/5 · 💤 不活跃 0/1 · 🟢 窗口内 11/25
 
-**趋势**：`claude-code` 29 个 · `codex` 22 个 · `ai-agents` 21 个 · `windows` 19 个 · `mcp-server` 16 个 · `model-context-protocol` 13 个
+**趋势**：`claude-code` 30 个 · `codex` 23 个 · `ai-agents` 22 个 · `windows` 22 个 · `mcp-server` 17 个 · `model-context-protocol` 14 个
 
 ### 最近 14 期
 
 | 日期 | 候选 | 🆕 | 🟢 窗口内 | 🚀 爆发 | 头条 |
 | --- | ---: | ---: | ---: | ---: | --- |
+| [2026-11-26](radar/2026/11/2026-11-26.md) | 106 | 10 | 14 | 15 | [pierridotite/mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers) |
 | [2026-11-25](radar/2026/11/2026-11-25.md) | 106 | 13 | 11 | 15 | [iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping) |
 | [2026-11-24](radar/2026/11/2026-11-24.md) | 104 | 9 | 7 | 15 | [iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping) |
 | [2026-11-23](radar/2026/11/2026-11-23.md) | 100 | 6 | 8 | 15 | [bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) |
@@ -59,6 +60,5 @@
 | [2026-11-15](radar/2026/11/2026-11-15.md) | 98 | 12 | 4 | 15 | [shinyobjectz/raea](https://github.com/shinyobjectz/raea) |
 | [2026-11-14](radar/2026/11/2026-11-14.md) | 99 | 3 | 6 | 15 | [DIYgod/pinky](https://github.com/DIYgod/pinky) |
 | [2026-11-13](radar/2026/11/2026-11-13.md) | 98 | 4 | 7 | 15 | [DIYgod/pinky](https://github.com/DIYgod/pinky) |
-| [2026-11-12](radar/2026/11/2026-11-12.md) | 99 | 2 | 6 | 15 | [DIYgod/pinky](https://github.com/DIYgod/pinky) |
 
 <!-- radar:end -->
