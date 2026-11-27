@@ -19,33 +19,34 @@
 
 <!-- radar:start -->
 
-### 最新一期：2026-11-26
+### 最新一期：2026-11-27
 
-[完整选题单](radar/latest.md) · [历史](radar/README.md) · 候选 106 个，细查 20 个，🟢 窗口内 14 个
+[完整选题单](radar/latest.md) · [历史](radar/README.md) · 候选 105 个，细查 20 个，🟢 窗口内 14 个
 
 | 分 | 判断 | 仓库 | 一句话 | star | 近 7 天 |
 | ---: | --- | --- | --- | ---: | ---: |
-| 93.1 | 🟢 窗口内 | [pierridotite/mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers) | 20 AI testers on 20 different phones, in parallel, on GitHub… | 2390 | +2344 |
-| 91.2 | 🟢 窗口内 | [iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping) | Paste a link, get captioned 9:16 clips in ~2 min. Free, loca… | 2645 | +1989 |
-| 88.1 | 🟢 窗口内 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast) | Non-invasive MCP accelerator plugin for Google Antigravity (… | 1585 | +1545 |
-| 87.5 | 🟢 窗口内 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) | Agent skill for hill-climbing local LLM serving speed (decod… | 2731 | +1462 |
-| 86.1 | 🟢 窗口内 | [Avaneesh-Inamdar/Stream-Tube-Desktop](https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop) | Native YouTube client for Windows in Rust, with SponsorBlock… | 1309 | +1309 |
-| 84.7 | 🟢 窗口内 | [qianyiai/kurocat](https://github.com/qianyiai/kurocat) | KuroCat — Free open-source 3D/2D desktop typing cat & AI cod… | 1165 | +1165 |
-| 83.9 | 🟢 窗口内 | [Lemxy/WinRust](https://github.com/Lemxy/WinRust) | Windows shell replacement in Rust: taskbar, file manager, NT… | 1582 | +1083 |
-| 82.5 | 🟢 窗口内 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking) | Agent skill: turn four pixel art views into fake-3D sprites… | 962 | +963 |
-| 81.5 | 🟢 窗口内 | [s1dashu/quiet-md](https://github.com/s1dashu/quiet-md) | Blazing-fast native notes app and rich-text editor for macOS… | 2906 | +893 |
-| 79.5 | 🟢 窗口内 | [Ahmet-Dedeler/awesome-gta6-reverse-engineering](https://github.com/Ahmet-Dedeler/awesome-gta6-reverse-engineering) | Curated list of open-source GTA VI (GTA 6) reverse engineeri… | 755 | +755 |
+| 93.9 | 🟢 窗口内 | [pierridotite/mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers) | 20 AI testers on 20 different phones, in parallel, on GitHub… | 2545 | +2496 |
+| 88.5 | 🆕 🟢 窗口内 | [qianyiai/KuroCat](https://github.com/qianyiai/KuroCat) | KuroCat — Free open-source 3D/2D desktop typing cat & AI cod… | 1589 | +1589 |
+| 88.5 | 🟢 窗口内 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast) | Non-invasive MCP accelerator plugin for Google Antigravity (… | 1799 | +1592 |
+| 88.3 | 🟢 窗口内 | [Avaneesh-Inamdar/Stream-Tube-Desktop](https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop) | Native YouTube client for Windows in Rust, with SponsorBlock… | 1562 | +1562 |
+| 87.5 | 🟢 窗口内 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) | Agent skill for hill-climbing local LLM serving speed (decod… | 2840 | +1464 |
+| 87.1 | 🟢 窗口内 | [iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping) | Paste a link, get captioned 9:16 clips in ~2 min. Free, loca… | 2797 | +1414 |
+| 81.1 | 🟢 窗口内 | [Lemxy/WinRust](https://github.com/Lemxy/WinRust) | Windows shell replacement in Rust: taskbar, file manager, NT… | 1658 | +863 |
+| 81 | 🟢 窗口内 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking) | Agent skill: turn four pixel art views into fake-3D sprites… | 1051 | +852 |
+| 80.7 | 🟢 窗口内 | [xikhar/papercraft](https://github.com/xikhar/papercraft) | Agent skill to build games, interactive scenes, web pages an… | 860 | +832 |
+| 80.3 | 🟢 窗口内 | [Ahmet-Dedeler/awesome-gta6-reverse-engineering](https://github.com/Ahmet-Dedeler/awesome-gta6-reverse-engineering) | Curated list of open-source GTA VI (GTA 6) reverse engineeri… | 805 | +805 |
 
-**🚀 爆发**：[Marvisak/VIctory](https://github.com/Marvisak/VIctory) 每天 +5290 · [fxceless/victory-fork](https://github.com/fxceless/victory-fork) 每天 +2004 · [Belobug/VIctory-Belobug-AMD](https://github.com/Belobug/VIctory-Belobug-AMD) 每天 +1692 · [xcl-dev/xcl](https://github.com/xcl-dev/xcl) 每天 +1527 · [4lwayz/portwatch-vi](https://github.com/4lwayz/portwatch-vi) 每天 +1050
+**🚀 爆发**：[Marvisak/VIctory](https://github.com/Marvisak/VIctory) 每天 +3952 · [Belobug/VIctory-Belobug-AMD](https://github.com/Belobug/VIctory-Belobug-AMD) 每天 +1843 · [4lwayz/portwatch-vi](https://github.com/4lwayz/portwatch-vi) 每天 +1138 · [avatarmanz/VIctory-7900XTX](https://github.com/avatarmanz/VIctory-7900XTX) 每天 +1344 · [xcl-dev/xcl](https://github.com/xcl-dev/xcl) 每天 +1331
 
-**复盘**（最近 60 天，起来了 / 复盘了）：🚀 爆发 55/77 · 🔴 先核对 26/44 · 🟡 在降温 0/6 · 🔵 已被发现 3/5 · 💤 不活跃 0/1 · 🟢 窗口内 11/25
+**复盘**（最近 60 天，起来了 / 复盘了）：🚀 爆发 57/80 · 🔴 先核对 27/45 · 🟡 在降温 0/6 · 🔵 已被发现 3/5 · 💤 不活跃 0/1 · 🟢 窗口内 11/25
 
-**趋势**：`claude-code` 30 个 · `codex` 23 个 · `ai-agents` 22 个 · `windows` 22 个 · `mcp-server` 17 个 · `model-context-protocol` 14 个
+**趋势**：`claude-code` 28 个 · `windows` 24 个 · `codex` 21 个 · `ai-agents` 20 个 · `mcp-server` 16 个 · `model-context-protocol` 13 个
 
 ### 最近 14 期
 
 | 日期 | 候选 | 🆕 | 🟢 窗口内 | 🚀 爆发 | 头条 |
 | --- | ---: | ---: | ---: | ---: | --- |
+| [2026-11-27](radar/2026/11/2026-11-27.md) | 105 | 9 | 14 | 15 | [pierridotite/mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers) |
 | [2026-11-26](radar/2026/11/2026-11-26.md) | 106 | 10 | 14 | 15 | [pierridotite/mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers) |
 | [2026-11-25](radar/2026/11/2026-11-25.md) | 106 | 13 | 11 | 15 | [iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping) |
 | [2026-11-24](radar/2026/11/2026-11-24.md) | 104 | 9 | 7 | 15 | [iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping) |
@@ -59,6 +60,5 @@
 | [2026-11-16](radar/2026/11/2026-11-16.md) | 95 | 13 | 5 | 15 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) |
 | [2026-11-15](radar/2026/11/2026-11-15.md) | 98 | 12 | 4 | 15 | [shinyobjectz/raea](https://github.com/shinyobjectz/raea) |
 | [2026-11-14](radar/2026/11/2026-11-14.md) | 99 | 3 | 6 | 15 | [DIYgod/pinky](https://github.com/DIYgod/pinky) |
-| [2026-11-13](radar/2026/11/2026-11-13.md) | 98 | 4 | 7 | 15 | [DIYgod/pinky](https://github.com/DIYgod/pinky) |
 
 <!-- radar:end -->

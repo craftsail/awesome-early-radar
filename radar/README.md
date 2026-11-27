@@ -4,6 +4,7 @@
 
 | 日期 | 候选 | 🆕 | 🟢 窗口内 | 🚀 爆发 | 头条 |
 | --- | ---: | ---: | ---: | ---: | --- |
+| [2026-11-27](2026/11/2026-11-27.md) | 105 | 9 | 14 | 15 | [pierridotite/mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers) |
 | [2026-11-26](2026/11/2026-11-26.md) | 106 | 10 | 14 | 15 | [pierridotite/mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers) |
 | [2026-11-25](2026/11/2026-11-25.md) | 106 | 13 | 11 | 15 | [iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping) |
 | [2026-11-24](2026/11/2026-11-24.md) | 104 | 9 | 7 | 15 | [iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping) |
